@@ -1,0 +1,67 @@
+{
+  "id": "equine_veterinary_practices",
+  "displayName": "Equine Veterinary Practices",
+  "plural": "Equine Veterinary Practices",
+  "heroTagline": "Expert Horse Care",
+  "ctaLabel": "Book an Appointment",
+  "trustBadges": [
+    "RCVS Registered",
+    "BVA Equine Accredited",
+    "Animal Welfare Approved"
+  ],
+  "services": [
+    {
+      "icon": "Stethoscope",
+      "title": "Routine Check-Ups",
+      "body": "Annual health checks and vaccinations for horses"
+    },
+    {
+      "icon": "Droplets",
+      "title": "Emergency Care",
+      "body": "24/7 emergency veterinary services for urgent cases"
+    },
+    {
+      "icon": "Heart",
+      "title": "Surgical Procedures",
+      "body": "Specialised surgeries including orthopaedic and soft tissue procedures"
+    },
+    {
+      "icon": "Dog",
+      "title": "Rehabilitation Services",
+      "body": "Post-surgery rehabilitation programmes for faster recovery"
+    },
+    {
+      "icon": "Shield",
+      "title": "Pre-Purchase Exams",
+      "body": "Comprehensive vet checks before buying a horse"
+    },
+    {
+      "icon": "Leaf",
+      "title": "Nutritional Advice",
+      "body": "Tailored diet plans to support your horse's health and performance"
+    }
+  ],
+  "palette": {
+    "primary": "#dc2626",
+    "primaryHover": "#b91c1c",
+    "secondary": "#0d9488"
+  },
+  "faqs": [
+    {
+      "q": "Are you RCVS registered?",
+      "a": "Yes, all our veterinarians are fully RCVS registered."
+    },
+    {
+      "q": "Do you offer emergency services?",
+      "a": "Absolutely. We provide round-the-clock emergency care for your horses."
+    },
+    {
+      "q": "Can I get a pre-purchase exam?",
+      "a": "Yes, we conduct thorough pre-purchase examinations to ensure the health of potential new horses."
+    },
+    {
+      "q": "How do I book an appointment?",
+      "a": "You can call us or use our online booking form for scheduling appointments."
+    }
+  ]
+}

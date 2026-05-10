@@ -1,0 +1,67 @@
+{
+  "id": "personal_training_studios_independent",
+  "displayName": "Personal Training Studios (Independent)",
+  "plural": "Personal Training Studios (Independent)s",
+  "heroTagline": "Local Fitness Experts",
+  "ctaLabel": "Book Your Session",
+  "trustBadges": [
+    "REPs Registered",
+    "First Aid Certified",
+    "Gym Equipment Warranty"
+  ],
+  "services": [
+    {
+      "icon": "Dumbbell",
+      "title": "Personal Training",
+      "body": "Customized workout plans for your fitness goals."
+    },
+    {
+      "icon": "Heart",
+      "title": "Cardio Sessions",
+      "body": "High-intensity interval training and more."
+    },
+    {
+      "icon": "Stethoscope",
+      "title": "Health Assessments",
+      "body": "Comprehensive health evaluations to track progress."
+    },
+    {
+      "icon": "Tool",
+      "title": "Equipment Training",
+      "body": "Learn how to use gym equipment safely and effectively."
+    },
+    {
+      "icon": "Clock",
+      "title": "Flexible Scheduling",
+      "body": "Book sessions at your convenience with flexible hours."
+    },
+    {
+      "icon": "Cake",
+      "title": "Nutrition Consultation",
+      "body": "Personalized diet plans to complement your training."
+    }
+  ],
+  "palette": {
+    "primary": "#7c3aed",
+    "primaryHover": "#642d9a",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are trainers certified?",
+      "a": "Yes, all our trainers are REPs registered and first aid certified."
+    },
+    {
+      "q": "Can I book a session online?",
+      "a": "Absolutely. You can book sessions through our website or by calling us."
+    },
+    {
+      "q": "Do you offer nutrition advice?",
+      "a": "Yes, we provide personalized nutrition consultations to support your fitness goals."
+    },
+    {
+      "q": "What if I have a medical condition?",
+      "a": "We can accommodate most conditions. Please inform us of any health issues before starting."
+    }
+  ]
+}

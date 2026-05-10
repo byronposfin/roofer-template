@@ -1,0 +1,67 @@
+{
+  "id": "nutritionist",
+  "displayName": "Nutritionist",
+  "plural": "Nutritionists",
+  "heroTagline": "Personalised Diet Plans",
+  "ctaLabel": "Book Your Consultation",
+  "trustBadges": [
+    "Registered Nutritionist (RNutr)",
+    "BSc in Human Nutrition",
+    "Member of BDA"
+  ],
+  "services": [
+    {
+      "icon": "Leaf",
+      "title": "Weight Management Plans",
+      "body": "Tailored diets for weight loss or gain."
+    },
+    {
+      "icon": "Droplets",
+      "title": "Hydration Assessments",
+      "body": "Personalised hydration plans and advice."
+    },
+    {
+      "icon": "ChefHat",
+      "title": "Meal Planning Services",
+      "body": "Weekly meal plans for busy lifestyles."
+    },
+    {
+      "icon": "Utensils",
+      "title": "Nutritional Counseling",
+      "body": "One-on-one sessions to address dietary concerns."
+    },
+    {
+      "icon": "Cake",
+      "title": "Special Diets Consultation",
+      "body": "Support for gluten-free, vegan and other special diets."
+    },
+    {
+      "icon": "Heart",
+      "title": "Cardiovascular Health Plans",
+      "body": "Nutritional advice to improve heart health."
+    }
+  ],
+  "palette": {
+    "primary": "#16a34a",
+    "primaryHover": "#0f766e",
+    "secondary": "#2563eb"
+  },
+  "faqs": [
+    {
+      "q": "Are you a registered nutritionist?",
+      "a": "Yes, I am a Registered Nutritionist (RNutr) with the Association for Nutrition."
+    },
+    {
+      "q": "Do you offer meal planning services?",
+      "a": "Absolutely. We provide customised weekly meal plans to fit your lifestyle and goals."
+    },
+    {
+      "q": "Can you help me with a special diet?",
+      "a": "Yes, we can support various dietary needs including gluten-free, vegan, and more."
+    },
+    {
+      "q": "How do I schedule an appointment?",
+      "a": "You can book your consultation online or by calling our office directly."
+    }
+  ]
+}

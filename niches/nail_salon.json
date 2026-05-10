@@ -1,0 +1,67 @@
+{
+  "id": "nail_salon",
+  "displayName": "Nail Salon",
+  "plural": "Nail Salons",
+  "heroTagline": "Glamorous Nails Nearby",
+  "ctaLabel": "Book Your Appointment",
+  "trustBadges": [
+    "BIA Approved",
+    "Sanitised Workspace",
+    "Licensed Professionals"
+  ],
+  "services": [
+    {
+      "icon": "PaintBucket",
+      "title": "Manicures & Pedicures",
+      "body": "Classic and gel polish services available."
+    },
+    {
+      "icon": "Scissors",
+      "title": "Nail Shaping & Trimming",
+      "body": "Precision shaping for natural-looking nails."
+    },
+    {
+      "icon": "Droplets",
+      "title": "Hydrating Hand Treatments",
+      "body": "Moisturising hand and arm massages."
+    },
+    {
+      "icon": "Heart",
+      "title": "Nail Art Designs",
+      "body": "Custom nail art with seasonal designs."
+    },
+    {
+      "icon": "Tool",
+      "title": "Acrylic Nails",
+      "body": "Strengthen and lengthen your nails."
+    },
+    {
+      "icon": "Shield",
+      "title": "Sanitisation Services",
+      "body": "Guaranteed clean tools for every client."
+    }
+  ],
+  "palette": {
+    "primary": "#7c3aed",
+    "primaryHover": "#642e9a",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are your nail technicians licensed?",
+      "a": "Yes, all our professionals are fully licensed and trained."
+    },
+    {
+      "q": "Do you offer sanitisation services?",
+      "a": "Absolutely. We ensure all tools are sterilised before each use."
+    },
+    {
+      "q": "Can I book an appointment online?",
+      "a": "Yes, simply fill out our contact form or call us to schedule your visit."
+    },
+    {
+      "q": "Do you provide nail art services?",
+      "a": "Certainly! We offer a variety of custom nail art designs."
+    }
+  ]
+}

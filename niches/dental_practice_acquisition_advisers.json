@@ -1,0 +1,67 @@
+{
+  "id": "dental_practice_acquisition_advisers",
+  "displayName": "Dental Practice Acquisition Advisers",
+  "plural": "Dental Practice Acquisition Advisers",
+  "heroTagline": "Expert dental acquisition advice",
+  "ctaLabel": "Consult Now",
+  "trustBadges": [
+    "General Dental Council Registered",
+    "Chartered Institute of Management Accountants Member",
+    "Association of Chartered Certified Accountants Approved"
+  ],
+  "services": [
+    {
+      "icon": "Stethoscope",
+      "title": "Practice Valuation",
+      "body": "Accurate valuation services for dental practices."
+    },
+    {
+      "icon": "Smile",
+      "title": "Acquisition Support",
+      "body": "Guidance through the entire acquisition process."
+    },
+    {
+      "icon": "Droplets",
+      "title": "Financial Due Diligence",
+      "body": "Thorough financial checks to ensure transparency."
+    },
+    {
+      "icon": "Shield",
+      "title": "Legal Compliance Review",
+      "body": "Ensuring all legal requirements are met for acquisition."
+    },
+    {
+      "icon": "Settings",
+      "title": "Practice Transition Planning",
+      "body": "Smooth transition plans for new owners."
+    },
+    {
+      "icon": "Tool",
+      "title": "Regulatory Compliance Assistance",
+      "body": "Helping practices meet all regulatory standards post-acquisition."
+    }
+  ],
+  "palette": {
+    "primary": "#2563eb",
+    "primaryHover": "#1d4ed8",
+    "secondary": "#0f766e"
+  },
+  "faqs": [
+    {
+      "q": "Are you registered with the General Dental Council?",
+      "a": "Yes, all our advisers are fully registered and compliant."
+    },
+    {
+      "q": "What services do you offer for dental practice acquisitions?",
+      "a": "We provide valuation, acquisition support, financial due diligence, legal compliance review, transition planning, and regulatory assistance."
+    },
+    {
+      "q": "How long does the acquisition process typically take?",
+      "a": "The timeline varies based on the complexity of the transaction but generally ranges from 3 to 6 months."
+    },
+    {
+      "q": "Can you assist with post-acquisition compliance?",
+      "a": "Absolutely, we offer comprehensive support to ensure your practice meets all regulatory requirements after acquisition."
+    }
+  ]
+}

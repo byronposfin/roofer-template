@@ -1,0 +1,67 @@
+{
+  "id": "builder",
+  "displayName": "Builder",
+  "plural": "Builders",
+  "heroTagline": "Local Building Experts",
+  "ctaLabel": "Get a Free Quote",
+  "trustBadges": [
+    "NHBC Registered",
+    "SafeContractor Approved",
+    "FMB Member"
+  ],
+  "services": [
+    {
+      "icon": "Hammer",
+      "title": "Extensions and Renovations",
+      "body": "Expertly extend or renovate your home with our skilled builders."
+    },
+    {
+      "icon": "Home",
+      "title": "New Builds",
+      "body": "From the ground up, we construct new homes to your specifications."
+    },
+    {
+      "icon": "PaintBucket",
+      "title": "Interior and Exterior Painting",
+      "body": "Transform your home with our professional painting services."
+    },
+    {
+      "icon": "Truck",
+      "title": "Demolition Services",
+      "body": "Safe and efficient demolition of structures for renovation or new builds."
+    },
+    {
+      "icon": "Trees",
+      "title": "Landscaping and Gardening",
+      "body": "Create beautiful outdoor spaces with our landscaping services."
+    },
+    {
+      "icon": "Tool",
+      "title": "Plumbing Installations",
+      "body": "Professional plumbing installations for new builds or renovations."
+    }
+  ],
+  "palette": {
+    "primary": "#0d9488",
+    "primaryHover": "#0f766e",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are you NHBC registered?",
+      "a": "Yes, we are NHBC registered builders ensuring quality and peace of mind."
+    },
+    {
+      "q": "Do you offer a warranty on your work?",
+      "a": "Absolutely. We provide comprehensive warranties for all our building projects."
+    },
+    {
+      "q": "Can you handle planning permissions?",
+      "a": "Yes, we assist with the entire process including obtaining necessary approvals."
+    },
+    {
+      "q": "How do I get a quote?",
+      "a": "Simply contact us via phone or fill out our online form for a quick response."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "space_technology_commercialisation",
+  "displayName": "Space Technology Commercialisation",
+  "plural": "Space Technology Commercialisations",
+  "heroTagline": "Innovative Space Solutions",
+  "ctaLabel": "Contact Us Today",
+  "trustBadges": [
+    "ISO 9001 Certified",
+    "ESA Partner",
+    "UKSA Registered"
+  ],
+  "services": [
+    {
+      "icon": "Rocket",
+      "title": "Satellite Deployment",
+      "body": "Full lifecycle management from design to launch."
+    },
+    {
+      "icon": "ShieldCheck",
+      "title": "Space Safety Audits",
+      "body": "Comprehensive risk assessments and compliance checks."
+    },
+    {
+      "icon": "Lightbulb",
+      "title": "Innovative Propulsion Systems",
+      "body": "Advanced propulsion solutions for efficient space travel."
+    },
+    {
+      "icon": "Hammer",
+      "title": "Spacecraft Assembly",
+      "body": "Precision assembly of spacecraft components and systems."
+    },
+    {
+      "icon": "PlugZap",
+      "title": "Ground Station Integration",
+      "body": "Seamless integration with ground station infrastructure."
+    },
+    {
+      "icon": "Tool",
+      "title": "Custom Space Solutions",
+      "body": "Tailored space technology solutions for unique business needs."
+    }
+  ],
+  "palette": {
+    "primary": "#2563eb",
+    "primaryHover": "#1d4ed8",
+    "secondary": "#0f766e"
+  },
+  "faqs": [
+    {
+      "q": "Are you ISO certified?",
+      "a": "Yes, we are ISO 9001 certified for quality management."
+    },
+    {
+      "q": "Do you work with ESA?",
+      "a": "We collaborate closely as an official ESA Partner."
+    },
+    {
+      "q": "How do I get a quote?",
+      "a": "Contact us via our website or call directly to discuss your project."
+    },
+    {
+      "q": "What kind of projects do you handle?",
+      "a": "We specialize in satellite deployment, propulsion systems, and custom space solutions."
+    }
+  ]
+}

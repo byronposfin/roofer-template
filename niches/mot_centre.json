@@ -1,0 +1,67 @@
+{
+  "id": "mot_centre",
+  "displayName": "MOT Centre",
+  "plural": "MOT Centres",
+  "heroTagline": "Local MOT Specialists",
+  "ctaLabel": "Book Your Test Today",
+  "trustBadges": [
+    "Fully Accredited",
+    "VAQAS Approved",
+    "Expert Technicians"
+  ],
+  "services": [
+    {
+      "icon": "Truck",
+      "title": "MOT Testing",
+      "body": "Comprehensive MOT tests for all vehicle types"
+    },
+    {
+      "icon": "Wrench",
+      "title": "Vehicle Repairs",
+      "body": "Fixes to pass your MOT test"
+    },
+    {
+      "icon": "Lightbulb",
+      "title": "Electrical Checks",
+      "body": "Ensure all lights and electrical systems are in order"
+    },
+    {
+      "icon": "Car",
+      "title": "Brake Inspections",
+      "body": "Check brake pads, discs, and fluid levels"
+    },
+    {
+      "icon": "Shield",
+      "title": "Safety Checks",
+      "body": "Inspect tyres, exhausts, and suspension systems"
+    },
+    {
+      "icon": "Tool",
+      "title": "Pre-MOT Service",
+      "body": "Prepare your vehicle for a successful MOT test"
+    }
+  ],
+  "palette": {
+    "primary": "#2563eb",
+    "primaryHover": "#1d4ed8",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Do you offer a pre-MOT service?",
+      "a": "Yes, we provide a comprehensive pre-MOT service to ensure your vehicle passes the test."
+    },
+    {
+      "q": "How long does an MOT test take?",
+      "a": "Typically, an MOT test takes around 45 minutes to complete."
+    },
+    {
+      "q": "Can you fix issues found during the MOT?",
+      "a": "Yes, we can repair any faults identified during your MOT test."
+    },
+    {
+      "q": "Do I need to book in advance?",
+      "a": "We recommend booking in advance to avoid waiting times and ensure availability."
+    }
+  ]
+}

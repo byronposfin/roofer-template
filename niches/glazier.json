@@ -1,0 +1,67 @@
+{
+  "id": "glazier",
+  "displayName": "Glazier",
+  "plural": "Glaziers",
+  "heroTagline": "Local Glass Experts",
+  "ctaLabel": "Get a Free Quote",
+  "trustBadges": [
+    "FENSA Registered",
+    "BS EN 12150 Certified",
+    "Fully Insured"
+  ],
+  "services": [
+    {
+      "icon": "Window",
+      "title": "Double Glazing Installation",
+      "body": "Energy-efficient windows for your home"
+    },
+    {
+      "icon": "Hammer",
+      "title": "Glass Repairs",
+      "body": "Quick and professional glass repairs"
+    },
+    {
+      "icon": "ShieldCheck",
+      "title": "Safety Glass Fitting",
+      "body": "Compliant with BS EN 12150 standards"
+    },
+    {
+      "icon": "Lightbulb",
+      "title": "Conservatory Roof Replacement",
+      "body": "Transform your conservatory with new glass roofs"
+    },
+    {
+      "icon": "PlugZap",
+      "title": "Glass Balustrades Installation",
+      "body": "Modern and secure stair railings"
+    },
+    {
+      "icon": "Tool",
+      "title": "Shower Enclosures Fitting",
+      "body": "Custom shower enclosures for any bathroom"
+    }
+  ],
+  "palette": {
+    "primary": "#0d9488",
+    "primaryHover": "#0f766e",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are you FENSA registered?",
+      "a": "Yes, we are fully FENSA compliant for all installations."
+    },
+    {
+      "q": "Do you offer a warranty on your work?",
+      "a": "Absolutely. We provide a 10-year guarantee on our double glazing installations."
+    },
+    {
+      "q": "Can you handle emergency repairs?",
+      "a": "Yes, we offer same-day service for urgent glass repairs."
+    },
+    {
+      "q": "How do I get a quote?",
+      "a": "You can call us or use our online form to request a free quotation."
+    }
+  ]
+}

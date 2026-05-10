@@ -1,0 +1,67 @@
+{
+  "id": "barber",
+  "displayName": "Barber",
+  "plural": "Barbers",
+  "heroTagline": "Local Hair Experts",
+  "ctaLabel": "Book Your Appointment",
+  "trustBadges": [
+    "City & Guilds Certified",
+    "Member of BCHA",
+    "Sterilisation Guarantee"
+  ],
+  "services": [
+    {
+      "icon": "Scissors",
+      "title": "Classic Haircuts",
+      "body": "Traditional and modern cuts for all hair types"
+    },
+    {
+      "icon": "Shovel",
+      "title": "Facial Hair Trims",
+      "body": "Precision trims for beards, mustaches, and sideburns"
+    },
+    {
+      "icon": "Droplets",
+      "title": "Hair Colouring",
+      "body": "Custom colour treatments to enhance your look"
+    },
+    {
+      "icon": "Tool",
+      "title": "Shave Services",
+      "body": "Hot towel shaves and traditional wet shaving techniques"
+    },
+    {
+      "icon": "Eye",
+      "title": "Eyebrow Shaping",
+      "body": "Professional shaping for a polished look"
+    },
+    {
+      "icon": "Cake",
+      "title": "Special Occasion Cuts",
+      "body": "Custom cuts for weddings, proms, and more"
+    }
+  ],
+  "palette": {
+    "primary": "#7c3aed",
+    "primaryHover": "#642f9a",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Do you offer walk-ins?",
+      "a": "Yes, we accept walk-ins but booking in advance is recommended."
+    },
+    {
+      "q": "Are your tools sterilised?",
+      "a": "Absolutely. We maintain strict hygiene standards and sterilise all tools after each use."
+    },
+    {
+      "q": "Do you provide colour services?",
+      "a": "Yes, we offer a range of hair colouring treatments to suit your needs."
+    },
+    {
+      "q": "How do I book an appointment?",
+      "a": "You can call us or use our online booking system on the website."
+    }
+  ]
+}

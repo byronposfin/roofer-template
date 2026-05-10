@@ -1,0 +1,67 @@
+{
+  "id": "courier_services_same_day_specialist",
+  "displayName": "Courier Services (Same-Day Specialist)",
+  "plural": "Courier Services (Same-Day Specialist)s",
+  "heroTagline": "Swift Local Deliveries",
+  "ctaLabel": "Book Your Delivery",
+  "trustBadges": [
+    "Fully Insured",
+    "DBS Checked Drivers",
+    "UKCA Registered"
+  ],
+  "services": [
+    {
+      "icon": "Truck",
+      "title": "Same-Day Delivery",
+      "body": "Guaranteed delivery within the same day."
+    },
+    {
+      "icon": "Clock",
+      "title": "Timed Deliveries",
+      "body": "Deliver at your specified time slot."
+    },
+    {
+      "icon": "Shield",
+      "title": "Secure Packaging",
+      "body": "Professional packaging to ensure safety."
+    },
+    {
+      "icon": "Phone",
+      "title": "Real-Time Tracking",
+      "body": "Track your delivery in real-time."
+    },
+    {
+      "icon": "Droplets",
+      "title": "Temperature-Controlled Services",
+      "body": "Specialized for perishable items."
+    },
+    {
+      "icon": "Search",
+      "title": "Document Delivery",
+      "body": "Fast and secure document delivery services."
+    }
+  ],
+  "palette": {
+    "primary": "#2563eb",
+    "primaryHover": "#1d4ed8",
+    "secondary": "#0f766e"
+  },
+  "faqs": [
+    {
+      "q": "Do you offer real-time tracking?",
+      "a": "Yes, all deliveries can be tracked in real-time."
+    },
+    {
+      "q": "Are your drivers DBS checked?",
+      "a": "Absolutely, our drivers are fully vetted and DBS checked."
+    },
+    {
+      "q": "Can you deliver temperature-sensitive items?",
+      "a": "Yes, we provide specialized services for temperature-controlled deliveries."
+    },
+    {
+      "q": "How do I book a delivery?",
+      "a": "You can book online or call us directly to arrange your delivery."
+    }
+  ]
+}

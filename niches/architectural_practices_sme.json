@@ -1,0 +1,67 @@
+{
+  "id": "architectural_practices_sme",
+  "displayName": "Architectural Practices (Sme)",
+  "plural": "Architectural Practices (Sme)s",
+  "heroTagline": "Local Design Excellence",
+  "ctaLabel": "Get a Free Consultation",
+  "trustBadges": [
+    "RIBA Chartered",
+    "ISO 9001 Certified",
+    "LEED Accredited"
+  ],
+  "services": [
+    {
+      "icon": "Tool",
+      "title": "Residential Design",
+      "body": "Custom home designs and renovations"
+    },
+    {
+      "icon": "Home",
+      "title": "Commercial Projects",
+      "body": "Office, retail, and industrial space design"
+    },
+    {
+      "icon": "Trees",
+      "title": "Sustainable Architecture",
+      "body": "Eco-friendly building solutions"
+    },
+    {
+      "icon": "Lightbulb",
+      "title": "Interior Design",
+      "body": "Space planning, lighting and finishes"
+    },
+    {
+      "icon": "Shield",
+      "title": "Building Regulations Compliance",
+      "body": "Ensuring all projects meet UK standards"
+    },
+    {
+      "icon": "Search",
+      "title": "Heritage Conservation",
+      "body": "Preserving historical structures and designs"
+    }
+  ],
+  "palette": {
+    "primary": "#2563eb",
+    "primaryHover": "#1d4ed8",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are you RIBA Chartered?",
+      "a": "Yes, we are a RIBA chartered architectural practice."
+    },
+    {
+      "q": "Do you offer sustainable design solutions?",
+      "a": "Absolutely. We specialize in eco-friendly building designs and renovations."
+    },
+    {
+      "q": "Can you handle commercial projects?",
+      "a": "Yes, we have extensive experience with office, retail, and industrial space design."
+    },
+    {
+      "q": "How do I get a free consultation?",
+      "a": "Simply fill out our contact form or give us a call \u2014 we'll schedule your consultation promptly."
+    }
+  ]
+}

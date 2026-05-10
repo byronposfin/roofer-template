@@ -1,0 +1,67 @@
+{
+  "id": "osteopathy_practices",
+  "displayName": "Osteopathy Practices",
+  "plural": "Osteopathy Practices",
+  "heroTagline": "Local Osteopathic Care",
+  "ctaLabel": "Book Your Appointment",
+  "trustBadges": [
+    "General Osteopathic Council Registered",
+    "Fully Insured Practitioners",
+    "Member of British Osteopathic Association"
+  ],
+  "services": [
+    {
+      "icon": "Stethoscope",
+      "title": "Spinal Adjustments",
+      "body": "Precision adjustments to improve spinal alignment and function."
+    },
+    {
+      "icon": "Dumbbell",
+      "title": "Muscle Rehabilitation",
+      "body": "Customized exercises for muscle strength and flexibility."
+    },
+    {
+      "icon": "Heart",
+      "title": "Pain Management",
+      "body": "Holistic approach to reducing pain through manual therapy."
+    },
+    {
+      "icon": "Eye",
+      "title": "Posture Assessment",
+      "body": "Evaluation of posture and alignment for personalized care plans."
+    },
+    {
+      "icon": "Tool",
+      "title": "Sports Injuries Treatment",
+      "body": "Specialized treatment for sports-related injuries and recovery."
+    },
+    {
+      "icon": "Clock",
+      "title": "Preventive Care Consultations",
+      "body": "Regular check-ups to maintain optimal musculoskeletal health."
+    }
+  ],
+  "palette": {
+    "primary": "#7c3aed",
+    "primaryHover": "#642e9a",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are your practitioners registered?",
+      "a": "Yes, all our osteopaths are registered with the General Osteopathic Council."
+    },
+    {
+      "q": "Do you offer pain management services?",
+      "a": "Absolutely. We provide comprehensive pain management through manual therapy and rehabilitation exercises."
+    },
+    {
+      "q": "Can I book an appointment online?",
+      "a": "Yes, you can use our website to schedule your appointment or call us directly."
+    },
+    {
+      "q": "What conditions do you treat?",
+      "a": "We specialize in treating a wide range of musculoskeletal issues including back pain, neck pain, and sports injuries."
+    }
+  ]
+}

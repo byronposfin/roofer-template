@@ -1,0 +1,67 @@
+{
+  "id": "international_removal_companies_premium",
+  "displayName": "International Removal Companies (Premium)",
+  "plural": "International Removal Companies (Premium)s",
+  "heroTagline": "Global Relocation Experts",
+  "ctaLabel": "Get a Free Quote",
+  "trustBadges": [
+    "FIDI Member",
+    "ISO Certified",
+    "Fully Insured"
+  ],
+  "services": [
+    {
+      "icon": "Truck",
+      "title": "International Moving Services",
+      "body": "Safe and efficient relocation services worldwide."
+    },
+    {
+      "icon": "Shield",
+      "title": "Customs Clearance",
+      "body": "Expert handling of customs procedures for seamless transit."
+    },
+    {
+      "icon": "Home",
+      "title": "Packing Solutions",
+      "body": "Professional packing and unpacking services included."
+    },
+    {
+      "icon": "Droplets",
+      "title": "Climate-Controlled Storage",
+      "body": "Secure storage with climate control options available."
+    },
+    {
+      "icon": "Phone",
+      "title": "24/7 Customer Support",
+      "body": "Round-the-clock assistance for all your relocation needs."
+    },
+    {
+      "icon": "Settings",
+      "title": "Customized Moving Plans",
+      "body": "Tailored moving solutions to fit your specific requirements."
+    }
+  ],
+  "palette": {
+    "primary": "#2563eb",
+    "primaryHover": "#1d4ed8",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are you FIDI members?",
+      "a": "Yes, we are proud members of FIDI, ensuring top-tier service standards."
+    },
+    {
+      "q": "Do you offer packing services?",
+      "a": "Absolutely. Our professional team provides comprehensive packing solutions."
+    },
+    {
+      "q": "How do I get a quote?",
+      "a": "Simply fill out our contact form or call us \u2014 we'll provide your quote promptly."
+    },
+    {
+      "q": "What is included in the moving services?",
+      "a": "Our service includes packing, loading, transportation, customs clearance, and unpacking at your new location."
+    }
+  ]
+}

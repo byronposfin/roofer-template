@@ -1,0 +1,67 @@
+{
+  "id": "medical_aesthetics_trainers",
+  "displayName": "Medical Aesthetics Trainers",
+  "plural": "Medical Aesthetics Trainers",
+  "heroTagline": "Expert Training Solutions",
+  "ctaLabel": "Book Your Course",
+  "trustBadges": [
+    "GMC Registered",
+    "CQC Approved",
+    "Aesthetic Complications Diploma"
+  ],
+  "services": [
+    {
+      "icon": "Stethoscope",
+      "title": "Botox Training",
+      "body": "Comprehensive botox injection techniques and safety protocols."
+    },
+    {
+      "icon": "Droplets",
+      "title": "Dermal Fillers Course",
+      "body": "Learn advanced dermal filler application and patient consultation skills."
+    },
+    {
+      "icon": "Lightbulb",
+      "title": "Laser Therapy Training",
+      "body": "Hands-on training in laser hair removal, skin rejuvenation, and more."
+    },
+    {
+      "icon": "Shield",
+      "title": "Safety Protocols Workshop",
+      "body": "In-depth sessions on infection control and emergency response."
+    },
+    {
+      "icon": "Tool",
+      "title": "Advanced Techniques Seminar",
+      "body": "Specialized training for complex aesthetic procedures."
+    },
+    {
+      "icon": "Search",
+      "title": "Consultation Skills Workshop",
+      "body": "Effective patient communication and treatment planning strategies."
+    }
+  ],
+  "palette": {
+    "primary": "#7c3aed",
+    "primaryHover": "#642f9d",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are your trainers GMC registered?",
+      "a": "Yes, all our trainers are GMC registered and have extensive experience in the field."
+    },
+    {
+      "q": "Do you offer certification upon completion?",
+      "a": "Absolutely. Upon successful completion of each course, participants receive a certificate."
+    },
+    {
+      "q": "Can I attend courses remotely?",
+      "a": "Yes, we provide both on-site and remote training options to accommodate your needs."
+    },
+    {
+      "q": "What is included in the course fees?",
+      "a": "Course fees include all materials, certification, and access to our online resources."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "construction_labour_hire",
+  "displayName": "Construction Labour Hire",
+  "plural": "Construction Labour Hires",
+  "heroTagline": "Local skilled labour",
+  "ctaLabel": "Get a Free Quote",
+  "trustBadges": [
+    "CSCS Registered",
+    "Health & Safety Compliant",
+    "ISO 9001 Certified"
+  ],
+  "services": [
+    {
+      "icon": "Shovel",
+      "title": "Site Labour",
+      "body": "General site workers for all construction projects"
+    },
+    {
+      "icon": "Hammer",
+      "title": "Carpentry Services",
+      "body": "Skilled carpenters for framing and finishing"
+    },
+    {
+      "icon": "PaintBucket",
+      "title": "Painting & Decorating",
+      "body": "Professional painters for interior and exterior work"
+    },
+    {
+      "icon": "Truck",
+      "title": "Material Handling",
+      "body": "Efficient loading, unloading, and site logistics support"
+    },
+    {
+      "icon": "Tool",
+      "title": "Handyman Services",
+      "body": "Versatile workers for a variety of tasks"
+    },
+    {
+      "icon": "Droplets",
+      "title": "Plumbing Labour",
+      "body": "Experienced plumbers for installation and maintenance"
+    }
+  ],
+  "palette": {
+    "primary": "#0d9488",
+    "primaryHover": "#0f766e",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are your workers CSCS registered?",
+      "a": "Yes, all our labourers are CSCS certified."
+    },
+    {
+      "q": "Do you provide health and safety training?",
+      "a": "Absolutely. We ensure all staff comply with the latest H&S regulations."
+    },
+    {
+      "q": "Can you supply workers on short notice?",
+      "a": "Yes, we offer flexible staffing solutions for urgent needs."
+    },
+    {
+      "q": "How do I request a quote?",
+      "a": "Simply fill out our contact form or give us a call \u2014 we'll respond promptly."
+    }
+  ]
+}

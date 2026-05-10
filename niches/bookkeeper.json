@@ -1,0 +1,67 @@
+{
+  "id": "bookkeeper",
+  "displayName": "Bookkeeper",
+  "plural": "Bookkeepers",
+  "heroTagline": "Local Financial Experts",
+  "ctaLabel": "Get a Free Consultation",
+  "trustBadges": [
+    "ACCA Member",
+    "ICAEW Registered",
+    "Data Protection Compliant"
+  ],
+  "services": [
+    {
+      "icon": "Settings",
+      "title": "Account Management",
+      "body": "Maintain accurate financial records and accounts."
+    },
+    {
+      "icon": "Droplets",
+      "title": "Tax Preparation",
+      "body": "Prepare and file tax returns for individuals and businesses."
+    },
+    {
+      "icon": "Shield",
+      "title": "Audit Support",
+      "body": "Assist with internal audits to ensure compliance."
+    },
+    {
+      "icon": "Eye",
+      "title": "Financial Reporting",
+      "body": "Generate detailed financial statements for stakeholders."
+    },
+    {
+      "icon": "Clock",
+      "title": "Payroll Processing",
+      "body": "Handle payroll and ensure timely payments to employees."
+    },
+    {
+      "icon": "Key",
+      "title": "Bookkeeping Software Setup",
+      "body": "Set up and train on bookkeeping software for efficient record-keeping."
+    }
+  ],
+  "palette": {
+    "primary": "#2563eb",
+    "primaryHover": "#1d4ed8",
+    "secondary": "#0f766e"
+  },
+  "faqs": [
+    {
+      "q": "Do you offer online services?",
+      "a": "Yes, we provide remote bookkeeping and financial management."
+    },
+    {
+      "q": "How often should I update my accounts?",
+      "a": "Regular updates are recommended; monthly or quarterly depending on your needs."
+    },
+    {
+      "q": "Can you help with VAT returns?",
+      "a": "Absolutely, we handle all types of tax filings including VAT returns."
+    },
+    {
+      "q": "What is the cost for a consultation?",
+      "a": "Initial consultations are free. Detailed pricing will be provided based on your specific requirements."
+    }
+  ]
+}

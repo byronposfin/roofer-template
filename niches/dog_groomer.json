@@ -1,0 +1,67 @@
+{
+  "id": "dog_groomer",
+  "displayName": "Dog Groomer",
+  "plural": "Dog Groomers",
+  "heroTagline": "Pamper Your Pet",
+  "ctaLabel": "Book an Appointment",
+  "trustBadges": [
+    "Qualified Groomer",
+    "Pet First Aid Trained",
+    "Member of NAG"
+  ],
+  "services": [
+    {
+      "icon": "Scissors",
+      "title": "Full Grooming",
+      "body": "Tailored grooming for all breeds, including nail trimming and ear cleaning."
+    },
+    {
+      "icon": "Bath",
+      "title": "Hydro Bath Service",
+      "body": "Deep clean with our hydro bath system to ensure your pet is spotless."
+    },
+    {
+      "icon": "Droplets",
+      "title": "Medicated Baths",
+      "body": "Special baths for skin conditions and allergies, recommended by vets."
+    },
+    {
+      "icon": "Dog",
+      "title": "Puppy Grooming",
+      "body": "Gentle grooming for puppies to get them used to the process."
+    },
+    {
+      "icon": "Heart",
+      "title": "Senior Dog Care",
+      "body": "Specialized care for senior dogs with mobility issues or health concerns."
+    },
+    {
+      "icon": "Shield",
+      "title": "Safety First",
+      "body": "We prioritize your pet's safety and comfort throughout the grooming process."
+    }
+  ],
+  "palette": {
+    "primary": "#7c3aed",
+    "primaryHover": "#642f9d",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are you qualified?",
+      "a": "Yes, our groomers are fully qualified and trained in pet first aid."
+    },
+    {
+      "q": "Do you offer medicated baths?",
+      "a": "Absolutely. We provide vet-recommended medicated baths for skin conditions."
+    },
+    {
+      "q": "Can I bring my puppy?",
+      "a": "Yes, we have a special grooming routine designed just for puppies."
+    },
+    {
+      "q": "How do I book an appointment?",
+      "a": "You can call us or use our online booking system to schedule your pet's grooming session."
+    }
+  ]
+}

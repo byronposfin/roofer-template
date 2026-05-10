@@ -1,0 +1,67 @@
+{
+  "id": "acupuncturist",
+  "displayName": "Acupuncturist",
+  "plural": "Acupuncturists",
+  "heroTagline": "Local Healing Touch",
+  "ctaLabel": "Book Your Session",
+  "trustBadges": [
+    "BSc Acupuncture Graduate",
+    "Registered with BAcC",
+    "Clean Needle Technique Certified"
+  ],
+  "services": [
+    {
+      "icon": "Stethoscope",
+      "title": "General Wellness Sessions",
+      "body": "Holistic approach to overall health and wellbeing"
+    },
+    {
+      "icon": "Heart",
+      "title": "Pain Management Therapy",
+      "body": "Effective treatment for chronic pain conditions"
+    },
+    {
+      "icon": "Leaf",
+      "title": "Stress Reduction Sessions",
+      "body": "Relaxation techniques and stress relief through acupuncture"
+    },
+    {
+      "icon": "Dumbbell",
+      "title": "Sports Injury Treatment",
+      "body": "Recovery and rehabilitation for sports injuries"
+    },
+    {
+      "icon": "Shield",
+      "title": "Immune System Boosting",
+      "body": "Strengthen your immune system with acupuncture"
+    },
+    {
+      "icon": "Smile",
+      "title": "Mental Health Support",
+      "body": "Support for anxiety, depression and emotional balance"
+    }
+  ],
+  "palette": {
+    "primary": "#7c3aed",
+    "primaryHover": "#642d9a",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are you registered with BAcC?",
+      "a": "Yes, we are fully registered members of the British Acupuncture Council."
+    },
+    {
+      "q": "What conditions can acupuncture treat?",
+      "a": "We offer treatments for a wide range of conditions including pain management, stress relief and mental health support."
+    },
+    {
+      "q": "Is your practice clean needle certified?",
+      "a": "Absolutely. We adhere to the highest standards with our Clean Needle Technique certification."
+    },
+    {
+      "q": "How do I book an appointment?",
+      "a": "You can call us or use our online booking form on this website."
+    }
+  ]
+}

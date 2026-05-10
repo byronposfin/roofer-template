@@ -1,0 +1,67 @@
+{
+  "id": "cafe",
+  "displayName": "Caf\u00e9",
+  "plural": "Caf\u00e9s",
+  "heroTagline": "Local Coffee Haven",
+  "ctaLabel": "Book a Table",
+  "trustBadges": [
+    "FSS Approved",
+    "Fairtrade Certified",
+    "Sustainable Practices"
+  ],
+  "services": [
+    {
+      "icon": "Coffee",
+      "title": "Specialty Coffees",
+      "body": "Expertly crafted espresso and pour-over options."
+    },
+    {
+      "icon": "Utensils",
+      "title": "Breakfast & Brunch",
+      "body": "Hearty breakfasts, brunch specials, and light bites."
+    },
+    {
+      "icon": "Cake",
+      "title": "Bakery Selection",
+      "body": "Freshly baked pastries, cakes, and sandwiches daily."
+    },
+    {
+      "icon": "Thermometer",
+      "title": "Heated Outdoor Seating",
+      "body": "Enjoy your coffee in our cozy outdoor seating area."
+    },
+    {
+      "icon": "Leaf",
+      "title": "Organic & Vegan Options",
+      "body": "Serving organic and vegan-friendly meals and drinks."
+    },
+    {
+      "icon": "Hammer",
+      "title": "Event Hosting",
+      "body": "Ideal venue for small meetings, workshops, and events."
+    }
+  ],
+  "palette": {
+    "primary": "#16a34a",
+    "primaryHover": "#0f766e",
+    "secondary": "#2563eb"
+  },
+  "faqs": [
+    {
+      "q": "Do you offer vegan options?",
+      "a": "Yes, we have a variety of vegan-friendly meals and drinks."
+    },
+    {
+      "q": "Is there outdoor seating available?",
+      "a": "Absolutely, our heated outdoor area is perfect for all seasons."
+    },
+    {
+      "q": "Can I book the caf\u00e9 for an event?",
+      "a": "Yes, we can host small meetings and events. Please contact us to discuss your needs."
+    },
+    {
+      "q": "Are you Fairtrade certified?",
+      "a": "Yes, all our coffee is sourced from Fairtrade partners."
+    }
+  ]
+}

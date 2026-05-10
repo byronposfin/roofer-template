@@ -1,0 +1,67 @@
+{
+  "id": "tyre_fitter",
+  "displayName": "Tyre Fitter",
+  "plural": "Tyre Fitters",
+  "heroTagline": "Local tyre experts",
+  "ctaLabel": "Get a Free Quote",
+  "trustBadges": [
+    "RoSPA Approved",
+    "Fully Insured",
+    "Motor Industry Certified"
+  ],
+  "services": [
+    {
+      "icon": "Car",
+      "title": "Tyre Fitting",
+      "body": "Professional tyre fitting and balancing services"
+    },
+    {
+      "icon": "Truck",
+      "title": "Wheel Alignment",
+      "body": "Precision alignment for optimal vehicle performance"
+    },
+    {
+      "icon": "Hammer",
+      "title": "Tyre Repairs",
+      "body": "Puncture repairs and tyre patching services"
+    },
+    {
+      "icon": "Leaf",
+      "title": "Winter Tyres",
+      "body": "Specialist fitting for winter tyres to ensure safety"
+    },
+    {
+      "icon": "Shield",
+      "title": "Tyre Safety Checks",
+      "body": "Comprehensive tyre condition and pressure checks"
+    },
+    {
+      "icon": "Tool",
+      "title": "Wheel Balancing",
+      "body": "Advanced wheel balancing to reduce vibration"
+    }
+  ],
+  "palette": {
+    "primary": "#0d9488",
+    "primaryHover": "#0f766e",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Do you offer mobile tyre fitting?",
+      "a": "Yes, we provide on-site tyre fitting services for your convenience."
+    },
+    {
+      "q": "Can I get a free safety check?",
+      "a": "Absolutely. We offer complimentary tyre condition and pressure checks."
+    },
+    {
+      "q": "Do you stock winter tyres?",
+      "a": "Yes, we have a wide range of winter tyres in stock for fitting."
+    },
+    {
+      "q": "How do I schedule an appointment?",
+      "a": "You can call us or use our online booking form to set up your service."
+    }
+  ]
+}

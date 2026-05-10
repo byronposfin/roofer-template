@@ -1,0 +1,67 @@
+{
+  "id": "podiatrist",
+  "displayName": "Podiatrist",
+  "plural": "Podiatrists",
+  "heroTagline": "Expert Foot Care",
+  "ctaLabel": "Book Your Appointment",
+  "trustBadges": [
+    "HCPC Registered",
+    "Chartered Society Member",
+    "Sterile Equipment"
+  ],
+  "services": [
+    {
+      "icon": "Stethoscope",
+      "title": "Foot Assessments",
+      "body": "Comprehensive foot health evaluations"
+    },
+    {
+      "icon": "Scissors",
+      "title": "Nail Care",
+      "body": "Professional nail cutting and shaping"
+    },
+    {
+      "icon": "Droplets",
+      "title": "Warts Treatment",
+      "body": "Effective removal of plantar warts"
+    },
+    {
+      "icon": "Hammer",
+      "title": "Ingrown Toenail Surgery",
+      "body": "Pain-free surgical correction"
+    },
+    {
+      "icon": "Shield",
+      "title": "Diabetic Foot Care",
+      "body": "Specialized care for diabetic patients"
+    },
+    {
+      "icon": "Eye",
+      "title": "Custom Orthotics",
+      "body": "Personalised insoles to support your feet"
+    }
+  ],
+  "palette": {
+    "primary": "#7c3aed",
+    "primaryHover": "#642f9b",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are you HCPC registered?",
+      "a": "Yes, all our podiatrists are fully registered with the Health and Care Professions Council."
+    },
+    {
+      "q": "Do you treat diabetic foot issues?",
+      "a": "Absolutely. We offer specialized care for patients with diabetes to prevent complications."
+    },
+    {
+      "q": "Can I get custom orthotics from you?",
+      "a": "Yes, we provide personalized orthotic solutions tailored to your specific needs."
+    },
+    {
+      "q": "How do I book an appointment?",
+      "a": "You can call us or use our online booking form to schedule a visit with one of our podiatrists."
+    }
+  ]
+}

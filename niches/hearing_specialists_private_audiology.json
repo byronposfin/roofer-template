@@ -1,0 +1,67 @@
+{
+  "id": "hearing_specialists_private_audiology",
+  "displayName": "Hearing Specialists (Private Audiology)",
+  "plural": "Hearing Specialists (Private Audiology)s",
+  "heroTagline": "Expert local audiology care",
+  "ctaLabel": "Book Your Consultation",
+  "trustBadges": [
+    "HCPC Registered",
+    "British Society of Hearing Aid Audiologists Member",
+    "ISO Certified"
+  ],
+  "services": [
+    {
+      "icon": "Stethoscope",
+      "title": "Hearing Assessments",
+      "body": "Comprehensive hearing tests and consultations"
+    },
+    {
+      "icon": "Ear",
+      "title": "Custom Hearing Aids",
+      "body": "Tailored devices for your specific needs"
+    },
+    {
+      "icon": "ShieldCheck",
+      "title": "Tinnitus Management",
+      "body": "Strategies and treatments to manage tinnitus"
+    },
+    {
+      "icon": "Lightbulb",
+      "title": "Cochlear Implant Consultations",
+      "body": "Evaluation for cochlear implant suitability"
+    },
+    {
+      "icon": "Phone",
+      "title": "Remote Hearing Care",
+      "body": "Virtual consultations and support services"
+    },
+    {
+      "icon": "Dumbbell",
+      "title": "Audiology Rehabilitation",
+      "body": "Training to improve hearing and communication skills"
+    }
+  ],
+  "palette": {
+    "primary": "#7c3aed",
+    "primaryHover": "#642b9d",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are your audiologists HCPC registered?",
+      "a": "Yes, all our audiologists are fully HCPC registered."
+    },
+    {
+      "q": "Do you offer custom hearing aids?",
+      "a": "Absolutely. We provide a range of custom-fit hearing aid solutions."
+    },
+    {
+      "q": "Can I get a tinnitus consultation?",
+      "a": "Yes, we specialize in managing and treating tinnitus."
+    },
+    {
+      "q": "How do I book an appointment?",
+      "a": "You can call us or use our online booking form to schedule your visit."
+    }
+  ]
+}

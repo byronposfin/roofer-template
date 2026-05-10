@@ -1,0 +1,67 @@
+{
+  "id": "builders_general_contractors_sme",
+  "displayName": "Builders & General Contractors (Sme)",
+  "plural": "Builders & General Contractors (Sme)s",
+  "heroTagline": "Local Building Experts",
+  "ctaLabel": "Get a Free Quote",
+  "trustBadges": [
+    "Federation of Master Builders Member",
+    "Fully Insured",
+    "Health and Safety Compliant"
+  ],
+  "services": [
+    {
+      "icon": "Hammer",
+      "title": "Home Extensions",
+      "body": "Design, build and certify your home extension projects."
+    },
+    {
+      "icon": "PaintBucket",
+      "title": "Interior & Exterior Painting",
+      "body": "Professional painting services for homes and businesses."
+    },
+    {
+      "icon": "Truck",
+      "title": "Demolition Services",
+      "body": "Safe and efficient demolition of structures and buildings."
+    },
+    {
+      "icon": "Shovel",
+      "title": "Landscaping & Gardening",
+      "body": "Transform your outdoor spaces with our landscaping services."
+    },
+    {
+      "icon": "Trees",
+      "title": "Tree Surgery",
+      "body": "Professional tree pruning, removal and maintenance services."
+    },
+    {
+      "icon": "Tool",
+      "title": "General Repairs & Maintenance",
+      "body": "Fixing everything from minor repairs to major renovations."
+    }
+  ],
+  "palette": {
+    "primary": "#0d9488",
+    "primaryHover": "#0f766e",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are you registered with the Federation of Master Builders?",
+      "a": "Yes, we are proud members of the Federation of Master Builders."
+    },
+    {
+      "q": "Do you offer emergency repair services?",
+      "a": "Absolutely. We provide 24/7 emergency repairs for urgent issues."
+    },
+    {
+      "q": "How do I get a quote?",
+      "a": "Simply fill out our contact form or give us a call \u2014 we'll respond promptly."
+    },
+    {
+      "q": "Are your services insured?",
+      "a": "Yes, all of our work is fully insured for your peace of mind."
+    }
+  ]
+}

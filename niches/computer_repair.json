@@ -1,0 +1,67 @@
+{
+  "id": "computer_repair",
+  "displayName": "Computer Repair",
+  "plural": "Computer Repair Services",
+  "heroTagline": "Local Expert Repairs",
+  "ctaLabel": "Get a Free Quote",
+  "trustBadges": [
+    "ISO 27001 Certified",
+    "Microsoft Partner",
+    "Fully Insured"
+  ],
+  "services": [
+    {
+      "icon": "Tool",
+      "title": "Hardware Repairs",
+      "body": "Fixing broken laptops, desktops and peripherals"
+    },
+    {
+      "icon": "Shield",
+      "title": "Security Solutions",
+      "body": "Virus removal and security software installation"
+    },
+    {
+      "icon": "Lightbulb",
+      "title": "Data Recovery",
+      "body": "Recovering lost data from hard drives and SSDs"
+    },
+    {
+      "icon": "Hammer",
+      "title": "System Upgrades",
+      "body": "Upgrading RAM, storage and graphics cards"
+    },
+    {
+      "icon": "PlugZap",
+      "title": "Networking Setup",
+      "body": "Setting up Wi-Fi and wired networks"
+    },
+    {
+      "icon": "Settings",
+      "title": "Software Installation",
+      "body": "Installing operating systems, drivers and applications"
+    }
+  ],
+  "palette": {
+    "primary": "#2563eb",
+    "primaryHover": "#1d4ed8",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Do you offer on-site repairs?",
+      "a": "Yes, we provide on-site repair services for businesses and homes."
+    },
+    {
+      "q": "How long does a typical repair take?",
+      "a": "Most repairs are completed within 24 hours. Complex issues may require additional time."
+    },
+    {
+      "q": "Can you help with data backup?",
+      "a": "Absolutely, we can assist in setting up and performing regular backups to prevent data loss."
+    },
+    {
+      "q": "Do you provide remote support?",
+      "a": "Yes, we offer remote support for software issues and troubleshooting."
+    }
+  ]
+}

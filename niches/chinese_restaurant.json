@@ -1,0 +1,67 @@
+{
+  "id": "chinese_restaurant",
+  "displayName": "Chinese Restaurant",
+  "plural": "Chinese Restaurants",
+  "heroTagline": "Authentic Local Flavors",
+  "ctaLabel": "Book a Table Now",
+  "trustBadges": [
+    "FSS Approved",
+    "ISO 22000 Certified",
+    "Local Business Association Member"
+  ],
+  "services": [
+    {
+      "icon": "ChefHat",
+      "title": "Traditional Dishes",
+      "body": "Authentic Chinese cuisine with a local twist"
+    },
+    {
+      "icon": "Utensils",
+      "title": "Dining Experience",
+      "body": "Enjoy our cozy and inviting dining area"
+    },
+    {
+      "icon": "Cake",
+      "title": "Dim Sum Specials",
+      "body": "Freshly prepared daily, try our signature dim sum"
+    },
+    {
+      "icon": "Flame",
+      "title": "Wok Cooking",
+      "body": "Watch your meal being cooked to perfection in our woks"
+    },
+    {
+      "icon": "Droplets",
+      "title": "Healthy Options",
+      "body": "We offer low-fat and gluten-free dishes upon request"
+    },
+    {
+      "icon": "Truck",
+      "title": "Delivery Services",
+      "body": "Order online for convenient home delivery"
+    }
+  ],
+  "palette": {
+    "primary": "#16a34a",
+    "primaryHover": "#0f766e",
+    "secondary": "#2563eb"
+  },
+  "faqs": [
+    {
+      "q": "Do you offer delivery?",
+      "a": "Yes, we provide home delivery services for your convenience."
+    },
+    {
+      "q": "Are there vegetarian options available?",
+      "a": "Absolutely, we have a variety of vegetarian dishes on our menu."
+    },
+    {
+      "q": "Is the restaurant child-friendly?",
+      "a": "Yes, children are welcome and we provide high chairs for infants."
+    },
+    {
+      "q": "Do you accept reservations?",
+      "a": "We do take reservations. Please call us or book online to secure your table."
+    }
+  ]
+}

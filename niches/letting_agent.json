@@ -1,0 +1,67 @@
+{
+  "id": "letting_agent",
+  "displayName": "Letting Agent",
+  "plural": "Letting Agents",
+  "heroTagline": "Your Local Property Experts",
+  "ctaLabel": "Find Your Next Home",
+  "trustBadges": [
+    "RICS Member",
+    "NARPM Registered",
+    "Client Money Protected"
+  ],
+  "services": [
+    {
+      "icon": "Key",
+      "title": "Property Management",
+      "body": "Professional management of your rental property."
+    },
+    {
+      "icon": "Search",
+      "title": "Tenant Finders",
+      "body": "Locate reliable tenants for your properties."
+    },
+    {
+      "icon": "Tool",
+      "title": "Maintenance Services",
+      "body": "Regular maintenance and repairs to keep your property in top condition."
+    },
+    {
+      "icon": "ShieldCheck",
+      "title": "Legal Compliance",
+      "body": "Ensure all legal requirements are met for landlords."
+    },
+    {
+      "icon": "Droplets",
+      "title": "Energy Efficiency Assessments",
+      "body": "Helping you meet energy efficiency standards and reduce costs."
+    },
+    {
+      "icon": "Hammer",
+      "title": "Renovation Consultancy",
+      "body": "Expert advice on property renovations to increase rental value."
+    }
+  ],
+  "palette": {
+    "primary": "#0d9488",
+    "primaryHover": "#0f766e",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are you RICS members?",
+      "a": "Yes, we are fully accredited RICS members."
+    },
+    {
+      "q": "How do I ensure my money is protected?",
+      "a": "We are Client Money Protected to safeguard your funds."
+    },
+    {
+      "q": "Do you offer 24/7 emergency support?",
+      "a": "Yes, we provide round-the-clock support for urgent property issues."
+    },
+    {
+      "q": "How can I find a tenant quickly?",
+      "a": "Our Tenant Finder service helps match properties with suitable tenants efficiently."
+    }
+  ]
+}

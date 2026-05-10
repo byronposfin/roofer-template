@@ -1,0 +1,67 @@
+{
+  "id": "man_and_van",
+  "displayName": "Man & Van Service",
+  "plural": "Man & Van Services",
+  "heroTagline": "Local Relocation Experts",
+  "ctaLabel": "Get a Free Quote",
+  "trustBadges": [
+    "Fully Insured",
+    "SafeMove Registered",
+    "Customer Satisfaction Guaranteed"
+  ],
+  "services": [
+    {
+      "icon": "Truck",
+      "title": "House Removals",
+      "body": "Efficient and safe relocation services for homes of all sizes."
+    },
+    {
+      "icon": "Hammer",
+      "title": "Furniture Assembly",
+      "body": "Professional assembly service for new furniture deliveries."
+    },
+    {
+      "icon": "Droplets",
+      "title": "Deep Cleaning",
+      "body": "Post-move deep cleaning to leave your space sparkling clean."
+    },
+    {
+      "icon": "Shovel",
+      "title": "Garden Relocation",
+      "body": "Moving plants and garden furniture with care."
+    },
+    {
+      "icon": "Eye",
+      "title": "Packing Services",
+      "body": "Professional packing to ensure your items are safely moved."
+    },
+    {
+      "icon": "Tool",
+      "title": "Disposal Service",
+      "body": "Responsible disposal of unwanted items during relocation."
+    }
+  ],
+  "palette": {
+    "primary": "#0d9488",
+    "primaryHover": "#0f766e",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Do you provide packing materials?",
+      "a": "Yes, we offer a range of high-quality packing materials for your convenience."
+    },
+    {
+      "q": "How far in advance should I book?",
+      "a": "We recommend booking at least 2 weeks in advance to secure your preferred date."
+    },
+    {
+      "q": "Can you move during weekends?",
+      "a": "Absolutely, we offer weekend services for added flexibility."
+    },
+    {
+      "q": "What if I need additional help on moving day?",
+      "a": "We can provide extra manpower to ensure your move goes smoothly and efficiently."
+    }
+  ]
+}

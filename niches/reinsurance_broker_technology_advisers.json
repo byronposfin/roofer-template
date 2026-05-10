@@ -1,0 +1,67 @@
+{
+  "id": "reinsurance_broker_technology_advisers",
+  "displayName": "Reinsurance Broker Technology Advisers",
+  "plural": "Reinsurance Broker Technology Advisers",
+  "heroTagline": "Local Tech Experts",
+  "ctaLabel": "Get a Consultation",
+  "trustBadges": [
+    "FIA Member",
+    "ISO Certified",
+    "Cybersecurity Expertise"
+  ],
+  "services": [
+    {
+      "icon": "Shield",
+      "title": "Risk Assessment",
+      "body": "Comprehensive risk analysis for reinsurance solutions"
+    },
+    {
+      "icon": "Tool",
+      "title": "Tech Integration",
+      "body": "Integrating advanced technology into insurance processes"
+    },
+    {
+      "icon": "Settings",
+      "title": "Policy Management",
+      "body": "Streamlining policy management with tech solutions"
+    },
+    {
+      "icon": "Bug",
+      "title": "Cyber Risk Solutions",
+      "body": "Specialized cyber risk assessment and mitigation services"
+    },
+    {
+      "icon": "Search",
+      "title": "Market Analysis",
+      "body": "Detailed market analysis for informed reinsurance decisions"
+    },
+    {
+      "icon": "Key",
+      "title": "Data Security",
+      "body": "Ensuring data security and compliance in insurance operations"
+    }
+  ],
+  "palette": {
+    "primary": "#2563eb",
+    "primaryHover": "#1d4ed8",
+    "secondary": "#0f766e"
+  },
+  "faqs": [
+    {
+      "q": "Are you FIA members?",
+      "a": "Yes, we are registered members of the Faculty and Institute of Actuaries."
+    },
+    {
+      "q": "Do you offer cybersecurity services?",
+      "a": "Absolutely. We provide specialized cyber risk assessment and mitigation solutions."
+    },
+    {
+      "q": "Can you help with policy management?",
+      "a": "Yes, we streamline policy management using advanced technology solutions."
+    },
+    {
+      "q": "How do I schedule a consultation?",
+      "a": "You can call us or fill out our contact form to schedule a consultation."
+    }
+  ]
+}

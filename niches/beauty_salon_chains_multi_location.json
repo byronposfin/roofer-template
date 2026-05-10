@@ -1,0 +1,67 @@
+{
+  "id": "beauty_salon_chains_multi_location",
+  "displayName": "Beauty Salon Chains (Multi-Location)",
+  "plural": "Beauty Salon Chains (Multi-Location)s",
+  "heroTagline": "Elevate Your Beauty",
+  "ctaLabel": "Book Your Appointment",
+  "trustBadges": [
+    "Fully Licensed & Insured",
+    "Certified Professionals",
+    "Member of BSB"
+  ],
+  "services": [
+    {
+      "icon": "Scissors",
+      "title": "Haircut & Styling",
+      "body": "Expert cuts and styles for all hair types"
+    },
+    {
+      "icon": "Droplets",
+      "title": "Facial Treatments",
+      "body": "Customized facials to rejuvenate your skin"
+    },
+    {
+      "icon": "PaintBucket",
+      "title": "Nail Services",
+      "body": "Manicures, pedicures & nail art designs"
+    },
+    {
+      "icon": "Heart",
+      "title": "Makeup Application",
+      "body": "Professional makeup for all occasions"
+    },
+    {
+      "icon": "Bath",
+      "title": "Body Treatments",
+      "body": "Relaxing massages and body wraps"
+    },
+    {
+      "icon": "Lightbulb",
+      "title": "Waxing Services",
+      "body": "Smooth, hair-free skin with our waxing services"
+    }
+  ],
+  "palette": {
+    "primary": "#7c3aed",
+    "primaryHover": "#642e9a",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Do you offer gift vouchers?",
+      "a": "Yes, we provide customizable beauty gift vouchers."
+    },
+    {
+      "q": "Can I book an appointment online?",
+      "a": "Absolutely. You can book through our website or app."
+    },
+    {
+      "q": "Are your products cruelty-free?",
+      "a": "All of our salon products are cruelty-free and ethically sourced."
+    },
+    {
+      "q": "Do you have locations across the UK?",
+      "a": "Yes, we have multiple locations throughout the UK for your convenience."
+    }
+  ]
+}

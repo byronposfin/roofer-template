@@ -1,0 +1,67 @@
+{
+  "id": "boxing_gym",
+  "displayName": "Boxing Gym",
+  "plural": "Boxing Gyms",
+  "heroTagline": "Local Boxing Excellence",
+  "ctaLabel": "Join Now",
+  "trustBadges": [
+    "British Boxing Board of Control (BBBofC) Certified",
+    "Fully Insured Training Facility",
+    "Certified Personal Trainers"
+  ],
+  "services": [
+    {
+      "icon": "Dumbbell",
+      "title": "Boxing Classes",
+      "body": "Professional boxing training sessions for all levels."
+    },
+    {
+      "icon": "Shield",
+      "title": "Sparring Sessions",
+      "body": "Safe and controlled sparring under professional supervision."
+    },
+    {
+      "icon": "Hammer",
+      "title": "Strength Training",
+      "body": "Customized strength training programs to enhance boxing performance."
+    },
+    {
+      "icon": "Clock",
+      "title": "Cardio Workouts",
+      "body": "High-intensity interval training (HIIT) sessions for improved stamina."
+    },
+    {
+      "icon": "Tool",
+      "title": "Equipment Rental",
+      "body": "Rent boxing gear and equipment for your personal use."
+    },
+    {
+      "icon": "Settings",
+      "title": "Personal Training",
+      "body": "One-on-one training sessions with certified trainers."
+    }
+  ],
+  "palette": {
+    "primary": "#16a34a",
+    "primaryHover": "#0f766e",
+    "secondary": "#2563eb"
+  },
+  "faqs": [
+    {
+      "q": "Are your trainers certified?",
+      "a": "Yes, all our trainers are certified by the British Boxing Board of Control (BBBofC)."
+    },
+    {
+      "q": "Do you provide equipment rental?",
+      "a": "Absolutely. We offer a variety of boxing gear and equipment for rent."
+    },
+    {
+      "q": "Can I join if I'm new to boxing?",
+      "a": "Yes, we welcome beginners and offer classes suitable for all skill levels."
+    },
+    {
+      "q": "How do I sign up for a class?",
+      "a": "You can register online or visit our gym in person to get started."
+    }
+  ]
+}

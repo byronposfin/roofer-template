@@ -1,0 +1,67 @@
+{
+  "id": "occupational_therapists_older_adults_home_assessme",
+  "displayName": "Occupational Therapists (Older Adults Home Assessment)",
+  "plural": "Occupational Therapists (Older Adults Home Assessment)s",
+  "heroTagline": "Home Comfort Experts",
+  "ctaLabel": "Book Your Assessment",
+  "trustBadges": [
+    "HCPC Registered",
+    "Age UK Approved",
+    "Dementia Friendly"
+  ],
+  "services": [
+    {
+      "icon": "Eye",
+      "title": "Visual Assessments",
+      "body": "Evaluating home environments for visibility and safety."
+    },
+    {
+      "icon": "Hammer",
+      "title": "Home Modifications",
+      "body": "Installing grab bars, ramps, and other accessibility features."
+    },
+    {
+      "icon": "Dumbbell",
+      "title": "Strength & Mobility Exercises",
+      "body": "Tailored exercises to improve daily living skills."
+    },
+    {
+      "icon": "Shield",
+      "title": "Fall Prevention Strategies",
+      "body": "Reducing risks and enhancing home safety for older adults."
+    },
+    {
+      "icon": "Thermometer",
+      "title": "Temperature Management",
+      "body": "Assessing and adjusting heating systems for comfort."
+    },
+    {
+      "icon": "Key",
+      "title": "Access Solutions",
+      "body": "Simplifying door locks, handles, and other entry points."
+    }
+  ],
+  "palette": {
+    "primary": "#7c3aed",
+    "primaryHover": "#642e9a",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are your therapists HCPC registered?",
+      "a": "Yes, all our occupational therapists are fully HCPC registered."
+    },
+    {
+      "q": "Do you offer home assessments for dementia patients?",
+      "a": "Absolutely. We specialize in creating safe and supportive environments for individuals with dementia."
+    },
+    {
+      "q": "How long does a typical assessment take?",
+      "a": "Assessments usually last between 1 to 2 hours, depending on the individual's needs."
+    },
+    {
+      "q": "Can you help with home modifications?",
+      "a": "Yes, we can recommend and assist in implementing necessary home modifications for safety and comfort."
+    }
+  ]
+}

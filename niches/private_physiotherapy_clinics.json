@@ -1,0 +1,67 @@
+{
+  "id": "private_physiotherapy_clinics",
+  "displayName": "Private Physiotherapy Clinics",
+  "plural": "Private Physiotherapy Clinics",
+  "heroTagline": "Local Expert Care",
+  "ctaLabel": "Book Your Session",
+  "trustBadges": [
+    "HCPC Registered",
+    "Chartered Society Member",
+    "ISO Certified"
+  ],
+  "services": [
+    {
+      "icon": "Dumbbell",
+      "title": "Sports Injury Rehabilitation",
+      "body": "Tailored programs for sports injuries recovery."
+    },
+    {
+      "icon": "Stethoscope",
+      "title": "Pain Management Therapy",
+      "body": "Effective treatments to reduce chronic pain."
+    },
+    {
+      "icon": "Heart",
+      "title": "Cardiovascular Rehabilitation",
+      "body": "Specialized care for heart patients' recovery."
+    },
+    {
+      "icon": "Eye",
+      "title": "Orthopedic Physiotherapy",
+      "body": "Treatment for bone and joint conditions."
+    },
+    {
+      "icon": "Clock",
+      "title": "Geriatric Rehabilitation",
+      "body": "Supporting elderly patients' mobility and health."
+    },
+    {
+      "icon": "Tool",
+      "title": "Manual Therapy Techniques",
+      "body": "Hands-on treatments for muscle and joint issues."
+    }
+  ],
+  "palette": {
+    "primary": "#7c3aed",
+    "primaryHover": "#642e9a",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are your therapists HCPC registered?",
+      "a": "Yes, all our physiotherapists are fully HCPC registered."
+    },
+    {
+      "q": "Do you offer home visits?",
+      "a": "We provide home visit services for those who cannot travel to the clinic."
+    },
+    {
+      "q": "What conditions do you treat?",
+      "a": "We specialize in sports injuries, chronic pain, cardiovascular issues, and orthopedic conditions."
+    },
+    {
+      "q": "How can I book an appointment?",
+      "a": "You can call us or use our online booking form to schedule your session."
+    }
+  ]
+}

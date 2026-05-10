@@ -1,0 +1,67 @@
+{
+  "id": "financial_adviser",
+  "displayName": "Financial Adviser",
+  "plural": "Financial Advisers",
+  "heroTagline": "Local Financial Wisdom",
+  "ctaLabel": "Get Free Advice",
+  "trustBadges": [
+    "FCA Registered",
+    "Chartered Member",
+    "Client-Centric"
+  ],
+  "services": [
+    {
+      "icon": "Shield",
+      "title": "Retirement Planning",
+      "body": "Secure your future with tailored retirement strategies."
+    },
+    {
+      "icon": "Dumbbell",
+      "title": "Investment Management",
+      "body": "Grow your wealth through diversified investment portfolios."
+    },
+    {
+      "icon": "Moneybag",
+      "title": "Wealth Protection",
+      "body": "Protect assets with insurance and estate planning services."
+    },
+    {
+      "icon": "ChartLineUp",
+      "title": "Tax Planning",
+      "body": "Maximize savings through efficient tax strategies."
+    },
+    {
+      "icon": "Key",
+      "title": "Pension Advice",
+      "body": "Unlock the full potential of your pension plans."
+    },
+    {
+      "icon": "Settings",
+      "title": "Financial Reviews",
+      "body": "Regular assessments to keep your finances on track."
+    }
+  ],
+  "palette": {
+    "primary": "#2563eb",
+    "primaryHover": "#1d4ed8",
+    "secondary": "#0f766e"
+  },
+  "faqs": [
+    {
+      "q": "Are you FCA registered?",
+      "a": "Yes, we are fully registered with the Financial Conduct Authority."
+    },
+    {
+      "q": "What services do you offer?",
+      "a": "We provide a range of services including retirement planning, investment management, and tax planning."
+    },
+    {
+      "q": "How often should I review my financial plan?",
+      "a": "It's recommended to review your financial plan annually or whenever there are significant life changes."
+    },
+    {
+      "q": "Can you help with estate planning?",
+      "a": "Absolutely, we offer comprehensive wealth protection services including estate planning and insurance advice."
+    }
+  ]
+}

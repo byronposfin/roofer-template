@@ -1,0 +1,67 @@
+{
+  "id": "will_writing_networks_franchise",
+  "displayName": "Will Writing Networks (Franchise)",
+  "plural": "Will Writing Networks (Franchise)s",
+  "heroTagline": "Local Will Experts",
+  "ctaLabel": "Get a Free Consultation",
+  "trustBadges": [
+    "Solicitors' Regulation Authority Registered",
+    "Law Society Accredited",
+    "Confidential & Secure"
+  ],
+  "services": [
+    {
+      "icon": "DocumentText",
+      "title": "Will Writing Services",
+      "body": "Personalised wills tailored to your needs."
+    },
+    {
+      "icon": "ShieldCheck",
+      "title": "Probate Assistance",
+      "body": "Guidance through the probate process."
+    },
+    {
+      "icon": "Heart",
+      "title": "Living Wills & LPAs",
+      "body": "Advance decisions and lasting powers of attorney."
+    },
+    {
+      "icon": "Droplets",
+      "title": "Estate Planning",
+      "body": "Strategically plan your estate for peace of mind."
+    },
+    {
+      "icon": "Key",
+      "title": "Trusts & Inheritance Tax Advice",
+      "body": "Minimise inheritance tax and manage trusts effectively."
+    },
+    {
+      "icon": "Search",
+      "title": "Legal Document Review",
+      "body": "Review existing legal documents for accuracy and compliance."
+    }
+  ],
+  "palette": {
+    "primary": "#2563eb",
+    "primaryHover": "#1d4ed8",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are your services confidential?",
+      "a": "Yes, all our consultations and services are strictly confidential."
+    },
+    {
+      "q": "Do you offer online appointments?",
+      "a": "Absolutely. We provide both in-person and virtual consultation options."
+    },
+    {
+      "q": "How long does it take to draft a will?",
+      "a": "Typically, we can complete your will within 2-3 weeks from the initial consultation."
+    },
+    {
+      "q": "Can you help with probate after someone passes away?",
+      "a": "Yes, our team offers comprehensive support through the probate process."
+    }
+  ]
+}

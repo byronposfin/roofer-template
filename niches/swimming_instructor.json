@@ -1,0 +1,67 @@
+{
+  "id": "swimming_instructor",
+  "displayName": "Swimming Instructor",
+  "plural": "Swimming Instructors",
+  "heroTagline": "Local Swim Experts",
+  "ctaLabel": "Book a Lesson",
+  "trustBadges": [
+    "STA Certified",
+    "British Swimming Member",
+    "First Aid Trained"
+  ],
+  "services": [
+    {
+      "icon": "Droplets",
+      "title": "Beginner Lessons",
+      "body": "Learn the basics of swimming for all ages."
+    },
+    {
+      "icon": "Bath",
+      "title": "Stroke Improvement",
+      "body": "Refine your technique and improve your speed."
+    },
+    {
+      "icon": "Heart",
+      "title": "Aquatic Fitness",
+      "body": "Stay fit with water-based workouts."
+    },
+    {
+      "icon": "Shield",
+      "title": "Safety Training",
+      "body": "Learn essential lifesaving skills and techniques."
+    },
+    {
+      "icon": "Clock",
+      "title": "Private Lessons",
+      "body": "Personalized one-on-one swimming instruction."
+    },
+    {
+      "icon": "Dumbbell",
+      "title": "Swim for Weight Loss",
+      "body": "Burn calories and lose weight in the water."
+    }
+  ],
+  "palette": {
+    "primary": "#16a34a",
+    "primaryHover": "#0f766e",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are you STA certified?",
+      "a": "Yes, all our instructors are STA certified and first aid trained."
+    },
+    {
+      "q": "Do you offer private lessons?",
+      "a": "Absolutely. We provide personalized one-on-one swimming instruction."
+    },
+    {
+      "q": "What age groups do you teach?",
+      "a": "We cater to all ages, from toddlers to adults."
+    },
+    {
+      "q": "How can I book a lesson?",
+      "a": "You can call us or fill in our contact form \u2014 we'll get back to you shortly."
+    }
+  ]
+}

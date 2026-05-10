@@ -1,0 +1,67 @@
+{
+  "id": "drain_specialist",
+  "displayName": "Drain Specialist",
+  "plural": "Drain Specialists",
+  "heroTagline": "Local Drain Experts",
+  "ctaLabel": "Get a Free Quote",
+  "trustBadges": [
+    "WaterSafe Registered",
+    "Fully Insured",
+    "Certified Technicians"
+  ],
+  "services": [
+    {
+      "icon": "Droplets",
+      "title": "Drain Cleaning",
+      "body": "Professional high-pressure drain cleaning services."
+    },
+    {
+      "icon": "Shovel",
+      "title": "Septic Tank Maintenance",
+      "body": "Regular septic tank pumping and maintenance."
+    },
+    {
+      "icon": "Bath",
+      "title": "Toilet Repairs",
+      "body": "Emergency toilet repairs and installations."
+    },
+    {
+      "icon": "Siren",
+      "title": "24/7 Emergency Services",
+      "body": "Rapid response to all plumbing emergencies."
+    },
+    {
+      "icon": "Tool",
+      "title": "Drainage Installation",
+      "body": "New drainage systems and replacements."
+    },
+    {
+      "icon": "Hammer",
+      "title": "Leak Detection",
+      "body": "Advanced leak detection technology for accurate repairs."
+    }
+  ],
+  "palette": {
+    "primary": "#0d9488",
+    "primaryHover": "#0f766e",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are you WaterSafe registered?",
+      "a": "Yes \u2014 all our technicians are WaterSafe registered and fully insured."
+    },
+    {
+      "q": "Do you offer emergency services?",
+      "a": "Absolutely. We provide 24/7 emergency plumbing and drainage services."
+    },
+    {
+      "q": "Can you handle septic tank maintenance?",
+      "a": "Yes, we specialize in regular septic tank pumping and maintenance."
+    },
+    {
+      "q": "How do I get a quote?",
+      "a": "Call us or fill out our contact form \u2014 we'll respond within the hour with your free quote."
+    }
+  ]
+}

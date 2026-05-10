@@ -1,0 +1,67 @@
+{
+  "id": "interior_designer",
+  "displayName": "Interior Designer",
+  "plural": "Interior Designers",
+  "heroTagline": "Transform Your Space",
+  "ctaLabel": "Schedule a Consultation",
+  "trustBadges": [
+    "CIID Member",
+    "Fully Insured",
+    "Local Expertise"
+  ],
+  "services": [
+    {
+      "icon": "PaintBucket",
+      "title": "Color Consultations",
+      "body": "Expert advice on color schemes for your home."
+    },
+    {
+      "icon": "Hammer",
+      "title": "Remodeling Services",
+      "body": "Custom kitchen and bathroom renovations."
+    },
+    {
+      "icon": "Lightbulb",
+      "title": "Lighting Design",
+      "body": "Create the perfect ambiance with our lighting solutions."
+    },
+    {
+      "icon": "Car",
+      "title": "Furniture Selection",
+      "body": "Curated furniture choices to match your style."
+    },
+    {
+      "icon": "Trees",
+      "title": "Sustainable Design",
+      "body": "Eco-friendly materials and practices for a green home."
+    },
+    {
+      "icon": "Tool",
+      "title": "Space Planning",
+      "body": "Maximize your living space with thoughtful layouts."
+    }
+  ],
+  "palette": {
+    "primary": "#0d9488",
+    "primaryHover": "#0f766e",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Do you offer virtual consultations?",
+      "a": "Yes, we provide both in-person and virtual design services."
+    },
+    {
+      "q": "How long does a typical project take?",
+      "a": "Project timelines vary based on scope but typically range from 4 to 12 weeks."
+    },
+    {
+      "q": "Can you help with furniture sourcing?",
+      "a": "Absolutely, we can assist in selecting and purchasing the perfect pieces for your home."
+    },
+    {
+      "q": "What areas do you serve?",
+      "a": "We primarily serve clients within a 30-mile radius of our office location."
+    }
+  ]
+}

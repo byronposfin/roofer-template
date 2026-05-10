@@ -1,0 +1,67 @@
+{
+  "id": "e_commerce_brand_builders",
+  "displayName": "E-Commerce Brand Builders",
+  "plural": "E-Commerce Brand Builders",
+  "heroTagline": "Boost Your Online Presence",
+  "ctaLabel": "Start Building Today",
+  "trustBadges": [
+    "Google Partner",
+    "Shopify Expert",
+    "Facebook Certified"
+  ],
+  "services": [
+    {
+      "icon": "Truck",
+      "title": "E-Commerce Setup",
+      "body": "Launch your online store with our expert setup services."
+    },
+    {
+      "icon": "Hammer",
+      "title": "Website Design",
+      "body": "Custom designs tailored to your brand and audience."
+    },
+    {
+      "icon": "PaintBucket",
+      "title": "Branding Services",
+      "body": "Create a strong visual identity for your brand."
+    },
+    {
+      "icon": "Search",
+      "title": "SEO Optimization",
+      "body": "Increase visibility with our SEO strategies and tools."
+    },
+    {
+      "icon": "Tool",
+      "title": "Marketing Automation",
+      "body": "Automate your marketing efforts for better engagement."
+    },
+    {
+      "icon": "Settings",
+      "title": "Analytics Setup",
+      "body": "Track performance with our analytics setup services."
+    }
+  ],
+  "palette": {
+    "primary": "#2563eb",
+    "primaryHover": "#1d4ed8",
+    "secondary": "#0f766e"
+  },
+  "faqs": [
+    {
+      "q": "Do you offer ongoing support?",
+      "a": "Yes, we provide continuous support to ensure your online store runs smoothly."
+    },
+    {
+      "q": "How long does it take to set up an e-commerce site?",
+      "a": "Typically 2-4 weeks depending on the complexity and scope of your project."
+    },
+    {
+      "q": "Can you integrate with existing systems?",
+      "a": "Absolutely, we can connect your new store with CRM, ERP, and other business tools."
+    },
+    {
+      "q": "What payment methods do you support?",
+      "a": "We support a variety of payment gateways including PayPal, Stripe, and more."
+    }
+  ]
+}

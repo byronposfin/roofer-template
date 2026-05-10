@@ -1,0 +1,67 @@
+{
+  "id": "tree_surgeon",
+  "displayName": "Tree Surgeon",
+  "plural": "Tree Surgeons",
+  "heroTagline": "Local Expert Arborists",
+  "ctaLabel": "Get a Free Quote",
+  "trustBadges": [
+    "ISA Member",
+    "Fully Insured",
+    "Qualified Arborists"
+  ],
+  "services": [
+    {
+      "icon": "Trees",
+      "title": "Tree Pruning",
+      "body": "Professional pruning to maintain tree health and aesthetics."
+    },
+    {
+      "icon": "Shovel",
+      "title": "Stump Removal",
+      "body": "Efficient stump grinding services for a clean finish."
+    },
+    {
+      "icon": "Hammer",
+      "title": "Tree Felling",
+      "body": "Safe and controlled tree removal services."
+    },
+    {
+      "icon": "Droplets",
+      "title": "Tree Health Care",
+      "body": "Injections, fertilization, and pest control for healthy trees."
+    },
+    {
+      "icon": "Shield",
+      "title": "Safety Assessments",
+      "body": "Professional tree risk assessments to ensure safety."
+    },
+    {
+      "icon": "Truck",
+      "title": "Tree Relocation",
+      "body": "Specialist services for moving trees to new locations."
+    }
+  ],
+  "palette": {
+    "primary": "#16a34a",
+    "primaryHover": "#0f766e",
+    "secondary": "#2563eb"
+  },
+  "faqs": [
+    {
+      "q": "Are you ISA members?",
+      "a": "Yes, all our arborists are certified and registered with the International Society of Arboriculture."
+    },
+    {
+      "q": "Do you offer emergency services?",
+      "a": "Absolutely. We provide 24/7 emergency tree removal for safety concerns."
+    },
+    {
+      "q": "How do I book a consultation?",
+      "a": "Simply call us or fill out our contact form to schedule your free site visit and quote."
+    },
+    {
+      "q": "Do you handle all types of trees?",
+      "a": "Yes, we specialize in the care and maintenance of all tree species, from small shrubs to large mature trees."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "structural_engineers_residential",
+  "displayName": "Structural Engineers (Residential)",
+  "plural": "Structural Engineers (Residential)s",
+  "heroTagline": "Local Residential Experts",
+  "ctaLabel": "Get a Free Quote",
+  "trustBadges": [
+    "CE Mark Certified",
+    "Chartered Engineer",
+    "Building Control Approved"
+  ],
+  "services": [
+    {
+      "icon": "Hammer",
+      "title": "Structural Repairs",
+      "body": "Foundation and wall repairs for residential properties"
+    },
+    {
+      "icon": "Home",
+      "title": "Load Assessments",
+      "body": "Evaluate structural integrity of homes before renovations"
+    },
+    {
+      "icon": "Shovel",
+      "title": "Basement Extensions",
+      "body": "Safe and compliant basement conversions"
+    },
+    {
+      "icon": "Trees",
+      "title": "Tree Root Remediation",
+      "body": "Mitigate damage from tree roots to foundations"
+    },
+    {
+      "icon": "Droplets",
+      "title": "Waterproofing Solutions",
+      "body": "Protect your home against water ingress and damp"
+    },
+    {
+      "icon": "Tool",
+      "title": "Structural Surveys",
+      "body": "Comprehensive surveys for buying or selling homes"
+    }
+  ],
+  "palette": {
+    "primary": "#0d9488",
+    "primaryHover": "#0f766e",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Do you offer emergency services?",
+      "a": "Yes, we provide urgent structural assessments and repairs."
+    },
+    {
+      "q": "How long does a structural survey take?",
+      "a": "Typically, surveys are completed within 2-3 days after the site visit."
+    },
+    {
+      "q": "Can you handle planning permissions?",
+      "a": "We work closely with local authorities to ensure all necessary approvals are obtained."
+    },
+    {
+      "q": "What areas do you cover?",
+      "a": "Our services are available throughout the UK, primarily focusing on residential properties."
+    }
+  ]
+}

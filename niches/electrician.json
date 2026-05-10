@@ -1,0 +1,67 @@
+{
+  "id": "electrician",
+  "displayName": "Electrician",
+  "plural": "Electricians",
+  "heroTagline": "Local Electrical Experts",
+  "ctaLabel": "Get a Free Quote",
+  "trustBadges": [
+    "NICEIC Approved",
+    "Part P Certified",
+    "Fully Insured"
+  ],
+  "services": [
+    {
+      "icon": "Zap",
+      "title": "Fuse Board Upgrades",
+      "body": "Full consumer unit replacements to 17th/18 edition"
+    },
+    {
+      "icon": "Home",
+      "title": "Domestic Rewires",
+      "body": "Full and partial rewires with certification"
+    },
+    {
+      "icon": "Lightbulb",
+      "title": "Lighting Installation",
+      "body": "LED upgrades, spotlights, garden lighting"
+    },
+    {
+      "icon": "PlugZap",
+      "title": "EV Charger Installation",
+      "body": "Home and commercial charging points"
+    },
+    {
+      "icon": "ShieldCheck",
+      "title": "Electrical Testing",
+      "body": "EICR reports for landlords and homeowners"
+    },
+    {
+      "icon": "Wrench",
+      "title": "Fault Finding",
+      "body": "Same-day diagnosis and repair"
+    }
+  ],
+  "palette": {
+    "primary": "#0d9488",
+    "primaryHover": "#0f766e",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are you NICEIC approved?",
+      "a": "Yes \u2014 all our electricians are NICEIC approved contractors and fully insured."
+    },
+    {
+      "q": "Can you provide an EICR report?",
+      "a": "Absolutely. We issue EICR certificates for landlords, homeowners and commercial properties."
+    },
+    {
+      "q": "Do you offer emergency call-outs?",
+      "a": "Yes \u2014 we respond to electrical emergencies 24/7."
+    },
+    {
+      "q": "How do I get a quote?",
+      "a": "Call us or fill in our contact form \u2014 we'll get back to you within the hour."
+    }
+  ]
+}

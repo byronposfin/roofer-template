@@ -1,0 +1,67 @@
+{
+  "id": "funeral_plan_providers",
+  "displayName": "Funeral Plan Providers",
+  "plural": "Funeral Plan Providers",
+  "heroTagline": "Peace of Mind Planning",
+  "ctaLabel": "Get a Free Consultation",
+  "trustBadges": [
+    "FPCB Registered",
+    "Member of APFM",
+    "Fully Insured"
+  ],
+  "services": [
+    {
+      "icon": "Heart",
+      "title": "Prepaid Funeral Plans",
+      "body": "Secure your future arrangements today."
+    },
+    {
+      "icon": "Siren",
+      "title": "24/7 Bereavement Support",
+      "body": "Immediate assistance when you need it most."
+    },
+    {
+      "icon": "Shield",
+      "title": "Guaranteed Prices",
+      "body": "Lock in today's prices for future peace of mind."
+    },
+    {
+      "icon": "Phone",
+      "title": "Personalized Planning",
+      "body": "Tailored services to reflect your loved one's life."
+    },
+    {
+      "icon": "Droplets",
+      "title": "Cremation Services",
+      "body": "Comprehensive cremation arrangements included."
+    },
+    {
+      "icon": "Truck",
+      "title": "Transport and Logistics",
+      "body": "Professional transportation for your loved one."
+    }
+  ],
+  "palette": {
+    "primary": "#2563eb",
+    "primaryHover": "#1d4ed8",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are you FPCB registered?",
+      "a": "Yes, we are fully registered with the Funeral Planning Authority."
+    },
+    {
+      "q": "What does a prepaid plan cover?",
+      "a": "Our plans cover all essential services including cremation or burial, funeral director fees and more."
+    },
+    {
+      "q": "Can I change my plan later?",
+      "a": "Yes, you can update your preferences at any time to ensure they reflect your wishes."
+    },
+    {
+      "q": "How do I start planning?",
+      "a": "Contact us today for a free consultation and we'll guide you through the process."
+    }
+  ]
+}

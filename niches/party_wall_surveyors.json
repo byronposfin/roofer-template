@@ -1,0 +1,67 @@
+{
+  "id": "party_wall_surveyors",
+  "displayName": "Party Wall Surveyors",
+  "plural": "Party Wall Surveyors",
+  "heroTagline": "Expert local surveyors",
+  "ctaLabel": "Get a Free Quote",
+  "trustBadges": [
+    "RICS Registered",
+    "Chartered Surveyors",
+    "Dispute Resolution Experts"
+  ],
+  "services": [
+    {
+      "icon": "Tool",
+      "title": "Party Wall Notices",
+      "body": "Drafting and serving of Party Wall notices"
+    },
+    {
+      "icon": "ShieldCheck",
+      "title": "Survey Reports",
+      "body": "Detailed survey reports for compliance"
+    },
+    {
+      "icon": "Hammer",
+      "title": "Agreed Schedules of Condition",
+      "body": "Documenting the pre-construction condition of properties"
+    },
+    {
+      "icon": "Droplets",
+      "title": "Dispute Resolution",
+      "body": "Mediation and arbitration services for party wall disputes"
+    },
+    {
+      "icon": "Eye",
+      "title": "Site Visits & Inspections",
+      "body": "Regular site visits to monitor compliance with Party Wall Act"
+    },
+    {
+      "icon": "Settings",
+      "title": "Advisory Services",
+      "body": "Guidance on rights and obligations under the Party Wall Act"
+    }
+  ],
+  "palette": {
+    "primary": "#0d9488",
+    "primaryHover": "#0f766e",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are you RICS registered?",
+      "a": "Yes, all our surveyors are fully RICS registered."
+    },
+    {
+      "q": "What is a Party Wall Notice?",
+      "a": "A formal notice given to adjoining property owners before starting work that affects the party wall or boundary."
+    },
+    {
+      "q": "Can you help with disputes?",
+      "a": "Absolutely, we offer mediation and arbitration services for resolving party wall disputes."
+    },
+    {
+      "q": "How do I get a quote?",
+      "a": "Contact us via phone or our website \u2014 we'll provide a free initial consultation."
+    }
+  ]
+}

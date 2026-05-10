@@ -1,0 +1,67 @@
+{
+  "id": "space_tourism_preparation_services",
+  "displayName": "Space Tourism Preparation Services",
+  "plural": "Space Tourism Preparation Services",
+  "heroTagline": "Prepare for the cosmos",
+  "ctaLabel": "Book Your Session",
+  "trustBadges": [
+    "NASA Certified Trainers",
+    "ISO 9001:2015 Registered",
+    "ESA Member"
+  ],
+  "services": [
+    {
+      "icon": "Rocket",
+      "title": "Zero-G Training",
+      "body": "Simulated zero-gravity environment training."
+    },
+    {
+      "icon": "ShieldCheck",
+      "title": "Safety Briefings",
+      "body": "Comprehensive safety protocols and emergency procedures."
+    },
+    {
+      "icon": "Dumbbell",
+      "title": "Physical Conditioning",
+      "body": "Customized fitness programs for space readiness."
+    },
+    {
+      "icon": "Thermometer",
+      "title": "Environmental Adaptation",
+      "body": "Training in extreme temperature and pressure conditions."
+    },
+    {
+      "icon": "Eye",
+      "title": "Vision Enhancement",
+      "body": "Specialized exercises to improve visual acuity for space travel."
+    },
+    {
+      "icon": "Key",
+      "title": "Access Training",
+      "body": "Security and access protocols for space facilities."
+    }
+  ],
+  "palette": {
+    "primary": "#2563eb",
+    "primaryHover": "#1d4ed8",
+    "secondary": "#0f766e"
+  },
+  "faqs": [
+    {
+      "q": "Are your trainers certified?",
+      "a": "Yes, all our trainers are NASA Certified for space tourism preparation."
+    },
+    {
+      "q": "What does the training cover?",
+      "a": "Our training covers zero-G simulation, safety protocols, physical conditioning, environmental adaptation, vision enhancement, and access training."
+    },
+    {
+      "q": "How long is each session?",
+      "a": "Each session varies in duration depending on the specific training module but typically ranges from 2 to 4 hours."
+    },
+    {
+      "q": "Can I book a package deal?",
+      "a": "Yes, we offer comprehensive packages that include all necessary training modules for space tourism preparation."
+    }
+  ]
+}

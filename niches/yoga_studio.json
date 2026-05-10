@@ -1,0 +1,67 @@
+{
+  "id": "yoga_studio",
+  "displayName": "Yoga Studio",
+  "plural": "Yoga Studios",
+  "heroTagline": "Local Wellness Hub",
+  "ctaLabel": "Join a Class Today!",
+  "trustBadges": [
+    "RYT Certified Instructors",
+    "Clean & Safe Environment",
+    "Member of Yoga Alliance"
+  ],
+  "services": [
+    {
+      "icon": "Dumbbell",
+      "title": "Hatha Yoga Classes",
+      "body": "Beginner-friendly classes focusing on basic poses and breathing techniques."
+    },
+    {
+      "icon": "Leaf",
+      "title": "Yoga Workshops",
+      "body": "Specialized workshops for advanced practitioners, covering various yoga styles."
+    },
+    {
+      "icon": "Heart",
+      "title": "Prenatal Yoga",
+      "body": "Classes designed to support pregnant women through their pregnancy journey."
+    },
+    {
+      "icon": "Clock",
+      "title": "Morning Flow Sessions",
+      "body": "Start your day with a refreshing morning yoga session."
+    },
+    {
+      "icon": "Shield",
+      "title": "Private Yoga Lessons",
+      "body": "Personalized one-on-one sessions tailored to your specific needs and goals."
+    },
+    {
+      "icon": "Music",
+      "title": "Yoga & Meditation Retreats",
+      "body": "Weekend retreats focusing on yoga, meditation, and relaxation techniques."
+    }
+  ],
+  "palette": {
+    "primary": "#7c3aed",
+    "primaryHover": "#642f9a",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are your instructors certified?",
+      "a": "Yes, all our instructors are RYT certified and members of Yoga Alliance."
+    },
+    {
+      "q": "Do you offer private lessons?",
+      "a": "Absolutely. We provide personalized one-on-one sessions for a tailored experience."
+    },
+    {
+      "q": "What is your cancellation policy?",
+      "a": "We require 24 hours notice for class cancellations to avoid charges."
+    },
+    {
+      "q": "Can I bring my own mat?",
+      "a": "Yes, you are welcome to bring your own yoga mat. We also provide mats if needed."
+    }
+  ]
+}

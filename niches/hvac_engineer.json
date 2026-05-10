@@ -1,0 +1,67 @@
+{
+  "id": "hvac_engineer",
+  "displayName": "HVAC Engineer",
+  "plural": "HVAC Engineers",
+  "heroTagline": "Local Climate Control Experts",
+  "ctaLabel": "Get a Free Quote",
+  "trustBadges": [
+    "Gas Safe Registered",
+    "BESA Member",
+    "ISO 9001 Certified"
+  ],
+  "services": [
+    {
+      "icon": "Thermometer",
+      "title": "Heating System Installation",
+      "body": "Professional installation of boilers and central heating systems"
+    },
+    {
+      "icon": "Droplets",
+      "title": "Air Conditioning Maintenance",
+      "body": "Regular servicing to keep your AC running smoothly"
+    },
+    {
+      "icon": "Flame",
+      "title": "Gas Safety Checks",
+      "body": "Annual safety checks and certification for gas appliances"
+    },
+    {
+      "icon": "Wind",
+      "title": "Ventilation Solutions",
+      "body": "Design and installation of efficient ventilation systems"
+    },
+    {
+      "icon": "Bath",
+      "title": "Radiators & Underfloor Heating",
+      "body": "Installation, repair, and maintenance services"
+    },
+    {
+      "icon": "Tool",
+      "title": "Emergency Repairs",
+      "body": "24/7 service for urgent heating and cooling issues"
+    }
+  ],
+  "palette": {
+    "primary": "#0d9488",
+    "primaryHover": "#0f766e",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are you Gas Safe registered?",
+      "a": "Yes \u2014 all our engineers are fully certified and registered with Gas Safe."
+    },
+    {
+      "q": "Do you offer maintenance plans?",
+      "a": "Absolutely. We provide tailored maintenance packages to keep your systems running efficiently."
+    },
+    {
+      "q": "Can you install air conditioning units?",
+      "a": "Yes \u2014 we handle all types of AC installations, from small residential units to large commercial systems."
+    },
+    {
+      "q": "How do I schedule a service call?",
+      "a": "Simply contact us via phone or our website. We'll arrange a convenient time for your appointment."
+    }
+  ]
+}

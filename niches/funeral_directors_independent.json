@@ -1,0 +1,67 @@
+{
+  "id": "funeral_directors_independent",
+  "displayName": "Funeral Directors (Independent)",
+  "plural": "Funeral Directors (Independent)s",
+  "heroTagline": "Local Trusted Care",
+  "ctaLabel": "Arrange a Consultation",
+  "trustBadges": [
+    "SAIF Member",
+    "FAD Accredited",
+    "Fully Insured"
+  ],
+  "services": [
+    {
+      "icon": "Siren",
+      "title": "Funeral Planning",
+      "body": "Personalized funeral arrangements and planning services."
+    },
+    {
+      "icon": "Heart",
+      "title": "Cremation Services",
+      "body": "Comprehensive cremation options with dignity and respect."
+    },
+    {
+      "icon": "Car",
+      "title": "Transport Services",
+      "body": "Professional transportation for the deceased and family members."
+    },
+    {
+      "icon": "Leaf",
+      "title": "Green Burials",
+      "body": "Eco-friendly burial options that respect nature."
+    },
+    {
+      "icon": "Shield",
+      "title": "24/7 Support",
+      "body": "Immediate assistance and support at any time of the day or night."
+    },
+    {
+      "icon": "Phone",
+      "title": "Family Consultations",
+      "body": "Personal consultations to guide you through your options."
+    }
+  ],
+  "palette": {
+    "primary": "#2563eb",
+    "primaryHover": "#1d4ed8",
+    "secondary": "#0f766e"
+  },
+  "faqs": [
+    {
+      "q": "Are you SAIF members?",
+      "a": "Yes, we are proud members of the SAIF, ensuring high standards and support."
+    },
+    {
+      "q": "Do you offer cremation services?",
+      "a": "Absolutely. We provide comprehensive cremation options with dignity and respect."
+    },
+    {
+      "q": "Can I arrange a consultation?",
+      "a": "Yes, we offer personal consultations to guide you through your options."
+    },
+    {
+      "q": "What is FAD accreditation?",
+      "a": "FAD accreditation ensures our services meet the highest standards of professionalism and care."
+    }
+  ]
+}

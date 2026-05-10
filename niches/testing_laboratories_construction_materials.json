@@ -1,0 +1,67 @@
+{
+  "id": "testing_laboratories_construction_materials",
+  "displayName": "Testing Laboratories (Construction Materials)",
+  "plural": "Testing Laboratories (Construction Materials)s",
+  "heroTagline": "Accurate Material Analysis",
+  "ctaLabel": "Request a Test",
+  "trustBadges": [
+    "UKAS Accredited",
+    "ISO 17025 Certified",
+    "CE Marking Compliance"
+  ],
+  "services": [
+    {
+      "icon": "Shovel",
+      "title": "Soil Testing",
+      "body": "Determine soil composition and suitability for construction."
+    },
+    {
+      "icon": "Truck",
+      "title": "Concrete Analysis",
+      "body": "Assess strength, durability, and compliance of concrete mixes."
+    },
+    {
+      "icon": "Hammer",
+      "title": "Aggregate Testing",
+      "body": "Evaluate aggregate quality for road construction and more."
+    },
+    {
+      "icon": "Thermometer",
+      "title": "Heat Resistance Tests",
+      "body": "Measure material stability under high temperatures."
+    },
+    {
+      "icon": "Droplets",
+      "title": "Waterproofing Assessments",
+      "body": "Ensure materials resist water penetration and damage."
+    },
+    {
+      "icon": "ShieldCheck",
+      "title": "Safety Compliance Testing",
+      "body": "Verify material safety standards for construction use."
+    }
+  ],
+  "palette": {
+    "primary": "#2563eb",
+    "primaryHover": "#1d4ed8",
+    "secondary": "#0f766e"
+  },
+  "faqs": [
+    {
+      "q": "Are your tests UKAS accredited?",
+      "a": "Yes, all our testing services are UKAS accredited."
+    },
+    {
+      "q": "How long does a test take?",
+      "a": "Typically between 2-5 days depending on the complexity of the test."
+    },
+    {
+      "q": "Do you offer on-site testing?",
+      "a": "Yes, we provide both lab-based and on-site testing services."
+    },
+    {
+      "q": "Can I get a certificate after testing?",
+      "a": "Absolutely. A detailed certification is provided upon completion of each test."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "commercial_cleaner",
+  "displayName": "Commercial Cleaner",
+  "plural": "Commercial Cleaners",
+  "heroTagline": "Professional Cleaning Solutions",
+  "ctaLabel": "Request a Quote",
+  "trustBadges": [
+    "BICSc Registered",
+    "Fully Insured",
+    "EPA Approved"
+  ],
+  "services": [
+    {
+      "icon": "Droplets",
+      "title": "Deep Cleaning Services",
+      "body": "Comprehensive cleaning for commercial spaces."
+    },
+    {
+      "icon": "Hammer",
+      "title": "Window Cleaning",
+      "body": "Professional window cleaning services."
+    },
+    {
+      "icon": "PaintBucket",
+      "title": "Disinfection Services",
+      "body": "Specialized disinfection for office and retail spaces."
+    },
+    {
+      "icon": "Truck",
+      "title": "Janitorial Supplies Delivery",
+      "body": "Regular supply of cleaning materials."
+    },
+    {
+      "icon": "Leaf",
+      "title": "Eco-Friendly Cleaning",
+      "body": "Green cleaning solutions for sustainable businesses."
+    },
+    {
+      "icon": "Shield",
+      "title": "Health & Safety Compliance",
+      "body": "Ensuring compliance with health and safety regulations."
+    }
+  ],
+  "palette": {
+    "primary": "#2563eb",
+    "primaryHover": "#1d4ed8",
+    "secondary": "#0f766e"
+  },
+  "faqs": [
+    {
+      "q": "Are you BICSc registered?",
+      "a": "Yes, we are fully registered with the British Institute of Cleaning Science."
+    },
+    {
+      "q": "Do you provide eco-friendly cleaning solutions?",
+      "a": "Absolutely. We offer green cleaning options to support sustainable practices."
+    },
+    {
+      "q": "How often can you clean our premises?",
+      "a": "We offer flexible schedules, from daily to weekly cleaning services."
+    },
+    {
+      "q": "Can we request a quote online?",
+      "a": "Yes, simply fill out the contact form on our website or call us directly."
+    }
+  ]
+}

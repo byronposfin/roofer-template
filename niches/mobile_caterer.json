@@ -1,0 +1,67 @@
+{
+  "id": "mobile_caterer",
+  "displayName": "Mobile Caterer",
+  "plural": "Mobile Caterers",
+  "heroTagline": "Local Food on Wheels",
+  "ctaLabel": "Book Your Event",
+  "trustBadges": [
+    "Food Hygiene Rating: 5/5",
+    "Fully Insured",
+    "Catering Association Member"
+  ],
+  "services": [
+    {
+      "icon": "ChefHat",
+      "title": "Wedding Catering",
+      "body": "Custom menus for your special day"
+    },
+    {
+      "icon": "Utensils",
+      "title": "Corporate Events",
+      "body": "Catering solutions for business events"
+    },
+    {
+      "icon": "Cake",
+      "title": "Birthday Parties",
+      "body": "Delicious treats and meals for all ages"
+    },
+    {
+      "icon": "Truck",
+      "title": "Mobile Kitchen",
+      "body": "On-site cooking at your location"
+    },
+    {
+      "icon": "Leaf",
+      "title": "Vegan Options",
+      "body": "Plant-based dishes for every occasion"
+    },
+    {
+      "icon": "Droplets",
+      "title": "Hydration Stations",
+      "body": "Fresh water and juice options"
+    }
+  ],
+  "palette": {
+    "primary": "#16a34a",
+    "primaryHover": "#0f766e",
+    "secondary": "#2563eb"
+  },
+  "faqs": [
+    {
+      "q": "Do you have a food hygiene rating?",
+      "a": "Yes, we maintain a perfect 5/5 rating."
+    },
+    {
+      "q": "Can you cater for dietary restrictions?",
+      "a": "Absolutely. We offer vegan, vegetarian and gluten-free options."
+    },
+    {
+      "q": "How far do you travel to events?",
+      "a": "We cover the UK with our mobile kitchen services."
+    },
+    {
+      "q": "What is your cancellation policy?",
+      "a": "Please notify us at least 48 hours before your event for a full refund."
+    }
+  ]
+}

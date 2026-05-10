@@ -1,0 +1,67 @@
+{
+  "id": "cleaning_franchise",
+  "displayName": "Cleaning Franchise",
+  "plural": "Cleaning Franchises",
+  "heroTagline": "Professional Local Cleaners",
+  "ctaLabel": "Request a Free Quote",
+  "trustBadges": [
+    "BICSc Registered",
+    "Fully Insured",
+    "Green Cleaning Certified"
+  ],
+  "services": [
+    {
+      "icon": "Droplets",
+      "title": "Deep Cleaning",
+      "body": "Comprehensive cleaning for your home or office"
+    },
+    {
+      "icon": "Bath",
+      "title": "Window Cleaning",
+      "body": "Streak-free windows inside and out"
+    },
+    {
+      "icon": "Hammer",
+      "title": "Pressure Washing",
+      "body": "Effortless exterior cleaning solutions"
+    },
+    {
+      "icon": "Leaf",
+      "title": "Eco-Friendly Cleaning",
+      "body": "Green products for a healthier environment"
+    },
+    {
+      "icon": "Shield",
+      "title": "Disinfection Services",
+      "body": "Professional sanitization to keep you safe"
+    },
+    {
+      "icon": "Truck",
+      "title": "Move-In/Out Cleaning",
+      "body": "Thorough cleaning for new or vacated spaces"
+    }
+  ],
+  "palette": {
+    "primary": "#2563eb",
+    "primaryHover": "#1d4ed8",
+    "secondary": "#0f766e"
+  },
+  "faqs": [
+    {
+      "q": "Are your cleaners insured?",
+      "a": "Yes, all our staff are fully insured and background checked."
+    },
+    {
+      "q": "Do you use eco-friendly products?",
+      "a": "Absolutely. We offer green cleaning options to protect the environment."
+    },
+    {
+      "q": "Can I schedule a one-time clean?",
+      "a": "Yes, we provide both regular and one-off cleaning services."
+    },
+    {
+      "q": "How do I book an appointment?",
+      "a": "Simply fill out our contact form or give us a call \u2014 we'll get back to you shortly."
+    }
+  ]
+}

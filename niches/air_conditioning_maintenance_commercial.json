@@ -1,0 +1,67 @@
+{
+  "id": "air_conditioning_maintenance_commercial",
+  "displayName": "Air Conditioning Maintenance (Commercial)",
+  "plural": "Air Conditioning Maintenance (Commercial)s",
+  "heroTagline": "Professional AC Solutions",
+  "ctaLabel": "Get a Free Quote",
+  "trustBadges": [
+    "BESA Member",
+    "F-Gas Certified",
+    "ISO 14001"
+  ],
+  "services": [
+    {
+      "icon": "Thermometer",
+      "title": "System Installation",
+      "body": "Professional installation of commercial air conditioning systems."
+    },
+    {
+      "icon": "Droplets",
+      "title": "Regular Maintenance",
+      "body": "Scheduled maintenance to keep your system running efficiently."
+    },
+    {
+      "icon": "Wrench",
+      "title": "Emergency Repairs",
+      "body": "Swift response for unexpected breakdowns and repairs."
+    },
+    {
+      "icon": "Shield",
+      "title": "Compliance Checks",
+      "body": "Ensure your system meets all legal requirements with our compliance checks."
+    },
+    {
+      "icon": "Leaf",
+      "title": "Energy Efficiency Audits",
+      "body": "Assess and improve the energy efficiency of your air conditioning systems."
+    },
+    {
+      "icon": "Tool",
+      "title": "Filter Replacement",
+      "body": "Regular filter replacements to maintain optimal performance."
+    }
+  ],
+  "palette": {
+    "primary": "#2563eb",
+    "primaryHover": "#1d4ed8",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are you BESA members?",
+      "a": "Yes, we are proud members of the Building Engineering Services Association."
+    },
+    {
+      "q": "Do you offer emergency services?",
+      "a": "Absolutely. We provide rapid response for any unexpected air conditioning issues."
+    },
+    {
+      "q": "How often should I have maintenance done?",
+      "a": "We recommend at least twice a year to ensure optimal performance and efficiency."
+    },
+    {
+      "q": "Can you help with compliance?",
+      "a": "Yes, we conduct thorough checks to ensure your system complies with all regulations."
+    }
+  ]
+}

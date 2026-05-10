@@ -1,0 +1,67 @@
+{
+  "id": "cctv_security_installer",
+  "displayName": "CCTV & Security Installer",
+  "plural": "Security Installers",
+  "heroTagline": "Secure your home",
+  "ctaLabel": "Get a Free Quote",
+  "trustBadges": [
+    "BSIA Member",
+    "ISO 9001 Certified",
+    "Fully Insured"
+  ],
+  "services": [
+    {
+      "icon": "Camera",
+      "title": "CCTV Installation",
+      "body": "HD cameras for home and business security"
+    },
+    {
+      "icon": "Shield",
+      "title": "Alarm Systems",
+      "body": "Professional installation of alarm systems"
+    },
+    {
+      "icon": "Eye",
+      "title": "Surveillance Monitoring",
+      "body": "24/7 remote monitoring services"
+    },
+    {
+      "icon": "Lock",
+      "title": "Access Control",
+      "body": "Smart locks and keyless entry systems"
+    },
+    {
+      "icon": "Tool",
+      "title": "Security Lighting",
+      "body": "Motion-activated lighting for added security"
+    },
+    {
+      "icon": "Settings",
+      "title": "System Upgrades",
+      "body": "Upgrade your existing security systems"
+    }
+  ],
+  "palette": {
+    "primary": "#0d9488",
+    "primaryHover": "#0f766e",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Do you offer maintenance services?",
+      "a": "Yes, we provide regular maintenance and system checks."
+    },
+    {
+      "q": "Can you install systems for businesses too?",
+      "a": "Absolutely. We cater to both residential and commercial clients."
+    },
+    {
+      "q": "How do I schedule an installation?",
+      "a": "Contact us via phone or our website, and we'll arrange a visit."
+    },
+    {
+      "q": "Are your systems compatible with smartphones?",
+      "a": "Yes, most of our systems are smartphone accessible for remote monitoring."
+    }
+  ]
+}

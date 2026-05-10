@@ -1,0 +1,67 @@
+{
+  "id": "hypnotherapy_practices",
+  "displayName": "Hypnotherapy Practices",
+  "plural": "Hypnotherapy Practices",
+  "heroTagline": "Transformative Mind Solutions",
+  "ctaLabel": "Book Your Session",
+  "trustBadges": [
+    "Registered Hypnotherapist",
+    "NLP Certified",
+    "Confidential Sessions"
+  ],
+  "services": [
+    {
+      "icon": "Smile",
+      "title": "Stress Management",
+      "body": "Reduce stress and anxiety through hypnosis techniques."
+    },
+    {
+      "icon": "Eye",
+      "title": "Weight Loss Hypnotherapy",
+      "body": "Achieve your weight loss goals with guided sessions."
+    },
+    {
+      "icon": "Heart",
+      "title": "Quit Smoking Program",
+      "body": "Stop smoking for good with our hypnosis methods."
+    },
+    {
+      "icon": "Clock",
+      "title": "Sleep Improvement",
+      "body": "Enhance your sleep quality through relaxation techniques."
+    },
+    {
+      "icon": "Stethoscope",
+      "title": "Pain Management",
+      "body": "Alleviate chronic pain with hypnotherapy sessions."
+    },
+    {
+      "icon": "Settings",
+      "title": "Custom Hypnosis Sessions",
+      "body": "Personalized therapy for specific needs and goals."
+    }
+  ],
+  "palette": {
+    "primary": "#7c3aed",
+    "primaryHover": "#642f9d",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Is hypnotherapy safe?",
+      "a": "Yes, it's a safe and effective method for personal development."
+    },
+    {
+      "q": "How many sessions are needed?",
+      "a": "The number of sessions varies based on individual needs and goals."
+    },
+    {
+      "q": "Do you offer online sessions?",
+      "a": "Yes, we provide both in-person and virtual hypnotherapy sessions."
+    },
+    {
+      "q": "What conditions can be treated with hypnosis?",
+      "a": "Hypnotherapy can help with stress, anxiety, phobias, weight loss, smoking cessation, and more."
+    }
+  ]
+}

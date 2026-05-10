@@ -1,0 +1,67 @@
+{
+  "id": "professional_development_programme_designers_fit_8",
+  "displayName": "Professional Development Programme Designers | **Fit:** 8.9 | Cpd Accreditation, Programme Architecture, Blended Learning Design.",
+  "plural": "Professional Development Programme Designers | **Fit:** 8.9 | Cpd Accreditation, Programme Architecture, Blended Learning Design.s",
+  "heroTagline": "Expert PD Program Designers",
+  "ctaLabel": "Design Your Programme",
+  "trustBadges": [
+    "CPD Accredited",
+    "Chartered Educator",
+    "Learning & Performance Institute"
+  ],
+  "services": [
+    {
+      "icon": "Tool",
+      "title": "CPD Accreditation Services",
+      "body": "Ensure your programmes meet CPD standards for professional development."
+    },
+    {
+      "icon": "BookOpen",
+      "title": "Programme Architecture Design",
+      "body": "Crafting the structure and flow of learning experiences to maximize impact."
+    },
+    {
+      "icon": "Film",
+      "title": "Blended Learning Solutions",
+      "body": "Integrating online and offline learning for a comprehensive educational experience."
+    },
+    {
+      "icon": "ChartPie",
+      "title": "Learning Needs Analysis",
+      "body": "Identifying specific training needs to tailor programmes effectively."
+    },
+    {
+      "icon": "Certificate",
+      "title": "Certification Development",
+      "body": "Creating bespoke certification processes for your professional development programmes."
+    },
+    {
+      "icon": "Users",
+      "title": "Stakeholder Engagement",
+      "body": "Facilitating effective communication and collaboration with all stakeholders involved in the programme design process."
+    }
+  ],
+  "palette": {
+    "primary": "#2563eb",
+    "primaryHover": "#1d4ed8",
+    "secondary": "#0f766e"
+  },
+  "faqs": [
+    {
+      "q": "Do you offer CPD accreditation?",
+      "a": "Yes, we provide comprehensive services to ensure your programmes meet the required CPD standards."
+    },
+    {
+      "q": "Can you help with programme architecture design?",
+      "a": "Absolutely. Our team specializes in designing effective and engaging learning structures for professional development programmes."
+    },
+    {
+      "q": "What is blended learning?",
+      "a": "Blended learning combines traditional face-to-face classroom methods with online digital media, creating a flexible and comprehensive educational experience."
+    },
+    {
+      "q": "How do I get started with designing my programme?",
+      "a": "Contact us to discuss your needs. We'll guide you through the process from analysis to certification development."
+    }
+  ]
+}

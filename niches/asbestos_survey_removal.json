@@ -1,0 +1,67 @@
+{
+  "id": "asbestos_survey_removal",
+  "displayName": "Asbestos Survey & Removal",
+  "plural": "Asbestos Survey & Removals",
+  "heroTagline": "Safe Asbestos Solutions",
+  "ctaLabel": "Get a Free Quote",
+  "trustBadges": [
+    "HSE Registered",
+    "Fully Insured",
+    "Certified Professionals"
+  ],
+  "services": [
+    {
+      "icon": "Shovel",
+      "title": "Asbestos Surveying",
+      "body": "Identify and assess asbestos-containing materials in your property."
+    },
+    {
+      "icon": "Droplets",
+      "title": "Air Monitoring",
+      "body": "Ensure safe air quality during and after asbestos removal."
+    },
+    {
+      "icon": "Shield",
+      "title": "Risk Assessment",
+      "body": "Evaluate the risks associated with asbestos in your environment."
+    },
+    {
+      "icon": "Truck",
+      "title": "Professional Removal",
+      "body": "Safe and compliant asbestos removal services."
+    },
+    {
+      "icon": "Leaf",
+      "title": "Environmental Compliance",
+      "body": "Ensure all work meets environmental regulations."
+    },
+    {
+      "icon": "Tool",
+      "title": "Site Clearance",
+      "body": "Complete site clearance post-removal to ensure safety and compliance."
+    }
+  ],
+  "palette": {
+    "primary": "#0d9488",
+    "primaryHover": "#0f766e",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are you HSE registered?",
+      "a": "Yes, we are fully registered with the Health and Safety Executive."
+    },
+    {
+      "q": "How do I know if asbestos is present in my property?",
+      "a": "A professional survey can identify asbestos-containing materials. We offer comprehensive surveys to ensure safety."
+    },
+    {
+      "q": "Do you provide air monitoring during removal?",
+      "a": "Absolutely, we monitor the air quality throughout the process to maintain a safe environment."
+    },
+    {
+      "q": "How do I get a quote for your services?",
+      "a": "You can contact us via phone or our website. We'll arrange an initial survey and provide you with a detailed quotation."
+    }
+  ]
+}

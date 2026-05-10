@@ -1,0 +1,67 @@
+{
+  "id": "counsellor",
+  "displayName": "Counsellor",
+  "plural": "Counsellors",
+  "heroTagline": "Expert Mental Health Support",
+  "ctaLabel": "Book Your Session",
+  "trustBadges": [
+    "BACP Registered",
+    "HCPC Approved",
+    "Confidential Services"
+  ],
+  "services": [
+    {
+      "icon": "Smile",
+      "title": "Individual Counselling",
+      "body": "Personalised sessions for emotional well-being"
+    },
+    {
+      "icon": "Eye",
+      "title": "Couples Therapy",
+      "body": "Enhance your relationship through communication and understanding"
+    },
+    {
+      "icon": "Heart",
+      "title": "Family Counselling",
+      "body": "Support for family dynamics and relationships"
+    },
+    {
+      "icon": "Stethoscope",
+      "title": "Trauma Therapy",
+      "body": "Specialised support for trauma recovery"
+    },
+    {
+      "icon": "Clock",
+      "title": "Online Sessions",
+      "body": "Convenient counselling from the comfort of your home"
+    },
+    {
+      "icon": "Shield",
+      "title": "Confidential Consultations",
+      "body": "Secure and private sessions for all clients"
+    }
+  ],
+  "palette": {
+    "primary": "#7c3aed",
+    "primaryHover": "#642f9b",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are your services confidential?",
+      "a": "Yes, all our sessions are strictly confidential."
+    },
+    {
+      "q": "Do you offer online counselling?",
+      "a": "Absolutely. We provide secure and convenient online sessions."
+    },
+    {
+      "q": "How do I book a session?",
+      "a": "You can book through our website or by calling us directly."
+    },
+    {
+      "q": "Are your counsellors registered?",
+      "a": "Yes, all our counsellors are BACP registered and HCPC approved."
+    }
+  ]
+}

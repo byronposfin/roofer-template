@@ -1,0 +1,67 @@
+{
+  "id": "pet_boarding",
+  "displayName": "Pet Boarding",
+  "plural": "Pet Boarding Services",
+  "heroTagline": "Safe Pet Stay",
+  "ctaLabel": "Book Your Stay",
+  "trustBadges": [
+    "RSPCA Approved",
+    "5-Star Rated",
+    "Vet Partner"
+  ],
+  "services": [
+    {
+      "icon": "Dog",
+      "title": "Dogs Boarding",
+      "body": "Comfortable kennels with daily walks and playtime."
+    },
+    {
+      "icon": "Cat",
+      "title": "Cats Boarding",
+      "body": "Indoor cattery with individual attention and enrichment activities."
+    },
+    {
+      "icon": "Heart",
+      "title": "Special Care Needs",
+      "body": "Support for pets with medical conditions or special diets."
+    },
+    {
+      "icon": "Clock",
+      "title": "Extended Stay Packages",
+      "body": "Discounted rates for stays over 7 days."
+    },
+    {
+      "icon": "Shield",
+      "title": "Health Checks",
+      "body": "Daily health monitoring and vet support on-site."
+    },
+    {
+      "icon": "Eye",
+      "title": "Cameras & Monitoring",
+      "body": "24/7 camera access for peace of mind."
+    }
+  ],
+  "palette": {
+    "primary": "#16a34a",
+    "primaryHover": "#0f766e",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are you RSPCA approved?",
+      "a": "Yes, we are RSPCA Approved for your pet's safety and comfort."
+    },
+    {
+      "q": "Do you offer special care needs support?",
+      "a": "Absolutely. We provide individualized care plans for pets with specific health requirements."
+    },
+    {
+      "q": "Can I check on my pet remotely?",
+      "a": "Yes, we have 24/7 camera access so you can monitor your pet anytime."
+    },
+    {
+      "q": "What are the booking terms?",
+      "a": "You can book online or over the phone. We require a deposit and a signed agreement for all bookings."
+    }
+  ]
+}

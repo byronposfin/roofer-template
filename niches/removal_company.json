@@ -1,0 +1,67 @@
+{
+  "id": "removal_company",
+  "displayName": "Removal Company",
+  "plural": "Removal Companies",
+  "heroTagline": "Local Relocation Experts",
+  "ctaLabel": "Get a Free Quote",
+  "trustBadges": [
+    "Fully Insured",
+    "Guild of Removers Member",
+    "SafeMove Certified"
+  ],
+  "services": [
+    {
+      "icon": "Truck",
+      "title": "Residential Moving",
+      "body": "Efficient relocation services for homes and apartments."
+    },
+    {
+      "icon": "Hammer",
+      "title": "Packing Services",
+      "body": "Professional packing to ensure your items arrive safely."
+    },
+    {
+      "icon": "Shield",
+      "title": "Valuable Item Protection",
+      "body": "Special handling for antiques, artwork and other valuables."
+    },
+    {
+      "icon": "Droplets",
+      "title": "Climate-Controlled Storage",
+      "body": "Secure storage options with climate control to protect your belongings."
+    },
+    {
+      "icon": "Tool",
+      "title": "Disassembly & Reassembly",
+      "body": "Expert disassembly and reinstallation of furniture and appliances."
+    },
+    {
+      "icon": "Eye",
+      "title": "In-Transit Monitoring",
+      "body": "Real-time tracking to ensure your move is on schedule."
+    }
+  ],
+  "palette": {
+    "primary": "#0d9488",
+    "primaryHover": "#0f766e",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Do you offer packing services?",
+      "a": "Yes, we provide professional packing to ensure your items are protected during the move."
+    },
+    {
+      "q": "How do I book a removal service?",
+      "a": "You can call us or fill out our online form to get started with booking your relocation."
+    },
+    {
+      "q": "Are you insured for my belongings?",
+      "a": "Absolutely, all items are fully insured against damage and loss during the move."
+    },
+    {
+      "q": "Can I track my move in real-time?",
+      "a": "Yes, we offer real-time tracking so you can monitor your relocation progress."
+    }
+  ]
+}

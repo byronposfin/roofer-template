@@ -1,0 +1,67 @@
+{
+  "id": "nursery",
+  "displayName": "Nursery",
+  "plural": "Nurseries",
+  "heroTagline": "Grow with us",
+  "ctaLabel": "Book a Visit",
+  "trustBadges": [
+    "Ofsted Registered",
+    "Qualified Staff",
+    "Safe Environment"
+  ],
+  "services": [
+    {
+      "icon": "Trees",
+      "title": "Toddler Care",
+      "body": "Developmental activities for toddlers aged 1-3 years."
+    },
+    {
+      "icon": "Baby",
+      "title": "Infant Care",
+      "body": "Caring and nurturing environment for infants under 1 year old."
+    },
+    {
+      "icon": "Cake",
+      "title": "Nutritious Meals",
+      "body": "Homemade, healthy meals tailored to children's dietary needs."
+    },
+    {
+      "icon": "Shield",
+      "title": "Safety Measures",
+      "body": "Strict safety protocols and secure premises for peace of mind."
+    },
+    {
+      "icon": "Eye",
+      "title": "Parental Involvement",
+      "body": "Regular updates and open communication with parents."
+    },
+    {
+      "icon": "Clock",
+      "title": "Flexible Hours",
+      "body": "Extended hours to accommodate working parents' schedules."
+    }
+  ],
+  "palette": {
+    "primary": "#16a34a",
+    "primaryHover": "#0f766e",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are you Ofsted registered?",
+      "a": "Yes, we are fully registered with Ofsted and undergo regular inspections."
+    },
+    {
+      "q": "What age groups do you cater to?",
+      "a": "We provide care for infants from 6 months up to school-age children."
+    },
+    {
+      "q": "Do you offer extended hours?",
+      "a": "Yes, we have flexible hours to support working parents with early drop-offs and late pick-ups."
+    },
+    {
+      "q": "How can I book a visit?",
+      "a": "You can call us or fill out our online contact form to schedule a tour of the nursery."
+    }
+  ]
+}

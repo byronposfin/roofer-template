@@ -1,0 +1,67 @@
+{
+  "id": "pet_insurance_brokers",
+  "displayName": "Pet Insurance Brokers",
+  "plural": "Pet Insurance Brokers",
+  "heroTagline": "Protect your pets",
+  "ctaLabel": "Get a Free Quote",
+  "trustBadges": [
+    "APPII Member",
+    "FCA Registered",
+    "ISO Certified"
+  ],
+  "services": [
+    {
+      "icon": "Dog",
+      "title": "Pet Insurance Quotes",
+      "body": "Compare and get the best quotes for your pet"
+    },
+    {
+      "icon": "Heart",
+      "title": "Claims Assistance",
+      "body": "Help with claims process and support"
+    },
+    {
+      "icon": "Shield",
+      "title": "Policy Reviews",
+      "body": "Regular reviews to ensure coverage meets needs"
+    },
+    {
+      "icon": "Cat",
+      "title": "Special Needs Coverage",
+      "body": "Insurance for pets with pre-existing conditions"
+    },
+    {
+      "icon": "Phone",
+      "title": "24/7 Customer Support",
+      "body": "Support available anytime, anywhere"
+    },
+    {
+      "icon": "Settings",
+      "title": "Custom Policy Options",
+      "body": "Tailored insurance to fit your pet's needs"
+    }
+  ],
+  "palette": {
+    "primary": "#2563eb",
+    "primaryHover": "#1d4ed8",
+    "secondary": "#0f766e"
+  },
+  "faqs": [
+    {
+      "q": "Are you APPII members?",
+      "a": "Yes, we are proud members of the Association of Pet Insurance Intermediaries (APPII)."
+    },
+    {
+      "q": "How do I get a quote?",
+      "a": "Simply fill out our online form or call us \u2014 we'll provide you with personalized quotes."
+    },
+    {
+      "q": "Do you offer 24/7 support?",
+      "a": "Yes, our customer service team is available around the clock to assist you."
+    },
+    {
+      "q": "Can I get insurance for a pet with pre-existing conditions?",
+      "a": "Absolutely. We have options that cater to pets with existing health issues."
+    }
+  ]
+}

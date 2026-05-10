@@ -1,0 +1,67 @@
+{
+  "id": "car_detailer",
+  "displayName": "Car Detailer",
+  "plural": "Car Detailers",
+  "heroTagline": "Shine Your Ride",
+  "ctaLabel": "Book Your Detailing",
+  "trustBadges": [
+    "IAA Certified",
+    "Fully Insured",
+    "Eco-Friendly Products"
+  ],
+  "services": [
+    {
+      "icon": "Car",
+      "title": "Interior Cleaning",
+      "body": "Deep clean seats, carpets, and dashboards"
+    },
+    {
+      "icon": "Droplets",
+      "title": "Wax & Sealant Application",
+      "body": "Protective coatings for long-lasting shine"
+    },
+    {
+      "icon": "Scissors",
+      "title": "Paint Correction",
+      "body": "Buff out swirl marks and scratches"
+    },
+    {
+      "icon": "Leaf",
+      "title": "Eco-Friendly Washes",
+      "body": "Biodegradable soaps for a clean conscience"
+    },
+    {
+      "icon": "Shield",
+      "title": "UV Protection",
+      "body": "Apply UV-resistant coatings to protect paint"
+    },
+    {
+      "icon": "Tool",
+      "title": "Window Tinting",
+      "body": "Privacy and heat protection for your car windows"
+    }
+  ],
+  "palette": {
+    "primary": "#2563eb",
+    "primaryHover": "#1d4ed8",
+    "secondary": "#0f766e"
+  },
+  "faqs": [
+    {
+      "q": "Do you use eco-friendly products?",
+      "a": "Yes, we exclusively use biodegradable and environmentally friendly cleaning solutions."
+    },
+    {
+      "q": "How long does a detailing session take?",
+      "a": "Typically between 4 to 8 hours depending on the level of detail required."
+    },
+    {
+      "q": "Can you come to my location?",
+      "a": "Absolutely, we offer mobile services for your convenience."
+    },
+    {
+      "q": "Do you provide a warranty?",
+      "a": "Yes, all our work comes with a 30-day satisfaction guarantee."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "rent_review_surveyors",
+  "displayName": "Rent Review Surveyors",
+  "plural": "Rent Review Surveyors",
+  "heroTagline": "Expert local surveyors",
+  "ctaLabel": "Get a Free Consultation",
+  "trustBadges": [
+    "RICS Registered",
+    "Chartered Surveyors",
+    "Property Valuation Experts"
+  ],
+  "services": [
+    {
+      "icon": "Eye",
+      "title": "Rent Reviews",
+      "body": "Professional rent review services for landlords and tenants."
+    },
+    {
+      "icon": "Settings",
+      "title": "Lease Advisory",
+      "body": "Advice on lease terms and conditions to protect your interests."
+    },
+    {
+      "icon": "Shield",
+      "title": "Dispute Resolution",
+      "body": "Mediation services for property disputes between parties."
+    },
+    {
+      "icon": "Droplets",
+      "title": "Market Analysis",
+      "body": "Detailed market analysis to inform rental decisions."
+    },
+    {
+      "icon": "Search",
+      "title": "Property Valuation",
+      "body": "Accurate property valuations for legal and financial purposes."
+    },
+    {
+      "icon": "Tool",
+      "title": "Lease Renewals",
+      "body": "Assistance with lease renewals to ensure fair terms."
+    }
+  ],
+  "palette": {
+    "primary": "#2563eb",
+    "primaryHover": "#1d4ed8",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are you RICS registered?",
+      "a": "Yes, all our surveyors are fully RICS registered."
+    },
+    {
+      "q": "Can you help with lease disputes?",
+      "a": "Absolutely. We offer mediation services for property disputes."
+    },
+    {
+      "q": "How do I schedule a consultation?",
+      "a": "You can call us or fill out our contact form to arrange a meeting."
+    },
+    {
+      "q": "Do you provide market analysis reports?",
+      "a": "Yes, we offer comprehensive market analysis for rental decisions."
+    }
+  ]
+}

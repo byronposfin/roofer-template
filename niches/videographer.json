@@ -1,0 +1,67 @@
+{
+  "id": "videographer",
+  "displayName": "Videographer",
+  "plural": "Videographers",
+  "heroTagline": "Capture Your Moments",
+  "ctaLabel": "Book a Session",
+  "trustBadges": [
+    "BAFTA Member",
+    "ISO Certified",
+    "Drone Operator License"
+  ],
+  "services": [
+    {
+      "icon": "Camera",
+      "title": "Event Videography",
+      "body": "Professional coverage for weddings, corporate events and more."
+    },
+    {
+      "icon": "Film",
+      "title": "Corporate Videos",
+      "body": "Branding, training videos, product launches \u2014 we cover it all."
+    },
+    {
+      "icon": "Dumbbell",
+      "title": "Sports Coverage",
+      "body": "Live streaming and highlight reels for sports events."
+    },
+    {
+      "icon": "Music",
+      "title": "Music Videos",
+      "body": "Creative direction, filming and editing services."
+    },
+    {
+      "icon": "Eye",
+      "title": "Aerial Footage",
+      "body": "Stunning aerial shots with our certified drone operators."
+    },
+    {
+      "icon": "Tool",
+      "title": "Post-Production Editing",
+      "body": "Color grading, sound design and final cut services."
+    }
+  ],
+  "palette": {
+    "primary": "#2563eb",
+    "primaryHover": "#1d4ed8",
+    "secondary": "#0f766e"
+  },
+  "faqs": [
+    {
+      "q": "Do you offer aerial footage?",
+      "a": "Yes, we have certified drone operators for stunning aerial shots."
+    },
+    {
+      "q": "Can you provide corporate video services?",
+      "a": "Absolutely. We cover branding videos, training materials and more."
+    },
+    {
+      "q": "How do I book a session?",
+      "a": "Simply fill out our contact form or give us a call \u2014 we'll get back to you shortly."
+    },
+    {
+      "q": "What is your turnaround time for post-production?",
+      "a": "Typically 3-5 business days, depending on the project's complexity."
+    }
+  ]
+}

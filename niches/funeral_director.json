@@ -1,0 +1,67 @@
+{
+  "id": "funeral_director",
+  "displayName": "Funeral Director",
+  "plural": "Funeral Directors",
+  "heroTagline": "Local Caring Support",
+  "ctaLabel": "Arrange a Consultation",
+  "trustBadges": [
+    "MFDA Member",
+    "Fully Licensed",
+    "24/7 Service"
+  ],
+  "services": [
+    {
+      "icon": "Heart",
+      "title": "Funeral Planning",
+      "body": "Personalised funeral arrangements and planning services."
+    },
+    {
+      "icon": "Siren",
+      "title": "Emergency Response",
+      "body": "Immediate assistance for sudden bereavements."
+    },
+    {
+      "icon": "Truck",
+      "title": "Transport Services",
+      "body": "Professional transportation of loved ones to the funeral home or crematorium."
+    },
+    {
+      "icon": "Shield",
+      "title": "Legal Compliance",
+      "body": "Ensuring all legal and administrative requirements are met."
+    },
+    {
+      "icon": "Cake",
+      "title": "Celebration of Life",
+      "body": "Organising memorial events to celebrate the life of your loved one."
+    },
+    {
+      "icon": "Phone",
+      "title": "Support Services",
+      "body": "Counselling and support for bereaved families."
+    }
+  ],
+  "palette": {
+    "primary": "#2563eb",
+    "primaryHover": "#1d4ed8",
+    "secondary": "#0f766e"
+  },
+  "faqs": [
+    {
+      "q": "Are you MFDA members?",
+      "a": "Yes, we are proud members of the National Association of Funeral Directors (NAFD)."
+    },
+    {
+      "q": "Do you offer emergency services?",
+      "a": "Absolutely, our 24/7 service ensures immediate support in times of need."
+    },
+    {
+      "q": "Can you help with legal requirements?",
+      "a": "Yes, we handle all necessary paperwork and ensure compliance with local regulations."
+    },
+    {
+      "q": "How do I arrange a consultation?",
+      "a": "You can call us directly or fill out our online contact form to schedule an appointment."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "optician",
+  "displayName": "Optician",
+  "plural": "Opticians",
+  "heroTagline": "Local Vision Experts",
+  "ctaLabel": "Book Your Eye Test",
+  "trustBadges": [
+    "GOC Registered",
+    "Qualified Optometrists",
+    "Eye Care Specialists"
+  ],
+  "services": [
+    {
+      "icon": "Eye",
+      "title": "Comprehensive Eye Tests",
+      "body": "Detailed vision and eye health assessments"
+    },
+    {
+      "icon": "Heart",
+      "title": "Contact Lens Fittings",
+      "body": "Professional fittings for all types of contact lenses"
+    },
+    {
+      "icon": "Lightbulb",
+      "title": "Prescription Glasses",
+      "body": "Wide range of stylish and functional glasses"
+    },
+    {
+      "icon": "Shield",
+      "title": "UV Protection Lenses",
+      "body": "Protective lenses for all-day UV protection"
+    },
+    {
+      "icon": "Stethoscope",
+      "title": "Eye Health Consultations",
+      "body": "Specialist advice on maintaining eye health"
+    },
+    {
+      "icon": "Tool",
+      "title": "Emergency Eye Care",
+      "body": "Immediate treatment for eye injuries and conditions"
+    }
+  ],
+  "palette": {
+    "primary": "#16a34a",
+    "primaryHover": "#0f766e",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are your opticians GOC registered?",
+      "a": "Yes, all our optometrists are fully registered with the General Optical Council."
+    },
+    {
+      "q": "Do you offer contact lens fittings?",
+      "a": "Absolutely. We provide professional fittings for a variety of contact lenses."
+    },
+    {
+      "q": "Can I book an eye test online?",
+      "a": "Yes, simply use our online booking system or call us to schedule your appointment."
+    },
+    {
+      "q": "Do you have emergency services available?",
+      "a": "We offer urgent care for eye injuries and conditions. Please contact us immediately if needed."
+    }
+  ]
+}

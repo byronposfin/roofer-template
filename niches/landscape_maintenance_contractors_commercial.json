@@ -1,0 +1,67 @@
+{
+  "id": "landscape_maintenance_contractors_commercial",
+  "displayName": "Landscape Maintenance Contractors (Commercial)",
+  "plural": "Landscape Maintenance Contractors (Commercial)s",
+  "heroTagline": "Professional Commercial Landscaping",
+  "ctaLabel": "Get a Free Quote",
+  "trustBadges": [
+    "ISO 14001 Certified",
+    "Safety Approved",
+    "Member of BALI"
+  ],
+  "services": [
+    {
+      "icon": "Trees",
+      "title": "Tree Pruning & Removal",
+      "body": "Expert pruning and removal services for commercial properties."
+    },
+    {
+      "icon": "Shovel",
+      "title": "Landscaping Design & Installation",
+      "body": "Custom design and installation of outdoor spaces."
+    },
+    {
+      "icon": "Droplets",
+      "title": "Irrigation Systems",
+      "body": "Installation, maintenance, and repair of irrigation systems."
+    },
+    {
+      "icon": "Scissors",
+      "title": "Hedge Trimming & Maintenance",
+      "body": "Regular trimming and shaping for a neat appearance."
+    },
+    {
+      "icon": "Leaf",
+      "title": "Seasonal Clean-Up Services",
+      "body": "Fall leaf removal, spring clean-ups, and more."
+    },
+    {
+      "icon": "Truck",
+      "title": "Landscape Supply Delivery",
+      "body": "Delivery of soil, mulch, gravel, and other landscaping materials."
+    }
+  ],
+  "palette": {
+    "primary": "#16a34a",
+    "primaryHover": "#0f766e",
+    "secondary": "#2563eb"
+  },
+  "faqs": [
+    {
+      "q": "Do you offer emergency services?",
+      "a": "Yes, we provide emergency landscaping and maintenance services."
+    },
+    {
+      "q": "Are your services environmentally friendly?",
+      "a": "Absolutely. We are ISO 14001 certified and use eco-friendly practices."
+    },
+    {
+      "q": "Can you handle large commercial projects?",
+      "a": "Yes, we specialize in large-scale commercial landscaping projects."
+    },
+    {
+      "q": "How do I schedule a consultation?",
+      "a": "You can call us or fill out our contact form to schedule a consultation."
+    }
+  ]
+}

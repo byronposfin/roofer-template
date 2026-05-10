@@ -1,0 +1,67 @@
+{
+  "id": "plumbing_heating_engineers_commercial",
+  "displayName": "Plumbing & Heating Engineers (Commercial)",
+  "plural": "Plumbing & Heating Engineers (Commercial)s",
+  "heroTagline": "Expert Commercial Solutions",
+  "ctaLabel": "Get a Free Quote",
+  "trustBadges": [
+    "CIPHE Registered",
+    "Gas Safe Approved",
+    "ISO 9001 Certified"
+  ],
+  "services": [
+    {
+      "icon": "Droplets",
+      "title": "Commercial Plumbing Installations",
+      "body": "Complete plumbing systems for commercial buildings"
+    },
+    {
+      "icon": "Thermometer",
+      "title": "Heating System Maintenance",
+      "body": "Regular servicing and maintenance of heating systems"
+    },
+    {
+      "icon": "Flame",
+      "title": "Boiler Installation & Repair",
+      "body": "Professional boiler installation, repair, and replacement services"
+    },
+    {
+      "icon": "Bath",
+      "title": "Sanitaryware Fitting",
+      "body": "Installation of commercial-grade sanitaryware"
+    },
+    {
+      "icon": "Shield",
+      "title": "Legionella Risk Assessments",
+      "body": "Comprehensive Legionella risk assessments and management plans"
+    },
+    {
+      "icon": "Tool",
+      "title": "Emergency Plumbing Services",
+      "body": "24/7 emergency plumbing repairs for commercial properties"
+    }
+  ],
+  "palette": {
+    "primary": "#0d9488",
+    "primaryHover": "#0f766e",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are you Gas Safe registered?",
+      "a": "Yes, all our engineers are fully certified and Gas Safe registered."
+    },
+    {
+      "q": "Do you offer maintenance contracts?",
+      "a": "Absolutely. We provide tailored maintenance plans for commercial clients."
+    },
+    {
+      "q": "How quickly can you respond to emergencies?",
+      "a": "We have a rapid response team available 24/7 for urgent issues."
+    },
+    {
+      "q": "Can you handle large-scale projects?",
+      "a": "Yes, we specialize in handling all sizes of commercial plumbing and heating projects."
+    }
+  ]
+}

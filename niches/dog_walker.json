@@ -1,0 +1,67 @@
+{
+  "id": "dog_walker",
+  "displayName": "Dog Walker",
+  "plural": "Dog Walkers",
+  "heroTagline": "Local Pet Care Experts",
+  "ctaLabel": "Book a Walk Today",
+  "trustBadges": [
+    "Pet First Aid Certified",
+    "DBS Checked",
+    "NAS Welfare Approved"
+  ],
+  "services": [
+    {
+      "icon": "Dog",
+      "title": "Daily Dog Walking",
+      "body": "Regular walks to keep your dog active and happy."
+    },
+    {
+      "icon": "Heart",
+      "title": "Pet Sitting Services",
+      "body": "In-home care for when you're away from home."
+    },
+    {
+      "icon": "Shield",
+      "title": "Safety Oriented Walks",
+      "body": "Ensuring your pet's safety with experienced handlers."
+    },
+    {
+      "icon": "Clock",
+      "title": "Scheduled Visits",
+      "body": "Customized schedules to fit your dog\u2019s needs."
+    },
+    {
+      "icon": "Eye",
+      "title": "Behavior Monitoring",
+      "body": "Observing and reporting on your pet's behavior."
+    },
+    {
+      "icon": "Dumbbell",
+      "title": "Playtime & Exercise",
+      "body": "Engaging activities to keep your dog fit and socialized."
+    }
+  ],
+  "palette": {
+    "primary": "#16a34a",
+    "primaryHover": "#0f766e",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are you DBS checked?",
+      "a": "Yes, all our dog walkers are DBS checked for your peace of mind."
+    },
+    {
+      "q": "Do you offer pet sitting services?",
+      "a": "Absolutely. We provide in-home care and pet sitting when you're away."
+    },
+    {
+      "q": "How do I book a walk?",
+      "a": "You can call us or fill out our online booking form to schedule a walk."
+    },
+    {
+      "q": "What areas do you cover?",
+      "a": "We serve the local area and will discuss your specific location needs."
+    }
+  ]
+}

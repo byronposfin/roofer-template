@@ -1,0 +1,67 @@
+{
+  "id": "chiropractor",
+  "displayName": "Chiropractor",
+  "plural": "Chiropractors",
+  "heroTagline": "Local Spine Experts",
+  "ctaLabel": "Book Your Appointment",
+  "trustBadges": [
+    "General Chiropractic Council Registered",
+    "Qualified & Experienced Practitioners",
+    "Patient-Centered Care"
+  ],
+  "services": [
+    {
+      "icon": "Stethoscope",
+      "title": "Spinal Adjustments",
+      "body": "Precision adjustments to realign your spine and improve mobility."
+    },
+    {
+      "icon": "Dumbbell",
+      "title": "Muscle Rehabilitation",
+      "body": "Customized exercises to strengthen muscles supporting the spine."
+    },
+    {
+      "icon": "Heart",
+      "title": "Pain Management",
+      "body": "Non-invasive techniques for reducing pain and discomfort."
+    },
+    {
+      "icon": "Eye",
+      "title": "Posture Analysis",
+      "body": "Evaluation of your posture to identify areas needing correction."
+    },
+    {
+      "icon": "Clock",
+      "title": "Wellness Consultations",
+      "body": "Comprehensive consultations for overall health and wellness advice."
+    },
+    {
+      "icon": "Tool",
+      "title": "Sports Injury Treatment",
+      "body": "Specialized care for athletes to recover from sports-related injuries."
+    }
+  ],
+  "palette": {
+    "primary": "#7c3aed",
+    "primaryHover": "#642d9a",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are you registered with the General Chiropractic Council?",
+      "a": "Yes, all our chiropractors are fully registered and qualified."
+    },
+    {
+      "q": "Do you offer pain management services?",
+      "a": "Absolutely. We specialize in non-invasive techniques to reduce pain."
+    },
+    {
+      "q": "Can I book an appointment online?",
+      "a": "Yes, simply fill out our contact form or call us directly."
+    },
+    {
+      "q": "Do you treat sports injuries?",
+      "a": "Yes, we provide specialized treatment for athletes and active individuals."
+    }
+  ]
+}

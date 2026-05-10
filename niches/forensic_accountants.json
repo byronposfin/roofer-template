@@ -1,0 +1,67 @@
+{
+  "id": "forensic_accountants",
+  "displayName": "Forensic Accountants",
+  "plural": "Forensic Accountants",
+  "heroTagline": "Expert Financial Analysis",
+  "ctaLabel": "Contact Us Now",
+  "trustBadges": [
+    "ICAEW Member",
+    "Certified Fraud Examiner",
+    "Data Privacy Compliant"
+  ],
+  "services": [
+    {
+      "icon": "Search",
+      "title": "Financial Investigation",
+      "body": "In-depth analysis for legal and regulatory compliance."
+    },
+    {
+      "icon": "Shield",
+      "title": "Fraud Detection",
+      "body": "Identifying financial discrepancies and fraudulent activities."
+    },
+    {
+      "icon": "Tool",
+      "title": "Litigation Support",
+      "body": "Providing expert testimony in court proceedings."
+    },
+    {
+      "icon": "Eye",
+      "title": "Asset Tracing",
+      "body": "Locating hidden assets for recovery and legal actions."
+    },
+    {
+      "icon": "Key",
+      "title": "Due Diligence",
+      "body": "Conducting thorough financial background checks."
+    },
+    {
+      "icon": "Settings",
+      "title": "Regulatory Compliance",
+      "body": "Ensuring adherence to financial regulations and standards."
+    }
+  ],
+  "palette": {
+    "primary": "#2563eb",
+    "primaryHover": "#1d4ed8",
+    "secondary": "#0f766e"
+  },
+  "faqs": [
+    {
+      "q": "Are you ICAEW members?",
+      "a": "Yes, all our forensic accountants are registered ICAEW members."
+    },
+    {
+      "q": "Do you handle fraud cases?",
+      "a": "Absolutely. We specialize in identifying and investigating fraudulent activities."
+    },
+    {
+      "q": "Can you provide expert witness services?",
+      "a": "Yes, we offer litigation support including expert testimony in court."
+    },
+    {
+      "q": "How do I schedule a consultation?",
+      "a": "You can contact us via phone or our website to arrange a consultation."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "dance_school",
+  "displayName": "Dance School",
+  "plural": "Dance Schools",
+  "heroTagline": "Local Dance Excellence",
+  "ctaLabel": "Join Our Classes",
+  "trustBadges": [
+    "Royal Academy of Dance Member",
+    "Safe Dance Practices Certified",
+    "Arts Council England Registered"
+  ],
+  "services": [
+    {
+      "icon": "Music",
+      "title": "Ballet Classes",
+      "body": "Professional ballet training for all levels."
+    },
+    {
+      "icon": "Dumbbell",
+      "title": "Contemporary Dance",
+      "body": "Expressive and modern dance techniques."
+    },
+    {
+      "icon": "Heart",
+      "title": "Hip Hop Workshops",
+      "body": "High-energy hip hop classes for fun and fitness."
+    },
+    {
+      "icon": "Shield",
+      "title": "Tap Dance Lessons",
+      "body": "Learn the art of tap dance with our experts."
+    },
+    {
+      "icon": "Camera",
+      "title": "Performance Preparation",
+      "body": "Preparation for auditions and performances."
+    },
+    {
+      "icon": "Cake",
+      "title": "Birthday Parties",
+      "body": "Fun-filled dance parties for kids' birthdays."
+    }
+  ],
+  "palette": {
+    "primary": "#2563eb",
+    "primaryHover": "#1d4ed8",
+    "secondary": "#0f766e"
+  },
+  "faqs": [
+    {
+      "q": "Do you offer trial classes?",
+      "a": "Yes, we provide a free trial class for new students."
+    },
+    {
+      "q": "What ages do you teach?",
+      "a": "We cater to children from age 3 and adults of all levels."
+    },
+    {
+      "q": "Are your instructors certified?",
+      "a": "Yes, our instructors are certified by the Royal Academy of Dance."
+    },
+    {
+      "q": "How do I register for a class?",
+      "a": "You can register online or visit us during office hours."
+    }
+  ]
+}

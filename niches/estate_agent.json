@@ -1,0 +1,67 @@
+{
+  "id": "estate_agent",
+  "displayName": "Estate Agent",
+  "plural": "Estate Agents",
+  "heroTagline": "Your Local Property Experts",
+  "ctaLabel": "Search Properties Now",
+  "trustBadges": [
+    "RICS Registered",
+    "NAEA Member",
+    "Client Money Protected"
+  ],
+  "services": [
+    {
+      "icon": "Home",
+      "title": "Property Sales",
+      "body": "Sell your home with our expert guidance and marketing."
+    },
+    {
+      "icon": "Key",
+      "title": "Lettings Management",
+      "body": "Manage your rental properties efficiently with us."
+    },
+    {
+      "icon": "Search",
+      "title": "Property Valuations",
+      "body": "Get accurate valuations for your property needs."
+    },
+    {
+      "icon": "Tool",
+      "title": "Buyer Representation",
+      "body": "Represent you in negotiations to secure the best deals."
+    },
+    {
+      "icon": "Shield",
+      "title": "Legal Compliance",
+      "body": "Ensure all transactions are legally compliant and safe."
+    },
+    {
+      "icon": "Droplets",
+      "title": "Market Analysis",
+      "body": "Stay informed with our comprehensive market insights."
+    }
+  ],
+  "palette": {
+    "primary": "#2563eb",
+    "primaryHover": "#1d4ed8",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are you RICS registered?",
+      "a": "Yes, all our agents are fully RICS registered."
+    },
+    {
+      "q": "Do you offer lettings management services?",
+      "a": "Absolutely. We manage properties to ensure smooth tenancies."
+    },
+    {
+      "q": "How do I get a property valuation?",
+      "a": "Contact us directly or use our online form for an initial assessment."
+    },
+    {
+      "q": "Can you represent buyers in negotiations?",
+      "a": "Yes, we provide buyer representation to secure the best deals."
+    }
+  ]
+}

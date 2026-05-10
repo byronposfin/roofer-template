@@ -1,0 +1,67 @@
+{
+  "id": "tiler",
+  "displayName": "Tiler",
+  "plural": "Tilers",
+  "heroTagline": "Expert local tilers",
+  "ctaLabel": "Get a Free Quote",
+  "trustBadges": [
+    "Guild of Master Craftsmen",
+    "Fully Insured",
+    "Certified Tiling Installer"
+  ],
+  "services": [
+    {
+      "icon": "Hammer",
+      "title": "Bathroom Tiling",
+      "body": "Professional tiling for showers, walls and floors"
+    },
+    {
+      "icon": "Droplets",
+      "title": "Wetroom Installation",
+      "body": "Complete wetroom solutions with waterproofing"
+    },
+    {
+      "icon": "Bath",
+      "title": "Kitchen Tiling",
+      "body": "Stunning backsplash and floor tiling services"
+    },
+    {
+      "icon": "Tool",
+      "title": "Grouting Services",
+      "body": "Precision grouting for a seamless finish"
+    },
+    {
+      "icon": "Shield",
+      "title": "Floor Preparation",
+      "body": "Subfloor preparation and leveling before tiling"
+    },
+    {
+      "icon": "Leaf",
+      "title": "Decorative Tiling",
+      "body": "Custom designs including mosaics and patterns"
+    }
+  ],
+  "palette": {
+    "primary": "#0d9488",
+    "primaryHover": "#0f766e",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Do you offer a warranty?",
+      "a": "Yes, we provide a comprehensive warranty on our tiling services."
+    },
+    {
+      "q": "Can you handle large projects?",
+      "a": "Absolutely. We have experience with both small and large-scale tiling projects."
+    },
+    {
+      "q": "Do you clean up after the job is done?",
+      "a": "Yes, we ensure your space is left clean and tidy upon completion of our work."
+    },
+    {
+      "q": "How long does a typical project take?",
+      "a": "Project duration varies based on size. We provide an estimated timeline during the quote process."
+    }
+  ]
+}

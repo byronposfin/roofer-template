@@ -1,0 +1,67 @@
+{
+  "id": "sports_massage_therapist",
+  "displayName": "Sports Massage Therapist",
+  "plural": "Sports Massage Therapists",
+  "heroTagline": "Local Expert Care",
+  "ctaLabel": "Book Your Session",
+  "trustBadges": [
+    "Registered with Complementary and Natural Healthcare Council (CNHC)",
+    "Fully Insured",
+    "Certified in Sports Injury Treatment"
+  ],
+  "services": [
+    {
+      "icon": "Dumbbell",
+      "title": "Sports Massage",
+      "body": "Tailored deep tissue massage for athletes to enhance performance and recovery."
+    },
+    {
+      "icon": "Heart",
+      "title": "Recovery Massage",
+      "body": "Post-event massages to aid in muscle recovery and reduce soreness."
+    },
+    {
+      "icon": "Stethoscope",
+      "title": "Injury Rehabilitation",
+      "body": "Specialized techniques for treating sports injuries and promoting healing."
+    },
+    {
+      "icon": "Tool",
+      "title": "Pre-Event Massage",
+      "body": "Customized massages to prepare your body for peak performance before events."
+    },
+    {
+      "icon": "Shield",
+      "title": "Pain Management",
+      "body": "Targeted massage therapy to alleviate chronic pain and discomfort."
+    },
+    {
+      "icon": "Eye",
+      "title": "Holistic Wellness Sessions",
+      "body": "Integrative sessions combining massage with wellness advice for overall health."
+    }
+  ],
+  "palette": {
+    "primary": "#7c3aed",
+    "primaryHover": "#642e9d",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are you registered with CNHC?",
+      "a": "Yes, we are fully registered with the Complementary and Natural Healthcare Council."
+    },
+    {
+      "q": "Do you offer injury rehabilitation services?",
+      "a": "Absolutely. We specialize in sports injury treatment to help you recover faster."
+    },
+    {
+      "q": "Can I book a session online?",
+      "a": "Yes, simply fill out our contact form or call us to schedule your appointment."
+    },
+    {
+      "q": "What should I expect during my first visit?",
+      "a": "During your initial consultation, we will discuss your needs and goals before proceeding with the massage."
+    }
+  ]
+}

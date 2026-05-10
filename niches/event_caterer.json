@@ -1,0 +1,67 @@
+{
+  "id": "event_caterer",
+  "displayName": "Event Caterer",
+  "plural": "Event Caterers",
+  "heroTagline": "Delicious Local Catering",
+  "ctaLabel": "Book Your Event",
+  "trustBadges": [
+    "Food Hygiene Rating: 5/5",
+    "Allergy Aware Certified",
+    "Local Supplier Partner"
+  ],
+  "services": [
+    {
+      "icon": "ChefHat",
+      "title": "Wedding Catering",
+      "body": "Custom menus for intimate to large-scale weddings"
+    },
+    {
+      "icon": "Utensils",
+      "title": "Corporate Events",
+      "body": "Catering solutions for business meetings and conferences"
+    },
+    {
+      "icon": "Cake",
+      "title": "Birthday Parties",
+      "body": "Tailored menus for children's and adult birthday celebrations"
+    },
+    {
+      "icon": "Coffee",
+      "title": "Breakfast Buffets",
+      "body": "Fresh, hearty breakfast options for events"
+    },
+    {
+      "icon": "Flame",
+      "title": "BBQ Catering",
+      "body": "Outdoor BBQ services with a variety of meat and vegetarian options"
+    },
+    {
+      "icon": "Leaf",
+      "title": "Vegan & Vegetarian Menus",
+      "body": "Specialized menus for plant-based diets"
+    }
+  ],
+  "palette": {
+    "primary": "#16a34a",
+    "primaryHover": "#0f7652",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Do you offer vegetarian and vegan options?",
+      "a": "Yes, we specialize in creating delicious vegetarian and vegan menus."
+    },
+    {
+      "q": "How far in advance should I book?",
+      "a": "We recommend booking at least 4 weeks in advance for most events."
+    },
+    {
+      "q": "Can you cater outdoor events?",
+      "a": "Absolutely, we have extensive experience with outdoor catering setups."
+    },
+    {
+      "q": "Do you provide dietary information?",
+      "a": "Yes, all our menus include detailed nutritional and allergy information."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "conveyancer",
+  "displayName": "Conveyancer",
+  "plural": "Conveyancers",
+  "heroTagline": "Local property experts",
+  "ctaLabel": "Get a Free Consultation",
+  "trustBadges": [
+    "SRA Registered",
+    "Fully Insured",
+    "Client Money Protected"
+  ],
+  "services": [
+    {
+      "icon": "Home",
+      "title": "Property Purchase",
+      "body": "Smooth and efficient buying process"
+    },
+    {
+      "icon": "ShieldCheck",
+      "title": "Title Deeds Verification",
+      "body": "Ensuring clear property titles"
+    },
+    {
+      "icon": "Key",
+      "title": "Leasehold Enfranchisement",
+      "body": "Extending leases and freeholds"
+    },
+    {
+      "icon": "Search",
+      "title": "Property Searches",
+      "body": "Detailed searches for peace of mind"
+    },
+    {
+      "icon": "Tool",
+      "title": "Mortgage Advice",
+      "body": "Guidance on securing the best mortgage deals"
+    },
+    {
+      "icon": "Clock",
+      "title": "Completion Management",
+      "body": "Efficient management of completion dates"
+    }
+  ],
+  "palette": {
+    "primary": "#2563eb",
+    "primaryHover": "#1d4ed8",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are you SRA registered?",
+      "a": "Yes, we are fully SRA registered and insured."
+    },
+    {
+      "q": "What is included in your free consultation?",
+      "a": "Our initial consultation covers a detailed discussion of your property needs and an overview of the conveyancing process."
+    },
+    {
+      "q": "How long does the conveyancing process typically take?",
+      "a": "The average time for conveyancing can vary, but we aim to complete it within 8-12 weeks."
+    },
+    {
+      "q": "Do you offer a fixed fee service?",
+      "a": "Yes, we provide transparent pricing with no hidden costs."
+    }
+  ]
+}

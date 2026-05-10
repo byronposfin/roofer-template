@@ -1,0 +1,67 @@
+{
+  "id": "pest_control_companies_commercial",
+  "displayName": "Pest Control Companies (Commercial)",
+  "plural": "Pest Control Companies (Commercial)s",
+  "heroTagline": "Expert Commercial Solutions",
+  "ctaLabel": "Get a Free Quote",
+  "trustBadges": [
+    "BPCA Member",
+    "Fully Insured",
+    "Certified Technicians"
+  ],
+  "services": [
+    {
+      "icon": "Bug",
+      "title": "Rodent Control",
+      "body": "Effective solutions for rats and mice infestations."
+    },
+    {
+      "icon": "Droplets",
+      "title": "Fumigation Services",
+      "body": "Professional fumigation to eliminate pests."
+    },
+    {
+      "icon": "Truck",
+      "title": "Baiting Programs",
+      "body": "Custom bait stations for ongoing pest management."
+    },
+    {
+      "icon": "Shield",
+      "title": "Preventative Treatments",
+      "body": "Regular treatments to prevent infestations."
+    },
+    {
+      "icon": "Eye",
+      "title": "Inspection Services",
+      "body": "Thorough inspections to identify pest issues."
+    },
+    {
+      "icon": "Tool",
+      "title": "Integrated Pest Management (IPM)",
+      "body": "Sustainable and effective pest control strategies."
+    }
+  ],
+  "palette": {
+    "primary": "#2563eb",
+    "primaryHover": "#1d4ed8",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are your technicians certified?",
+      "a": "Yes, all our technicians are certified and trained in commercial pest control."
+    },
+    {
+      "q": "Do you offer emergency services?",
+      "a": "Absolutely, we provide rapid response for urgent pest issues."
+    },
+    {
+      "q": "Can you handle large-scale infestations?",
+      "a": "Yes, our team specializes in managing large commercial properties and their pest problems."
+    },
+    {
+      "q": "How do I schedule a service?",
+      "a": "You can call us or fill out the contact form on our website to schedule an appointment."
+    }
+  ]
+}

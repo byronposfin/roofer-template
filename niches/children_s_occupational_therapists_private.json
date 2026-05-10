@@ -1,0 +1,67 @@
+{
+  "id": "children_s_occupational_therapists_private",
+  "displayName": "Children'S Occupational Therapists (Private)",
+  "plural": "Children'S Occupational Therapists (Private)s",
+  "heroTagline": "Local Expert Care",
+  "ctaLabel": "Book a Session",
+  "trustBadges": [
+    "HCPC Registered",
+    "Qualified OTs",
+    "Child-Centered Approach"
+  ],
+  "services": [
+    {
+      "icon": "Stethoscope",
+      "title": "Fine Motor Skills Therapy",
+      "body": "Improving handwriting, buttoning, and other fine motor tasks."
+    },
+    {
+      "icon": "Eye",
+      "title": "Sensory Integration Therapy",
+      "body": "Addressing sensory processing challenges for better daily functioning."
+    },
+    {
+      "icon": "Baby",
+      "title": "Play-Based Interventions",
+      "body": "Using play to enhance development and learning in children."
+    },
+    {
+      "icon": "Cake",
+      "title": "Feeding Therapy",
+      "body": "Supporting children with feeding difficulties for better nutrition."
+    },
+    {
+      "icon": "Shield",
+      "title": "Adaptive Equipment Consultation",
+      "body": "Assessing and recommending adaptive tools to aid daily activities."
+    },
+    {
+      "icon": "Smile",
+      "title": "Social Skills Training",
+      "body": "Enhancing social interaction skills through structured activities."
+    }
+  ],
+  "palette": {
+    "primary": "#7c3aed",
+    "primaryHover": "#642f9b",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are your therapists HCPC registered?",
+      "a": "Yes, all our occupational therapists are fully registered with the Health and Care Professions Council (HCPC)."
+    },
+    {
+      "q": "Do you offer home visits?",
+      "a": "Absolutely. We provide both in-clinic sessions and home visits to accommodate your child's needs."
+    },
+    {
+      "q": "What age groups do you treat?",
+      "a": "We specialize in treating children from toddlers through adolescence, tailoring our approach to each developmental stage."
+    },
+    {
+      "q": "How can I book an appointment?",
+      "a": "You can book by calling us or filling out the contact form on our website. We'll get back to you promptly to schedule a session."
+    }
+  ]
+}

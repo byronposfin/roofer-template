@@ -1,0 +1,67 @@
+{
+  "id": "business_insurance_brokers_commercial",
+  "displayName": "Business Insurance Brokers (Commercial)",
+  "plural": "Business Insurance Brokers (Commercial)s",
+  "heroTagline": "Expert Commercial Coverage",
+  "ctaLabel": "Get a Free Quote",
+  "trustBadges": [
+    "FCA Registered",
+    "ISO Certified",
+    "Professional Indemnity Insured"
+  ],
+  "services": [
+    {
+      "icon": "Shield",
+      "title": "Commercial Liability Insurance",
+      "body": "Protect your business from third-party claims and lawsuits."
+    },
+    {
+      "icon": "Tool",
+      "title": "Equipment Insurance",
+      "body": "Cover for all types of commercial equipment and machinery."
+    },
+    {
+      "icon": "Home",
+      "title": "Business Property Insurance",
+      "body": "Protect your business premises against damage or loss."
+    },
+    {
+      "icon": "Droplets",
+      "title": "Professional Indemnity Insurance",
+      "body": "Coverage for professional errors and omissions."
+    },
+    {
+      "icon": "Car",
+      "title": "Commercial Vehicle Insurance",
+      "body": "Insurance tailored to your business fleet needs."
+    },
+    {
+      "icon": "Settings",
+      "title": "Risk Management Consultation",
+      "body": "Expert advice on minimizing risks and maximizing coverage."
+    }
+  ],
+  "palette": {
+    "primary": "#2563eb",
+    "primaryHover": "#1d4ed8",
+    "secondary": "#0f766e"
+  },
+  "faqs": [
+    {
+      "q": "Are you FCA registered?",
+      "a": "Yes, we are fully registered with the Financial Conduct Authority."
+    },
+    {
+      "q": "What types of businesses do you cover?",
+      "a": "We offer insurance solutions for a wide range of commercial sectors including retail, construction, and services."
+    },
+    {
+      "q": "Can I get a quote online?",
+      "a": "Absolutely. You can request a free quote through our website or by contacting us directly."
+    },
+    {
+      "q": "Do you offer risk management advice?",
+      "a": "Yes, we provide expert consultation on risk assessment and mitigation strategies for your business."
+    }
+  ]
+}

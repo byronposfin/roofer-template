@@ -1,0 +1,67 @@
+{
+  "id": "martial_arts_combat_sports_academies",
+  "displayName": "Martial Arts & Combat Sports Academies",
+  "plural": "Martial Arts & Combat Sports Academies",
+  "heroTagline": "Local Martial Arts Excellence",
+  "ctaLabel": "Join Our Community",
+  "trustBadges": [
+    "British Judo Association Member",
+    "UK Ju-Jitsu Federation Registered",
+    "SafeSport Certified"
+  ],
+  "services": [
+    {
+      "icon": "Dumbbell",
+      "title": "Karate Classes",
+      "body": "Beginner to advanced karate training for all ages."
+    },
+    {
+      "icon": "Shield",
+      "title": "Self-Defense Workshops",
+      "body": "Learn practical self-defense techniques in a safe environment."
+    },
+    {
+      "icon": "Star",
+      "title": "Combat Sports Training",
+      "body": "MMA, Muay Thai, and Boxing training for fitness and competition."
+    },
+    {
+      "icon": "Eye",
+      "title": "Youth Programs",
+      "body": "Specialized martial arts programs designed for children and teens."
+    },
+    {
+      "icon": "Tool",
+      "title": "Private Lessons",
+      "body": "One-on-one training sessions tailored to your specific needs."
+    },
+    {
+      "icon": "Clock",
+      "title": "Trial Classes",
+      "body": "Experience our classes with a free trial session."
+    }
+  ],
+  "palette": {
+    "primary": "#2563eb",
+    "primaryHover": "#1d4ed8",
+    "secondary": "#0f766e"
+  },
+  "faqs": [
+    {
+      "q": "Do you offer trial classes?",
+      "a": "Yes, we provide a free trial class to experience our training."
+    },
+    {
+      "q": "Are your instructors certified?",
+      "a": "Absolutely, all our instructors are certified and experienced in their disciplines."
+    },
+    {
+      "q": "What age groups do you cater to?",
+      "a": "We have programs for children, teens, adults, and seniors."
+    },
+    {
+      "q": "Can I join if I'm a complete beginner?",
+      "a": "Of course! Our classes are suitable for beginners as well as advanced practitioners."
+    }
+  ]
+}

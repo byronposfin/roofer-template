@@ -1,0 +1,67 @@
+{
+  "id": "plasterer",
+  "displayName": "Plasterer",
+  "plural": "Plasterers",
+  "heroTagline": "Local expert plastering",
+  "ctaLabel": "Get a Free Quote",
+  "trustBadges": [
+    "Guild of Master Craftsmen",
+    "Fully Insured",
+    "CSRT Certified"
+  ],
+  "services": [
+    {
+      "icon": "PaintBucket",
+      "title": "Ceiling Plastering",
+      "body": "Professional ceiling repairs and new plaster finishes"
+    },
+    {
+      "icon": "Hammer",
+      "title": "Wall Repairs",
+      "body": "Crack filling, patching, and skim coating for walls"
+    },
+    {
+      "icon": "Droplets",
+      "title": "Waterproof Plastering",
+      "body": "Specialist waterproof plastering for bathrooms and kitchens"
+    },
+    {
+      "icon": "Tool",
+      "title": "Skim Coating",
+      "body": "Smooth, professional skim coating services"
+    },
+    {
+      "icon": "Shield",
+      "title": "Fire Retardant Plastering",
+      "body": "Installation of fire-resistant plasterboard and finishes"
+    },
+    {
+      "icon": "Truck",
+      "title": "Decorative Plasterwork",
+      "body": "Custom decorative cornices, mouldings, and textures"
+    }
+  ],
+  "palette": {
+    "primary": "#0d9488",
+    "primaryHover": "#0f766e",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Do you offer a warranty?",
+      "a": "Yes, we provide a one-year workmanship warranty on all our services."
+    },
+    {
+      "q": "Can you handle large-scale projects?",
+      "a": "Absolutely. We have experience with both small and large plastering jobs."
+    },
+    {
+      "q": "Do you clean up after the job is done?",
+      "a": "Yes, we always leave your property as clean or cleaner than when we started."
+    },
+    {
+      "q": "How long does a typical project take?",
+      "a": "Project duration varies based on size and scope. We'll provide an estimate during our consultation."
+    }
+  ]
+}

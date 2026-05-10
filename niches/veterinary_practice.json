@@ -1,0 +1,67 @@
+{
+  "id": "veterinary_practice",
+  "displayName": "Veterinary Practice",
+  "plural": "Vets",
+  "heroTagline": "Caring for your pets",
+  "ctaLabel": "Book an Appointment",
+  "trustBadges": [
+    "RCVS Registered",
+    "Pet Health Club Partner",
+    "Humane Society Member"
+  ],
+  "services": [
+    {
+      "icon": "Stethoscope",
+      "title": "General Check-ups",
+      "body": "Comprehensive health assessments for all pets"
+    },
+    {
+      "icon": "Dog",
+      "title": "Canine Care",
+      "body": "Specialized services for dogs, including vaccinations and flea control"
+    },
+    {
+      "icon": "Cat",
+      "title": "Feline Care",
+      "body": "Tailored health solutions for cats, from kittens to seniors"
+    },
+    {
+      "icon": "Heart",
+      "title": "Emergency Services",
+      "body": "24/7 care for urgent medical needs"
+    },
+    {
+      "icon": "Droplets",
+      "title": "Vaccinations",
+      "body": "Protect your pet with essential vaccinations"
+    },
+    {
+      "icon": "Tool",
+      "title": "Surgery",
+      "body": "Advanced surgical procedures for various conditions"
+    }
+  ],
+  "palette": {
+    "primary": "#dc2626",
+    "primaryHover": "#b91c1c",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are you RCVS registered?",
+      "a": "Yes, all our veterinarians are fully RCVS registered."
+    },
+    {
+      "q": "Do you offer emergency services?",
+      "a": "Absolutely. We provide emergency care for pets 24/7."
+    },
+    {
+      "q": "What vaccinations do you offer?",
+      "a": "We offer a full range of essential vaccinations to protect your pet's health."
+    },
+    {
+      "q": "How can I book an appointment?",
+      "a": "You can call us or use our online booking system to schedule an appointment."
+    }
+  ]
+}

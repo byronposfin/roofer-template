@@ -1,0 +1,67 @@
+{
+  "id": "acupuncture_tcm_clinics",
+  "displayName": "Acupuncture & Tcm Clinics",
+  "plural": "Acupuncture & Tcm Clinics",
+  "heroTagline": "Holistic Healing Near You",
+  "ctaLabel": "Book Your Session",
+  "trustBadges": [
+    "Bac Registered",
+    "Qualified Practitioners",
+    "Safe Practices"
+  ],
+  "services": [
+    {
+      "icon": "Stethoscope",
+      "title": "Acupuncture Treatments",
+      "body": "Traditional and modern acupuncture techniques for various conditions."
+    },
+    {
+      "icon": "Leaf",
+      "title": "Herbal Medicine Consultations",
+      "body": "Personalised herbal prescriptions based on TCM principles."
+    },
+    {
+      "icon": "Droplets",
+      "title": "Cupping Therapy",
+      "body": "Relieves muscle tension and improves blood flow with cupping techniques."
+    },
+    {
+      "icon": "Shield",
+      "title": "Safe & Hygienic Practices",
+      "body": "Sterile needles and equipment to ensure your safety during treatments."
+    },
+    {
+      "icon": "Clock",
+      "title": "Flexible Appointment Times",
+      "body": "Convenient booking options including early mornings and late evenings."
+    },
+    {
+      "icon": "Search",
+      "title": "Initial Consultation",
+      "body": "Comprehensive health assessment to tailor your treatment plan."
+    }
+  ],
+  "palette": {
+    "primary": "#7c3aed",
+    "primaryHover": "#642f9a",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are your practitioners qualified?",
+      "a": "Yes, all our practitioners are registered with the British Acupuncture Council (Bac)."
+    },
+    {
+      "q": "Is acupuncture safe?",
+      "a": "Absolutely. We use sterile needles and follow strict hygiene protocols."
+    },
+    {
+      "q": "What conditions can you treat?",
+      "a": "We offer treatments for pain, stress, digestive issues, and more."
+    },
+    {
+      "q": "How do I book an appointment?",
+      "a": "You can call us or use our online booking system to schedule a session."
+    }
+  ]
+}

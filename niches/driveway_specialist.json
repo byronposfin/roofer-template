@@ -1,0 +1,67 @@
+{
+  "id": "driveway_specialist",
+  "displayName": "Driveway Specialist",
+  "plural": "Driveway Specialists",
+  "heroTagline": "Expert local driveways",
+  "ctaLabel": "Get a Free Quote",
+  "trustBadges": [
+    "Guild Approved",
+    "Fully Insured",
+    "Local Authority Registered"
+  ],
+  "services": [
+    {
+      "icon": "Truck",
+      "title": "Driveway Installation",
+      "body": "Custom concrete, block paving and gravel driveways"
+    },
+    {
+      "icon": "Shovel",
+      "title": "Resurfacing & Repair",
+      "body": "Renew your driveway with expert resurfacing techniques"
+    },
+    {
+      "icon": "Hammer",
+      "title": "Drainage Solutions",
+      "body": "Effective drainage systems to prevent water damage"
+    },
+    {
+      "icon": "Trees",
+      "title": "Landscaping Services",
+      "body": "Integrated landscaping for a cohesive outdoor look"
+    },
+    {
+      "icon": "Droplets",
+      "title": "Sealcoating",
+      "body": "Protect your driveway with high-quality sealants"
+    },
+    {
+      "icon": "Tool",
+      "title": "Patio & Pathways",
+      "body": "Create beautiful patios and pathways to complement your home"
+    }
+  ],
+  "palette": {
+    "primary": "#0d9488",
+    "primaryHover": "#0f766e",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Do you offer free quotes?",
+      "a": "Yes, we provide complimentary site visits and detailed quotations."
+    },
+    {
+      "q": "How long does a typical driveway installation take?",
+      "a": "Most installations are completed within 2-5 days depending on the size and complexity of the project."
+    },
+    {
+      "q": "Can you work with existing driveways?",
+      "a": "Absolutely, we specialize in refurbishing and enhancing existing driveways to extend their lifespan."
+    },
+    {
+      "q": "Do you offer a warranty?",
+      "a": "Yes, all our work comes with a comprehensive 12-month warranty on materials and labor."
+    }
+  ]
+}

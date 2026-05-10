@@ -1,0 +1,67 @@
+{
+  "id": "cctv_monitoring_companies",
+  "displayName": "Cctv Monitoring Companies",
+  "plural": "Cctv Monitoring Companies",
+  "heroTagline": "Secure Your Premises",
+  "ctaLabel": "Get a Free Quote",
+  "trustBadges": [
+    "BS8418 Certified",
+    "ISO27001 Compliant",
+    "NACOSS Gold Approved"
+  ],
+  "services": [
+    {
+      "icon": "Camera",
+      "title": "CCTV Installation",
+      "body": "Professional installation of high-definition CCTV systems."
+    },
+    {
+      "icon": "Shield",
+      "title": "24/7 Monitoring",
+      "body": "Round-the-clock surveillance and response services."
+    },
+    {
+      "icon": "Eye",
+      "title": "Video Analytics",
+      "body": "Advanced AI-driven video analysis for smarter security."
+    },
+    {
+      "icon": "Tool",
+      "title": "Maintenance & Repairs",
+      "body": "Regular maintenance and prompt repair services."
+    },
+    {
+      "icon": "Search",
+      "title": "Event Recording",
+      "body": "High-definition recording of all monitored events."
+    },
+    {
+      "icon": "Settings",
+      "title": "System Integration",
+      "body": "Integration with existing security systems for comprehensive protection."
+    }
+  ],
+  "palette": {
+    "primary": "#2563eb",
+    "primaryHover": "#1d4ed8",
+    "secondary": "#0f766e"
+  },
+  "faqs": [
+    {
+      "q": "Is your service ISO27001 compliant?",
+      "a": "Yes, we are ISO27001 certified to ensure the highest standards of information security."
+    },
+    {
+      "q": "Do you offer 24/7 monitoring?",
+      "a": "Absolutely. Our services include round-the-clock surveillance and immediate response capabilities."
+    },
+    {
+      "q": "Can you integrate with my existing system?",
+      "a": "Yes, we can seamlessly integrate our CCTV systems with your current security infrastructure."
+    },
+    {
+      "q": "How do I get a quote for your services?",
+      "a": "You can request a free quote by filling out the contact form on our website or calling us directly."
+    }
+  ]
+}

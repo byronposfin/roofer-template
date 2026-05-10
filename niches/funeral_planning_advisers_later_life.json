@@ -1,0 +1,67 @@
+{
+  "id": "funeral_planning_advisers_later_life",
+  "displayName": "Funeral Planning Advisers (Later Life)",
+  "plural": "Funeral Planning Advisers (Later Life)s",
+  "heroTagline": "Local Later Life Support",
+  "ctaLabel": "Plan Your Farewell",
+  "trustBadges": [
+    "Member of SAIF",
+    "Certified Funeral Planner",
+    "Confidential & Compassionate"
+  ],
+  "services": [
+    {
+      "icon": "Heart",
+      "title": "Pre-Planning Services",
+      "body": "Personalize your farewell with peace of mind."
+    },
+    {
+      "icon": "Shield",
+      "title": "Financial Protection Plans",
+      "body": "Secure your loved ones' future with tailored plans."
+    },
+    {
+      "icon": "Phone",
+      "title": "24/7 Support Line",
+      "body": "Immediate assistance whenever you need it most."
+    },
+    {
+      "icon": "Cake",
+      "title": "Celebration of Life Planning",
+      "body": "Create memorable events that honor your legacy."
+    },
+    {
+      "icon": "Dumbbell",
+      "title": "Physical Arrangements Coordination",
+      "body": "Manage logistics for a seamless experience."
+    },
+    {
+      "icon": "Eye",
+      "title": "Estate Planning Consultation",
+      "body": "Ensure your wishes are respected and followed."
+    }
+  ],
+  "palette": {
+    "primary": "#2563eb",
+    "primaryHover": "#1d4ed8",
+    "secondary": "#0f766e"
+  },
+  "faqs": [
+    {
+      "q": "Are you a member of SAIF?",
+      "a": "Yes, we are members of the Society of Allied and Independent Funeral Directors."
+    },
+    {
+      "q": "Can I customize my funeral plans?",
+      "a": "Absolutely. We offer personalized services to reflect your unique wishes."
+    },
+    {
+      "q": "Do you provide 24/7 support?",
+      "a": "Yes, our dedicated team is available around the clock for any urgent needs."
+    },
+    {
+      "q": "How do I get started with planning?",
+      "a": "Contact us to schedule a consultation or use our online form to request more information."
+    }
+  ]
+}

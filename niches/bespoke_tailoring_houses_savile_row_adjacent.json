@@ -1,0 +1,67 @@
+{
+  "id": "bespoke_tailoring_houses_savile_row_adjacent",
+  "displayName": "Bespoke Tailoring Houses (Savile Row Adjacent)",
+  "plural": "Bespoke Tailoring Houses (Savile Row Adjacent)s",
+  "heroTagline": "Tailored Excellence Nearby",
+  "ctaLabel": "Schedule Your Consultation",
+  "trustBadges": [
+    "Master Tailor Guild Member",
+    "Royal Warrant Holder",
+    "British Fashion Council Partner"
+  ],
+  "services": [
+    {
+      "icon": "Scissors",
+      "title": "Custom Suit Making",
+      "body": "Handcrafted suits tailored to your unique measurements and preferences."
+    },
+    {
+      "icon": "Heart",
+      "title": "Personal Styling Consultation",
+      "body": "Expert advice on style, fit, and fabric choices for a perfect look."
+    },
+    {
+      "icon": "Car",
+      "title": "In-Home Fitting Service",
+      "body": "Convenience of having our tailor visit you at home or office."
+    },
+    {
+      "icon": "Leaf",
+      "title": "Sustainable Tailoring",
+      "body": "Eco-friendly options using organic and recycled materials."
+    },
+    {
+      "icon": "Shield",
+      "title": "Alterations & Repairs",
+      "body": "Precision alterations to maintain the perfect fit over time."
+    },
+    {
+      "icon": "Phone",
+      "title": "Virtual Consultation",
+      "body": "Remote fittings and consultations for clients worldwide."
+    }
+  ],
+  "palette": {
+    "primary": "#2563eb",
+    "primaryHover": "#1d4ed8",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Do you offer virtual fittings?",
+      "a": "Yes, we provide remote consultations and fittings for your convenience."
+    },
+    {
+      "q": "What materials do you use?",
+      "a": "We use a variety of high-quality fabrics including wool, silk, and linen."
+    },
+    {
+      "q": "Can I visit the workshop?",
+      "a": "Absolutely, we welcome visits to our Savile Row adjacent atelier by appointment."
+    },
+    {
+      "q": "How long does it take to make a suit?",
+      "a": "Typically 4-6 weeks from consultation to delivery of your custom-made suit."
+    }
+  ]
+}

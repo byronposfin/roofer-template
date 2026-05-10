@@ -1,0 +1,67 @@
+{
+  "id": "dj",
+  "displayName": "DJ",
+  "plural": "DJs",
+  "heroTagline": "Local Sound Experts",
+  "ctaLabel": "Book Your Event",
+  "trustBadges": [
+    "PPL Registered",
+    "Sound Engineering Certified",
+    "Event Safety Approved"
+  ],
+  "services": [
+    {
+      "icon": "Music",
+      "title": "Wedding DJ Services",
+      "body": "Professional music for your special day"
+    },
+    {
+      "icon": "PartyPopper",
+      "title": "Corporate Events",
+      "body": "Entertainment for conferences and corporate parties"
+    },
+    {
+      "icon": "Lightbulb",
+      "title": "Lighting Design",
+      "body": "Custom lighting to enhance your event atmosphere"
+    },
+    {
+      "icon": "PlugZap",
+      "title": "Sound System Setup",
+      "body": "Professional audio setup for any venue size"
+    },
+    {
+      "icon": "ShieldCheck",
+      "title": "Event Consultation",
+      "body": "Expert advice on music and event planning"
+    },
+    {
+      "icon": "Tool",
+      "title": "Equipment Rentals",
+      "body": "High-quality sound and lighting equipment rentals"
+    }
+  ],
+  "palette": {
+    "primary": "#2563eb",
+    "primaryHover": "#1d4ed8",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Do you provide sound equipment?",
+      "a": "Yes, we offer a range of high-quality audio and lighting gear for rent."
+    },
+    {
+      "q": "Can you cater to special requests?",
+      "a": "Absolutely. We can tailor our services based on your specific event needs."
+    },
+    {
+      "q": "What types of events do you cover?",
+      "a": "We handle weddings, corporate events, parties, and more."
+    },
+    {
+      "q": "How far in advance should I book?",
+      "a": "For best availability, we recommend booking at least 2-3 months ahead."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "photo_booth_hire",
+  "displayName": "Photo Booth Hire",
+  "plural": "Photo Booth Hire Companies",
+  "heroTagline": "Capture Memorable Moments",
+  "ctaLabel": "Book Your Booth Now",
+  "trustBadges": [
+    "ISO 9001 Certified",
+    "Fully Insured",
+    "UK Event Association Member"
+  ],
+  "services": [
+    {
+      "icon": "Camera",
+      "title": "Classic Photo Booths",
+      "body": "Vintage-style booths for timeless photos"
+    },
+    {
+      "icon": "Droplets",
+      "title": "Interactive Props",
+      "body": "Fun props to enhance your photo experience"
+    },
+    {
+      "icon": "Lightbulb",
+      "title": "Instant Printouts",
+      "body": "Get printed photos in seconds"
+    },
+    {
+      "icon": "Hammer",
+      "title": "Custom Backdrops",
+      "body": "Choose from our range or bring your own design"
+    },
+    {
+      "icon": "Shield",
+      "title": "Event Staffing",
+      "body": "Professional operators for seamless service"
+    },
+    {
+      "icon": "Truck",
+      "title": "Nationwide Delivery",
+      "body": "Booths delivered to your event location"
+    }
+  ],
+  "palette": {
+    "primary": "#2563eb",
+    "primaryHover": "#1d4ed8",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Do you provide event staff?",
+      "a": "Yes, we offer professional operators to manage the photo booth."
+    },
+    {
+      "q": "Can I customize my backdrop?",
+      "a": "Absolutely! You can choose from our selection or bring your own design."
+    },
+    {
+      "q": "What is included in the package?",
+      "a": "Our packages include a fully equipped photo booth, instant printouts, and interactive props."
+    },
+    {
+      "q": "How far in advance should I book?",
+      "a": "We recommend booking at least 2-3 weeks in advance to secure your date."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "windscreen_repair",
+  "displayName": "Windscreen Repair Specialist",
+  "plural": "Windscreen Specialists",
+  "heroTagline": "Local Windscreen Experts",
+  "ctaLabel": "Get a Free Quote",
+  "trustBadges": [
+    "Fully Insured",
+    "Certified Technicians",
+    "Manufacturer Approved"
+  ],
+  "services": [
+    {
+      "icon": "Car",
+      "title": "Windscreen Repairs",
+      "body": "Quick and durable chip repairs"
+    },
+    {
+      "icon": "Truck",
+      "title": "Windscreen Replacements",
+      "body": "Professional windscreen fitting services"
+    },
+    {
+      "icon": "Shield",
+      "title": "Safety Inspections",
+      "body": "Check for cracks and damage to ensure safety"
+    },
+    {
+      "icon": "Tool",
+      "title": "Windshield Tinting",
+      "body": "UV protection with professional tinting services"
+    },
+    {
+      "icon": "Eye",
+      "title": "Wiper Blade Replacement",
+      "body": "Ensure clear visibility with new wipers"
+    },
+    {
+      "icon": "Clock",
+      "title": "Emergency Repairs",
+      "body": "24/7 service for urgent windscreen issues"
+    }
+  ],
+  "palette": {
+    "primary": "#0d9488",
+    "primaryHover": "#0f766e",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Do you offer emergency repairs?",
+      "a": "Yes, we provide 24/7 service for urgent windscreen issues."
+    },
+    {
+      "q": "Are your technicians certified?",
+      "a": "Absolutely, all our technicians are certified and manufacturer approved."
+    },
+    {
+      "q": "Can you tint my windshield?",
+      "a": "Yes, we offer professional windshield tinting services for UV protection."
+    },
+    {
+      "q": "How do I schedule a repair?",
+      "a": "You can call us or fill in our contact form to schedule your windscreen repair."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "pilates_studio",
+  "displayName": "Pilates Studio",
+  "plural": "Pilates Studios",
+  "heroTagline": "Local Fitness Experts",
+  "ctaLabel": "Book Your Class",
+  "trustBadges": [
+    "Qualified Instructors",
+    "Safe Equipment Use",
+    "Clean & Hygienic"
+  ],
+  "services": [
+    {
+      "icon": "Dumbbell",
+      "title": "Mat Pilates Classes",
+      "body": "Beginner to advanced mat classes for all levels."
+    },
+    {
+      "icon": "Heart",
+      "title": "Reformer Sessions",
+      "body": "Private and semi-private sessions on reformer machines."
+    },
+    {
+      "icon": "Leaf",
+      "title": "Pilates for Rehabilitation",
+      "body": "Specialized classes for injury recovery and rehabilitation."
+    },
+    {
+      "icon": "Shield",
+      "title": "Postnatal Pilates",
+      "body": "Supportive classes designed for postpartum women."
+    },
+    {
+      "icon": "Clock",
+      "title": "Workshops & Events",
+      "body": "Special workshops and events to enhance your practice."
+    },
+    {
+      "icon": "Settings",
+      "title": "Personal Training",
+      "body": "One-on-one sessions tailored to your fitness goals."
+    }
+  ],
+  "palette": {
+    "primary": "#7c3aed",
+    "primaryHover": "#642f9e",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Do you offer trial classes?",
+      "a": "Yes, we provide a complimentary trial class to new members."
+    },
+    {
+      "q": "What should I wear for Pilates?",
+      "a": "Comfortable clothing that allows for movement and flexibility is recommended."
+    },
+    {
+      "q": "Can beginners join your classes?",
+      "a": "Absolutely, we have beginner-friendly classes designed to accommodate all skill levels."
+    },
+    {
+      "q": "How do I book a class?",
+      "a": "You can book online through our website or by contacting us directly."
+    }
+  ]
+}

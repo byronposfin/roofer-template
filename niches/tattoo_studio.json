@@ -1,0 +1,67 @@
+{
+  "id": "tattoo_studio",
+  "displayName": "Tattoo Studio",
+  "plural": "Tattoo Studios",
+  "heroTagline": "Ink Your Imagination",
+  "ctaLabel": "Book a Consultation",
+  "trustBadges": [
+    "BHTA Member",
+    "Sterile Technique Certified",
+    "Professional Liability Insured"
+  ],
+  "services": [
+    {
+      "icon": "Heart",
+      "title": "Custom Tattoos",
+      "body": "Personalized designs for your unique story"
+    },
+    {
+      "icon": "Scissors",
+      "title": "Cover-Ups & Corrections",
+      "body": "Transform old tattoos into new masterpieces"
+    },
+    {
+      "icon": "Lightbulb",
+      "title": "Color Tattoos",
+      "body": "Vibrant and detailed color work"
+    },
+    {
+      "icon": "PlugZap",
+      "title": "Blackwork & Line Work",
+      "body": "Classic black ink designs with precision lines"
+    },
+    {
+      "icon": "Shield",
+      "title": "Aftercare Consultation",
+      "body": "Professional advice for healing and care"
+    },
+    {
+      "icon": "Tool",
+      "title": "Tattoo Removal",
+      "body": "Safe and effective tattoo removal services"
+    }
+  ],
+  "palette": {
+    "primary": "#7c3aed",
+    "primaryHover": "#642d9a",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are your artists certified?",
+      "a": "Yes, all our artists are certified in sterile technique and safety."
+    },
+    {
+      "q": "Do you offer aftercare advice?",
+      "a": "Absolutely. We provide detailed aftercare instructions for every tattoo."
+    },
+    {
+      "q": "Can I bring a design idea?",
+      "a": "Of course! Bring your ideas, and our artists will help make them reality."
+    },
+    {
+      "q": "How long does the appointment take?",
+      "a": "Consultation time varies based on tattoo size; we'll give you an estimate during booking."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "after_school_club",
+  "displayName": "After School Club",
+  "plural": "After School Clubs",
+  "heroTagline": "Safe Learning Fun",
+  "ctaLabel": "Join Today!",
+  "trustBadges": [
+    "Ofsted Registered",
+    "Child Protection Certified",
+    "Parental Support Network Member"
+  ],
+  "services": [
+    {
+      "icon": "Dumbbell",
+      "title": "Physical Activities",
+      "body": "Sports, games and outdoor play"
+    },
+    {
+      "icon": "Cake",
+      "title": "Healthy Snacks",
+      "body": "Nutritious meals prepared daily"
+    },
+    {
+      "icon": "BookOpen",
+      "title": "Homework Help",
+      "body": "Professional tutors for homework support"
+    },
+    {
+      "icon": "Music",
+      "title": "Creative Workshops",
+      "body": "Art, music and drama activities"
+    },
+    {
+      "icon": "ShieldCheck",
+      "title": "Safety First",
+      "body": "Trained staff with first aid certification"
+    },
+    {
+      "icon": "Clock",
+      "title": "Flexible Hours",
+      "body": "Extended hours to fit your schedule"
+    }
+  ],
+  "palette": {
+    "primary": "#16a34a",
+    "primaryHover": "#0f766e",
+    "secondary": "#2563eb"
+  },
+  "faqs": [
+    {
+      "q": "Is the club Ofsted registered?",
+      "a": "Yes, we are fully registered with Ofsted."
+    },
+    {
+      "q": "What kind of snacks do you provide?",
+      "a": "We offer a variety of healthy and nutritious snacks daily."
+    },
+    {
+      "q": "Do you have homework help available?",
+      "a": "Absolutely, our professional tutors assist with homework every day."
+    },
+    {
+      "q": "What are your operating hours?",
+      "a": "Our flexible hours range from school dismissal until 6 PM."
+    }
+  ]
+}

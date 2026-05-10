@@ -1,0 +1,67 @@
+{
+  "id": "mortgage_adviser",
+  "displayName": "Mortgage Adviser",
+  "plural": "Mortgage Advisers",
+  "heroTagline": "Local Mortgage Experts",
+  "ctaLabel": "Get a Free Consultation",
+  "trustBadges": [
+    "FCA Registered",
+    "Chartered Institute of Mortgage Managers Member",
+    "Client Money Protect"
+  ],
+  "services": [
+    {
+      "icon": "Home",
+      "title": "First-Time Buyer Mortgages",
+      "body": "Advice and support for your first home purchase."
+    },
+    {
+      "icon": "ShieldCheck",
+      "title": "Remortgaging Services",
+      "body": "Reduce costs with better deals on existing mortgages."
+    },
+    {
+      "icon": "PlugZap",
+      "title": "Buy-to-Let Mortgages",
+      "body": "Investment property financing solutions."
+    },
+    {
+      "icon": "Lightbulb",
+      "title": "Self-Employed Mortgage Options",
+      "body": "Tailored mortgage advice for self-employed individuals."
+    },
+    {
+      "icon": "Tool",
+      "title": "Specialist Mortgages",
+      "body": "Mortgage solutions for complex financial situations."
+    },
+    {
+      "icon": "Settings",
+      "title": "Mortgage Reviews and Switching",
+      "body": "Regular reviews to ensure you're on the best deal."
+    }
+  ],
+  "palette": {
+    "primary": "#2563eb",
+    "primaryHover": "#1d4ed8",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are you FCA registered?",
+      "a": "Yes, we are fully registered with the Financial Conduct Authority."
+    },
+    {
+      "q": "Can you help me if I'm self-employed?",
+      "a": "Absolutely. We specialize in providing tailored advice for self-employed individuals."
+    },
+    {
+      "q": "How do I get started?",
+      "a": "Simply fill out our contact form or give us a call to schedule your free consultation."
+    },
+    {
+      "q": "Do you offer remortgaging services?",
+      "a": "Yes, we can help you find better deals on your existing mortgage and save money."
+    }
+  ]
+}

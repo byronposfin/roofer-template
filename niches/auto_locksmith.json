@@ -1,0 +1,67 @@
+{
+  "id": "auto_locksmith",
+  "displayName": "Auto Locksmith",
+  "plural": "Auto Locksmiths",
+  "heroTagline": "Secure your vehicle",
+  "ctaLabel": "Get a Free Quote",
+  "trustBadges": [
+    "BSI Approved",
+    "Fully Insured",
+    "24/7 Emergency Service"
+  ],
+  "services": [
+    {
+      "icon": "Key",
+      "title": "Car Key Programming",
+      "body": "Program new or lost car keys"
+    },
+    {
+      "icon": "Lock",
+      "title": "Emergency Locksmith Services",
+      "body": "Unlock cars and trucks in emergencies"
+    },
+    {
+      "icon": "Truck",
+      "title": "Vehicle Immobiliser Reset",
+      "body": "Reset immobilisers for all makes and models"
+    },
+    {
+      "icon": "Tool",
+      "title": "Lock Replacement",
+      "body": "Replace damaged or broken locks"
+    },
+    {
+      "icon": "Shield",
+      "title": "Security Upgrades",
+      "body": "Install additional security measures on vehicles"
+    },
+    {
+      "icon": "Search",
+      "title": "Keyless Entry Systems",
+      "body": "Installation and repair of keyless entry systems"
+    }
+  ],
+  "palette": {
+    "primary": "#0d9488",
+    "primaryHover": "#0f766e",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Do you offer emergency services?",
+      "a": "Yes, we provide 24/7 emergency locksmith services for vehicle lockouts."
+    },
+    {
+      "q": "Can you program car keys?",
+      "a": "Absolutely. We can program new or lost car keys for most makes and models."
+    },
+    {
+      "q": "How do I get a quote?",
+      "a": "Contact us via phone or our website \u2014 we'll provide a free, no-obligation quote."
+    },
+    {
+      "q": "Are you insured?",
+      "a": "Yes, all of our services are fully insured to protect your vehicle and property."
+    }
+  ]
+}

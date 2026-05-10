@@ -1,0 +1,67 @@
+{
+  "id": "groundworker",
+  "displayName": "Groundworker",
+  "plural": "Groundworkers",
+  "heroTagline": "Expert local groundwork",
+  "ctaLabel": "Get a Free Quote",
+  "trustBadges": [
+    "SafeContractor Approved",
+    "ConstructionLine Registered",
+    "Public Liability Insured"
+  ],
+  "services": [
+    {
+      "icon": "Shovel",
+      "title": "Site Clearances",
+      "body": "Professional site clearance and waste management services."
+    },
+    {
+      "icon": "Trees",
+      "title": "Tree Felling & Stump Removal",
+      "body": "Safe tree felling, stump grinding, and woodland clearance."
+    },
+    {
+      "icon": "Droplets",
+      "title": "Drainage Solutions",
+      "body": "French drains, soakaways, and surface water management systems."
+    },
+    {
+      "icon": "Truck",
+      "title": "Soil Delivery & Removal",
+      "body": "Bulk soil delivery and excavation services for all projects."
+    },
+    {
+      "icon": "Hammer",
+      "title": "Concrete Cutting & Breaking",
+      "body": "Precision concrete cutting, breaking, and removal services."
+    },
+    {
+      "icon": "Siren",
+      "title": "Emergency Call-Outs",
+      "body": "24/7 emergency response for water damage and flooding issues."
+    }
+  ],
+  "palette": {
+    "primary": "#0d9488",
+    "primaryHover": "#0f766e",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Do you offer emergency services?",
+      "a": "Yes \u2014 we provide 24/7 emergency call-outs for urgent issues."
+    },
+    {
+      "q": "Are your services insured?",
+      "a": "Absolutely. We are Public Liability Insured and SafeContractor Approved."
+    },
+    {
+      "q": "Can you handle large-scale projects?",
+      "a": "Yes, we manage both small and large-scale groundwork projects efficiently."
+    },
+    {
+      "q": "How do I request a quote?",
+      "a": "Simply fill out our contact form or give us a call \u2014 we'll respond promptly."
+    }
+  ]
+}

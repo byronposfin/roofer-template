@@ -1,0 +1,67 @@
+{
+  "id": "chiropractor_practices",
+  "displayName": "Chiropractor Practices",
+  "plural": "Chiropractor Practices",
+  "heroTagline": "Local Spine Specialists",
+  "ctaLabel": "Book Your Appointment",
+  "trustBadges": [
+    "General Chiropractic Council Registered",
+    "Fully Insured Practitioners",
+    "Member of British Chiropractic Association"
+  ],
+  "services": [
+    {
+      "icon": "Stethoscope",
+      "title": "Spinal Adjustments",
+      "body": "Precision adjustments to realign your spine and improve mobility."
+    },
+    {
+      "icon": "Dumbbell",
+      "title": "Muscle Rehabilitation",
+      "body": "Customized exercises to strengthen muscles supporting the spine."
+    },
+    {
+      "icon": "Heart",
+      "title": "Pain Management",
+      "body": "Non-invasive techniques for reducing chronic and acute pain."
+    },
+    {
+      "icon": "Eye",
+      "title": "Posture Analysis",
+      "body": "Evaluation of your posture to prevent future spinal issues."
+    },
+    {
+      "icon": "Clock",
+      "title": "Wellness Consultations",
+      "body": "Comprehensive consultations for overall wellness and prevention."
+    },
+    {
+      "icon": "Tool",
+      "title": "Sports Injuries Treatment",
+      "body": "Specialized care for athletes to recover from sports injuries."
+    }
+  ],
+  "palette": {
+    "primary": "#7c3aed",
+    "primaryHover": "#642e9a",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are your practitioners registered?",
+      "a": "Yes, all our chiropractors are registered with the General Chiropractic Council."
+    },
+    {
+      "q": "Do you offer pain management services?",
+      "a": "Absolutely. We provide non-invasive techniques to manage both chronic and acute pain."
+    },
+    {
+      "q": "Can I book an appointment online?",
+      "a": "Yes, you can use our website or call us directly to schedule your visit."
+    },
+    {
+      "q": "Do you treat sports injuries?",
+      "a": "Yes \u2014 we specialize in treating and rehabilitating sports-related injuries."
+    }
+  ]
+}

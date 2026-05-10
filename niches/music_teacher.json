@@ -1,0 +1,67 @@
+{
+  "id": "music_teacher",
+  "displayName": "Music Teacher",
+  "plural": "Music Teachers",
+  "heroTagline": "Local Music Lessons",
+  "ctaLabel": "Book Your First Lesson",
+  "trustBadges": [
+    "ABRSM Registered",
+    "Musical Association Member",
+    "DBS Checked"
+  ],
+  "services": [
+    {
+      "icon": "Music",
+      "title": "Piano Lessons",
+      "body": "Beginner to advanced piano tuition"
+    },
+    {
+      "icon": "Dumbbell",
+      "title": "Guitar Lessons",
+      "body": "Acoustic, electric and bass guitar instruction"
+    },
+    {
+      "icon": "Shield",
+      "title": "Violin Lessons",
+      "body": "Classical and contemporary violin teaching"
+    },
+    {
+      "icon": "Flame",
+      "title": "Singing Lessons",
+      "body": "Voice training for all ages and abilities"
+    },
+    {
+      "icon": "Leaf",
+      "title": "Theory Classes",
+      "body": "Music theory and exam preparation"
+    },
+    {
+      "icon": "Tool",
+      "title": "Ensemble Coaching",
+      "body": "Group lessons for bands and orchestras"
+    }
+  ],
+  "palette": {
+    "primary": "#2563eb",
+    "primaryHover": "#1d4ed8",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are you ABRSM registered?",
+      "a": "Yes, we are registered with the Associated Board of the Royal Schools of Music."
+    },
+    {
+      "q": "Do you offer online lessons?",
+      "a": "Absolutely. We provide both in-person and virtual music lessons."
+    },
+    {
+      "q": "What age groups do you teach?",
+      "a": "We cater to all ages, from children to adults."
+    },
+    {
+      "q": "How can I book a lesson?",
+      "a": "You can contact us via phone or our website to schedule your first lesson."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "bathroom_fitter",
+  "displayName": "Bathroom Fitter",
+  "plural": "Bathroom Fitters",
+  "heroTagline": "Local Expertise",
+  "ctaLabel": "Get a Free Quote",
+  "trustBadges": [
+    "PlumberSafe Registered",
+    "Fully Insured",
+    "Customer Satisfaction Guaranteed"
+  ],
+  "services": [
+    {
+      "icon": "Bath",
+      "title": "Full Bathroom Installation",
+      "body": "Complete bathroom fitting services including plumbing and tiling."
+    },
+    {
+      "icon": "Droplets",
+      "title": "Shower Enclosures",
+      "body": "Custom shower installations with glass or acrylic enclosures."
+    },
+    {
+      "icon": "Hammer",
+      "title": "Bathroom Renovation",
+      "body": "Transform your bathroom with our renovation services."
+    },
+    {
+      "icon": "PlugZap",
+      "title": "Electrical Work",
+      "body": "Safe and compliant electrical installations for showers, lights, and more."
+    },
+    {
+      "icon": "Tool",
+      "title": "Tiling Services",
+      "body": "Professional tiling for walls and floors in your bathroom."
+    },
+    {
+      "icon": "Siren",
+      "title": "Emergency Repairs",
+      "body": "24/7 emergency plumbing repairs to fix leaks and other issues."
+    }
+  ],
+  "palette": {
+    "primary": "#0d9488",
+    "primaryHover": "#0f766e",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Do you provide emergency services?",
+      "a": "Yes, we offer 24/7 emergency plumbing repairs."
+    },
+    {
+      "q": "Are your plumbers licensed and insured?",
+      "a": "Absolutely, all our fitters are PlumberSafe registered and fully insured."
+    },
+    {
+      "q": "Can you handle full bathroom installations?",
+      "a": "Yes, we offer complete bathroom fitting services including plumbing and tiling."
+    },
+    {
+      "q": "How can I get a quote for your services?",
+      "a": "You can call us or fill out our contact form to request a free quote."
+    }
+  ]
+}

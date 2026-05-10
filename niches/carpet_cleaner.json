@@ -1,0 +1,67 @@
+{
+  "id": "carpet_cleaner",
+  "displayName": "Carpet Cleaner",
+  "plural": "Carpet Cleaners",
+  "heroTagline": "Professional Carpet Cleaning",
+  "ctaLabel": "Book Your Service Now",
+  "trustBadges": [
+    "Fully Insured",
+    "Certified Technicians",
+    "Eco-Friendly Solutions"
+  ],
+  "services": [
+    {
+      "icon": "Droplets",
+      "title": "Deep Carpet Cleaning",
+      "body": "Stain removal and deep cleaning for all types of carpets."
+    },
+    {
+      "icon": "Hammer",
+      "title": "Odour Removal",
+      "body": "Eliminate unpleasant odours with our advanced techniques."
+    },
+    {
+      "icon": "Leaf",
+      "title": "Eco-Friendly Cleaning",
+      "body": "Use of green cleaning products for a healthier home."
+    },
+    {
+      "icon": "Truck",
+      "title": "Mobile Carpet Cleaning",
+      "body": "Our trucks come to you with all the necessary equipment."
+    },
+    {
+      "icon": "Shield",
+      "title": "Sanitisation Services",
+      "body": "Disinfect your carpets to ensure a clean and safe environment."
+    },
+    {
+      "icon": "Tool",
+      "title": "Pet Stain Removal",
+      "body": "Specialised treatments for pet stains and odours."
+    }
+  ],
+  "palette": {
+    "primary": "#0d9488",
+    "primaryHover": "#0f766e",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Do you use eco-friendly products?",
+      "a": "Yes, we only use environmentally friendly cleaning solutions."
+    },
+    {
+      "q": "Can you clean pet stains?",
+      "a": "Absolutely. We have special treatments for pet-related stains and odours."
+    },
+    {
+      "q": "How long does the service take?",
+      "a": "Typically, a full carpet cleaning session takes about 2-3 hours depending on the size of your area."
+    },
+    {
+      "q": "Do you offer any guarantees?",
+      "a": "Yes, we guarantee customer satisfaction and provide a money-back guarantee if you're not satisfied with our service."
+    }
+  ]
+}

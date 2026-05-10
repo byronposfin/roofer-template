@@ -1,0 +1,67 @@
+{
+  "id": "photovoltaic_cleaning_services",
+  "displayName": "Photovoltaic Cleaning Services",
+  "plural": "Photovoltaic Cleaning Services",
+  "heroTagline": "Clean Solar Panels",
+  "ctaLabel": "Get a Free Quote",
+  "trustBadges": [
+    "ISO 9001 Certified",
+    "Solar Energy UK Member",
+    "Fully Insured"
+  ],
+  "services": [
+    {
+      "icon": "Droplets",
+      "title": "Professional Cleaning",
+      "body": "High-pressure water cleaning for solar panels"
+    },
+    {
+      "icon": "Leaf",
+      "title": "Debris Removal",
+      "body": "Efficient removal of leaves and other debris"
+    },
+    {
+      "icon": "Sun",
+      "title": "UV Protection",
+      "body": "Application of UV-resistant coating to extend panel life"
+    },
+    {
+      "icon": "ShieldCheck",
+      "title": "Safety Inspections",
+      "body": "Pre and post-cleaning safety checks on panels"
+    },
+    {
+      "icon": "Tool",
+      "title": "Maintenance Services",
+      "body": "Regular maintenance to ensure optimal performance"
+    },
+    {
+      "icon": "Truck",
+      "title": "Mobile Service",
+      "body": "On-site cleaning with our fully equipped service vans"
+    }
+  ],
+  "palette": {
+    "primary": "#0d9488",
+    "primaryHover": "#0f766e",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "How often should I clean my solar panels?",
+      "a": "We recommend cleaning every 6 months to maintain efficiency."
+    },
+    {
+      "q": "Do you offer a warranty on your services?",
+      "a": "Yes, we provide a satisfaction guarantee for all our cleaning services."
+    },
+    {
+      "q": "Can you clean solar panels on roofs?",
+      "a": "Absolutely. We have the equipment and expertise to safely access roof-mounted systems."
+    },
+    {
+      "q": "How do I book your service?",
+      "a": "You can call us or use our online booking form for a quick response."
+    }
+  ]
+}

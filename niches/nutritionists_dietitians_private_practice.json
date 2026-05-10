@@ -1,0 +1,67 @@
+{
+  "id": "nutritionists_dietitians_private_practice",
+  "displayName": "Nutritionists & Dietitians (Private Practice)",
+  "plural": "Nutritionists & Dietitians (Private Practice)s",
+  "heroTagline": "Expert Nutrition Advice",
+  "ctaLabel": "Book Your Consultation",
+  "trustBadges": [
+    "HCPC Registered",
+    "BDA Member",
+    "Qualified Dietitians"
+  ],
+  "services": [
+    {
+      "icon": "Leaf",
+      "title": "Personalised Meal Plans",
+      "body": "Tailored nutrition plans to meet your health goals."
+    },
+    {
+      "icon": "Dumbbell",
+      "title": "Sports Nutrition",
+      "body": "Optimise performance and recovery with expert advice."
+    },
+    {
+      "icon": "Heart",
+      "title": "Chronic Disease Management",
+      "body": "Support for diabetes, heart disease, and more."
+    },
+    {
+      "icon": "ChefHat",
+      "title": "Cooking Demonstrations",
+      "body": "Learn healthy cooking techniques in our workshops."
+    },
+    {
+      "icon": "Shield",
+      "title": "Nutrition Assessments",
+      "body": "Comprehensive evaluations to guide your nutrition journey."
+    },
+    {
+      "icon": "Clock",
+      "title": "Ongoing Support",
+      "body": "Regular check-ins and adjustments for sustained progress."
+    }
+  ],
+  "palette": {
+    "primary": "#16a34a",
+    "primaryHover": "#0f766e",
+    "secondary": "#2563eb"
+  },
+  "faqs": [
+    {
+      "q": "Are you HCPC registered?",
+      "a": "Yes, all our nutritionists and dietitians are HCPC registered."
+    },
+    {
+      "q": "Do you offer sports nutrition services?",
+      "a": "Absolutely. We provide tailored advice for athletes of all levels."
+    },
+    {
+      "q": "Can I book a consultation online?",
+      "a": "Yes, simply fill out our contact form to schedule an appointment."
+    },
+    {
+      "q": "What conditions do you specialise in?",
+      "a": "We offer expertise in managing diabetes, heart disease, and weight management among others."
+    }
+  ]
+}

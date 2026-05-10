@@ -1,0 +1,67 @@
+{
+  "id": "wedding_photographer",
+  "displayName": "Wedding Photographer",
+  "plural": "Wedding Photographers",
+  "heroTagline": "Capture Your Moments",
+  "ctaLabel": "Book Your Session",
+  "trustBadges": [
+    "WPPI Member",
+    "ISO Certified",
+    "Professional Liability Insured"
+  ],
+  "services": [
+    {
+      "icon": "Camera",
+      "title": "Wedding Day Coverage",
+      "body": "Full-day coverage from preparations to the last dance."
+    },
+    {
+      "icon": "Heart",
+      "title": "Engagement Sessions",
+      "body": "Capture your love story before the big day."
+    },
+    {
+      "icon": "Droplets",
+      "title": "Outdoor & Studio Portraits",
+      "body": "Professional portraits in natural and studio settings."
+    },
+    {
+      "icon": "Settings",
+      "title": "Custom Albums",
+      "body": "Handcrafted albums to preserve your memories."
+    },
+    {
+      "icon": "Eye",
+      "title": "Second Shooter Service",
+      "body": "Ensure no moment is missed with a second photographer."
+    },
+    {
+      "icon": "Cake",
+      "title": "Special Occasions",
+      "body": "Photography for anniversaries, proposals and more."
+    }
+  ],
+  "palette": {
+    "primary": "#16a34a",
+    "primaryHover": "#0f766e",
+    "secondary": "#2563eb"
+  },
+  "faqs": [
+    {
+      "q": "Do you offer second shooter services?",
+      "a": "Yes, we provide a second photographer to ensure comprehensive coverage."
+    },
+    {
+      "q": "What is included in the custom albums?",
+      "a": "Custom albums include high-quality prints and digital files of your chosen moments."
+    },
+    {
+      "q": "How far do you travel for weddings?",
+      "a": "We cover the UK, with additional fees for locations over 50 miles from our base."
+    },
+    {
+      "q": "What is your cancellation policy?",
+      "a": "A deposit is required to secure a booking. Cancellations within 30 days of the event incur a full refund fee."
+    }
+  ]
+}

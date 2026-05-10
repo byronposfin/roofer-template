@@ -1,0 +1,67 @@
+{
+  "id": "corporate_immigration_lawyers",
+  "displayName": "Corporate Immigration Lawyers",
+  "plural": "Corporate Immigration Lawyers",
+  "heroTagline": "Expert UK immigration advice",
+  "ctaLabel": "Consult a Specialist",
+  "trustBadges": [
+    "SRA Registered",
+    "Member of ILPA",
+    "5-Star Client Reviews"
+  ],
+  "services": [
+    {
+      "icon": "Shield",
+      "title": "Work Visa Applications",
+      "body": "Assistance with Tier 2 and other work-related visas."
+    },
+    {
+      "icon": "Tool",
+      "title": "Residence Permit Renewals",
+      "body": "Guidance on renewing your UK residence permit."
+    },
+    {
+      "icon": "Phone",
+      "title": "Legal Representation",
+      "body": "Representation at Home Office interviews and appeals."
+    },
+    {
+      "icon": "Search",
+      "title": "Citizenship Applications",
+      "body": "Support with naturalization and registration processes."
+    },
+    {
+      "icon": "Key",
+      "title": "Family Immigration",
+      "body": "Helping you bring family members to the UK."
+    },
+    {
+      "icon": "Settings",
+      "title": "Compliance Audits",
+      "body": "Ensuring your company meets immigration regulations."
+    }
+  ],
+  "palette": {
+    "primary": "#2563eb",
+    "primaryHover": "#1d4ed8",
+    "secondary": "#0f766e"
+  },
+  "faqs": [
+    {
+      "q": "Are you SRA registered?",
+      "a": "Yes, we are fully registered with the Solicitors Regulation Authority."
+    },
+    {
+      "q": "Do you offer legal representation at Home Office interviews?",
+      "a": "Absolutely. We provide comprehensive support and representation for all immigration hearings."
+    },
+    {
+      "q": "How can I apply for a work visa?",
+      "a": "We guide you through the entire process, from eligibility checks to application submission."
+    },
+    {
+      "q": "Can you help with family immigration?",
+      "a": "Yes, we assist with various family-based immigration routes including spousal and dependent visas."
+    }
+  ]
+}

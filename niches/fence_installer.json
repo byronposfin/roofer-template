@@ -1,0 +1,67 @@
+{
+  "id": "fence_installer",
+  "displayName": "Fence Installer",
+  "plural": "Fence Installers",
+  "heroTagline": "Secure your property",
+  "ctaLabel": "Get a Free Quote",
+  "trustBadges": [
+    "Guild of Master Craftsmen",
+    "Fully Insured",
+    "Local Authority Approved"
+  ],
+  "services": [
+    {
+      "icon": "Shovel",
+      "title": "Fence Installation",
+      "body": "Wood, metal and composite fences installed"
+    },
+    {
+      "icon": "Hammer",
+      "title": "Gates & Posts",
+      "body": "Custom gates and posts for any fence type"
+    },
+    {
+      "icon": "Trees",
+      "title": "Privacy Screens",
+      "body": "Natural or artificial privacy screens installed"
+    },
+    {
+      "icon": "Droplets",
+      "title": "Garden Irrigation",
+      "body": "Integrated irrigation systems for gardens"
+    },
+    {
+      "icon": "Shield",
+      "title": "Security Fencing",
+      "body": "High-security fencing solutions for businesses and homes"
+    },
+    {
+      "icon": "Tool",
+      "title": "Fence Repairs & Maintenance",
+      "body": "Repairs, painting and maintenance services"
+    }
+  ],
+  "palette": {
+    "primary": "#0d9488",
+    "primaryHover": "#0f766e",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Do you offer free quotes?",
+      "a": "Yes, we provide free on-site estimates."
+    },
+    {
+      "q": "What materials do you use?",
+      "a": "We work with wood, metal and composite materials for fences."
+    },
+    {
+      "q": "Can you handle large commercial projects?",
+      "a": "Absolutely, we have experience in both residential and commercial fencing."
+    },
+    {
+      "q": "How long does a typical fence installation take?",
+      "a": "Most installations are completed within 1-3 days depending on the size of the project."
+    }
+  ]
+}

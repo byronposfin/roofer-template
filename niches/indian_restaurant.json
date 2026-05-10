@@ -1,0 +1,67 @@
+{
+  "id": "indian_restaurant",
+  "displayName": "Indian Restaurant",
+  "plural": "Indian Restaurants",
+  "heroTagline": "Authentic Indian Cuisine",
+  "ctaLabel": "Book a Table Now",
+  "trustBadges": [
+    "ISO 22000 Certified",
+    "FSSAI Registered",
+    "Vegetarian & Non-Vegetarian Options"
+  ],
+  "services": [
+    {
+      "icon": "ChefHat",
+      "title": "Traditional Dishes",
+      "body": "Authentic Indian recipes from all regions of India."
+    },
+    {
+      "icon": "Utensils",
+      "title": "Special Diets",
+      "body": "Vegetarian, vegan, gluten-free and more."
+    },
+    {
+      "icon": "Flame",
+      "title": "Tandoori Specials",
+      "body": "Freshly cooked in our traditional clay oven."
+    },
+    {
+      "icon": "Coffee",
+      "title": "Tea & Coffee",
+      "body": "A variety of Indian tea and coffee options."
+    },
+    {
+      "icon": "Cake",
+      "title": "Desserts",
+      "body": "Traditional sweets like Gulab Jamun, Ras Malai."
+    },
+    {
+      "icon": "Tool",
+      "title": "Catering Services",
+      "body": "Customized catering for events and parties."
+    }
+  ],
+  "palette": {
+    "primary": "#16a34a",
+    "primaryHover": "#0f766e",
+    "secondary": "#2563eb"
+  },
+  "faqs": [
+    {
+      "q": "Do you offer vegetarian options?",
+      "a": "Yes, we have a wide range of vegetarian dishes."
+    },
+    {
+      "q": "Is your restaurant FSSAI registered?",
+      "a": "Absolutely, our kitchen follows all FSSAI guidelines."
+    },
+    {
+      "q": "Can I book for large groups?",
+      "a": "Yes, we can accommodate large parties with prior booking."
+    },
+    {
+      "q": "Do you provide takeaway services?",
+      "a": "Certainly, we offer both takeaway and delivery options."
+    }
+  ]
+}

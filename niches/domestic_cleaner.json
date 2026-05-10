@@ -1,0 +1,67 @@
+{
+  "id": "domestic_cleaner",
+  "displayName": "Domestic Cleaner",
+  "plural": "Domestic Cleaners",
+  "heroTagline": "Spotless homes guaranteed",
+  "ctaLabel": "Book Your Cleaning",
+  "trustBadges": [
+    "Fully Insured",
+    "COSHH Trained",
+    "DBS Checked"
+  ],
+  "services": [
+    {
+      "icon": "Droplets",
+      "title": "Deep Cleaning",
+      "body": "Comprehensive cleaning for all areas of your home"
+    },
+    {
+      "icon": "Bath",
+      "title": "Bathroom Cleaning",
+      "body": "Sanitised and sparkling bathrooms"
+    },
+    {
+      "icon": "Home",
+      "title": "Hoovering & Mopping",
+      "body": "Dust-free floors throughout your home"
+    },
+    {
+      "icon": "Hammer",
+      "title": "Window Cleaning",
+      "body": "Streak-free windows inside and out"
+    },
+    {
+      "icon": "Shield",
+      "title": "Disinfection Services",
+      "body": "Professional disinfection to keep your home safe"
+    },
+    {
+      "icon": "Clock",
+      "title": "Regular Cleaning Schedules",
+      "body": "Weekly, bi-weekly or monthly cleaning plans"
+    }
+  ],
+  "palette": {
+    "primary": "#16a34a",
+    "primaryHover": "#0f7652",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Do you use eco-friendly products?",
+      "a": "Yes, we prioritise using environmentally friendly cleaning solutions."
+    },
+    {
+      "q": "Can I book a one-off clean?",
+      "a": "Absolutely. We offer both one-off and regular cleaning services."
+    },
+    {
+      "q": "How do you ensure safety in my home?",
+      "a": "All our cleaners are DBS checked and fully insured for your peace of mind."
+    },
+    {
+      "q": "What areas do you cover?",
+      "a": "We serve various locations across the UK. Please check our website or contact us to confirm coverage in your area."
+    }
+  ]
+}

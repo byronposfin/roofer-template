@@ -1,0 +1,67 @@
+{
+  "id": "insurance_broker",
+  "displayName": "Insurance Broker",
+  "plural": "Insurance Brokers",
+  "heroTagline": "Local Insurance Experts",
+  "ctaLabel": "Get a Free Quote",
+  "trustBadges": [
+    "FCA Registered",
+    "Professional Indemnity Insured",
+    "Member of AIB"
+  ],
+  "services": [
+    {
+      "icon": "Shield",
+      "title": "Home Insurance",
+      "body": "Protect your home and contents with tailored policies."
+    },
+    {
+      "icon": "Car",
+      "title": "Motor Insurance",
+      "body": "Comprehensive cover for all types of vehicles."
+    },
+    {
+      "icon": "Dumbbell",
+      "title": "Health Insurance",
+      "body": "Personalized health plans to suit your needs."
+    },
+    {
+      "icon": "Home",
+      "title": "Landlord Insurance",
+      "body": "Specialist insurance for property owners and landlords."
+    },
+    {
+      "icon": "Key",
+      "title": "Travel Insurance",
+      "body": "Peace of mind while you travel abroad."
+    },
+    {
+      "icon": "Tool",
+      "title": "Business Insurance",
+      "body": "Protect your business with comprehensive coverage options."
+    }
+  ],
+  "palette": {
+    "primary": "#2563eb",
+    "primaryHover": "#1d4ed8",
+    "secondary": "#0f766e"
+  },
+  "faqs": [
+    {
+      "q": "Are you FCA registered?",
+      "a": "Yes, we are fully registered with the Financial Conduct Authority."
+    },
+    {
+      "q": "Can I get a quote online?",
+      "a": "Absolutely. Fill out our quick form to receive your personalized quote."
+    },
+    {
+      "q": "Do you offer 24/7 support?",
+      "a": "Yes, we provide round-the-clock assistance for emergencies and queries."
+    },
+    {
+      "q": "How do I make a claim?",
+      "a": "Contact us directly or use our online claims portal to start the process."
+    }
+  ]
+}

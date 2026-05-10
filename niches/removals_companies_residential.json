@@ -1,0 +1,67 @@
+{
+  "id": "removals_companies_residential",
+  "displayName": "Removals Companies (Residential)",
+  "plural": "Removals Companies (Residential)s",
+  "heroTagline": "Local Residential Movers",
+  "ctaLabel": "Get a Free Quote",
+  "trustBadges": [
+    "Guild of Removers Member",
+    "Fully Insured",
+    "Customer Satisfaction Guaranteed"
+  ],
+  "services": [
+    {
+      "icon": "Truck",
+      "title": "Full House Removals",
+      "body": "Safe and efficient relocation services for all your household items."
+    },
+    {
+      "icon": "Hammer",
+      "title": "Disassembly & Reassembly",
+      "body": "Professional disassembly of furniture at the old location, reassembled at the new one."
+    },
+    {
+      "icon": "Shield",
+      "title": "Valuable Items Protection",
+      "body": "Special care for antiques and valuables with our premium packaging service."
+    },
+    {
+      "icon": "Droplets",
+      "title": "Climate-Controlled Storage",
+      "body": "Secure storage options available to protect your items from extreme weather conditions."
+    },
+    {
+      "icon": "Eye",
+      "title": "On-Site Survey",
+      "body": "Free on-site survey to provide an accurate quote and plan the move."
+    },
+    {
+      "icon": "Settings",
+      "title": "Customized Moving Solutions",
+      "body": "Tailored moving plans for unique needs, including short-notice moves."
+    }
+  ],
+  "palette": {
+    "primary": "#0d9488",
+    "primaryHover": "#0f766e",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Do you offer packing services?",
+      "a": "Yes, we provide professional packing services to ensure your items are safely transported."
+    },
+    {
+      "q": "What is included in the free quote?",
+      "a": "The free quote includes an on-site survey and a detailed breakdown of all costs involved in your move."
+    },
+    {
+      "q": "How do I book a removal service?",
+      "a": "You can book by calling us or filling out our online contact form. We'll get back to you promptly with more details."
+    },
+    {
+      "q": "What insurance coverage is provided?",
+      "a": "Our services come with full insurance coverage for all items during transportation and storage."
+    }
+  ]
+}

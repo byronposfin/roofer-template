@@ -1,0 +1,67 @@
+{
+  "id": "wedding_planner",
+  "displayName": "Wedding Planner",
+  "plural": "Wedding Planners",
+  "heroTagline": "Your Special Day Organised",
+  "ctaLabel": "Plan Your Dream Wedding",
+  "trustBadges": [
+    "IWPA Member",
+    "Fully Insured",
+    "5-Star Reviews"
+  ],
+  "services": [
+    {
+      "icon": "Cake",
+      "title": "Wedding Coordination",
+      "body": "Expert planning and coordination for stress-free weddings."
+    },
+    {
+      "icon": "Heart",
+      "title": "Vendor Management",
+      "body": "Curating the best vendors to fit your vision."
+    },
+    {
+      "icon": "Camera",
+      "title": "Day-Of Coordination",
+      "body": "On-site management for seamless event flow."
+    },
+    {
+      "icon": "Utensils",
+      "title": "Catering Consultation",
+      "body": "Tailored catering solutions to match your theme."
+    },
+    {
+      "icon": "Music",
+      "title": "Entertainment Booking",
+      "body": "From DJs to live bands, we book the best entertainment."
+    },
+    {
+      "icon": "Flame",
+      "title": "Venue Decoration",
+      "body": "Customised decor that brings your vision to life."
+    }
+  ],
+  "palette": {
+    "primary": "#16a34a",
+    "primaryHover": "#0f766e",
+    "secondary": "#2563eb"
+  },
+  "faqs": [
+    {
+      "q": "Are you a member of IWPA?",
+      "a": "Yes, we are proud members of the International Wedding Planning Association."
+    },
+    {
+      "q": "How do I book your services?",
+      "a": "Simply fill out our contact form or give us a call to discuss your wedding plans."
+    },
+    {
+      "q": "Do you offer day-of coordination only?",
+      "a": "Absolutely, we can provide just the day-of coordination if that's what you need."
+    },
+    {
+      "q": "Can you help with out-of-town weddings?",
+      "a": "Yes, we specialise in both local and destination wedding planning services."
+    }
+  ]
+}

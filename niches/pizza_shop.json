@@ -1,0 +1,67 @@
+{
+  "id": "pizza_shop",
+  "displayName": "Pizza Shop",
+  "plural": "Pizza Shops",
+  "heroTagline": "Delicious Local Pizzas",
+  "ctaLabel": "Order Now",
+  "trustBadges": [
+    "FSS Approved",
+    "Locally Sourced Ingredients",
+    "Vegetarian & Vegan Options"
+  ],
+  "services": [
+    {
+      "icon": "Utensils",
+      "title": "Custom Pizza Making",
+      "body": "Create your own pizza with our wide range of toppings."
+    },
+    {
+      "icon": "Truck",
+      "title": "Delivery Service",
+      "body": "Fast and reliable delivery to your doorstep."
+    },
+    {
+      "icon": "Cake",
+      "title": "Party Pizzas",
+      "body": "Special pizzas for birthdays, anniversaries, and more!"
+    },
+    {
+      "icon": "ChefHat",
+      "title": "Corporate Catering",
+      "body": "Custom catering solutions for your business events."
+    },
+    {
+      "icon": "Clock",
+      "title": "24/7 Ordering",
+      "body": "Order anytime, day or night!"
+    },
+    {
+      "icon": "Key",
+      "title": "Private Dining Rooms",
+      "body": "Book a private room for your group."
+    }
+  ],
+  "palette": {
+    "primary": "#16a34a",
+    "primaryHover": "#0f766e",
+    "secondary": "#2563eb"
+  },
+  "faqs": [
+    {
+      "q": "Do you offer delivery?",
+      "a": "Yes, we deliver to your location with fast and reliable service."
+    },
+    {
+      "q": "Are there vegetarian options available?",
+      "a": "Absolutely! We have a variety of vegetarian and vegan pizzas on our menu."
+    },
+    {
+      "q": "Can I customize my pizza?",
+      "a": "Yes, you can choose from a wide range of toppings to create your perfect pizza."
+    },
+    {
+      "q": "Do you cater for events?",
+      "a": "Yes, we offer corporate catering and party pizzas for special occasions."
+    }
+  ]
+}

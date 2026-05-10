@@ -1,0 +1,67 @@
+{
+  "id": "roofing_contractors_commercial",
+  "displayName": "Roofing Contractors (Commercial)",
+  "plural": "Roofing Contractors (Commercial)s",
+  "heroTagline": "Expert Commercial Roofs",
+  "ctaLabel": "Get a Free Quote",
+  "trustBadges": [
+    "Federation of Master Builders Member",
+    "Fully Insured & Certified",
+    "CSRT Approved"
+  ],
+  "services": [
+    {
+      "icon": "Hammer",
+      "title": "Flat Roof Installation",
+      "body": "Professional flat roof installation services for commercial buildings."
+    },
+    {
+      "icon": "Shield",
+      "title": "Roof Inspections & Reports",
+      "body": "Detailed inspections and comprehensive reports to ensure your roof is in top condition."
+    },
+    {
+      "icon": "Truck",
+      "title": "Emergency Roof Repairs",
+      "body": "Swift response for urgent commercial roof repairs, ensuring minimal downtime."
+    },
+    {
+      "icon": "Trees",
+      "title": "Sustainable Roofing Solutions",
+      "body": "Offering eco-friendly roofing options to reduce your carbon footprint."
+    },
+    {
+      "icon": "Droplets",
+      "title": "Gutter & Drainage Systems",
+      "body": "Installation and maintenance of efficient gutter and drainage systems for commercial properties."
+    },
+    {
+      "icon": "Flame",
+      "title": "Fireproof Roofing Materials",
+      "body": "Specializing in fire-resistant roofing materials to ensure the safety of your commercial building."
+    }
+  ],
+  "palette": {
+    "primary": "#2563eb",
+    "primaryHover": "#1d4ed8",
+    "secondary": "#0f766e"
+  },
+  "faqs": [
+    {
+      "q": "Are you CSRT approved?",
+      "a": "Yes, we are certified by the Confederation of Roofing Contractors (CSRT)."
+    },
+    {
+      "q": "Do you offer emergency services?",
+      "a": "Absolutely, our team is ready to respond 24/7 for urgent commercial roof repairs."
+    },
+    {
+      "q": "Can you provide eco-friendly roofing options?",
+      "a": "Yes, we specialize in sustainable and energy-efficient roofing solutions."
+    },
+    {
+      "q": "How do I schedule a consultation?",
+      "a": "You can call us or fill out our contact form to arrange a consultation at your convenience."
+    }
+  ]
+}

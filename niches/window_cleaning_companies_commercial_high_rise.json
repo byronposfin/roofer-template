@@ -1,0 +1,67 @@
+{
+  "id": "window_cleaning_companies_commercial_high_rise",
+  "displayName": "Window Cleaning Companies (Commercial High-Rise)",
+  "plural": "Window Cleaning Companies (Commercial High-Rise)s",
+  "heroTagline": "High-rise window cleaning experts",
+  "ctaLabel": "Get a Free Quote",
+  "trustBadges": [
+    "IPAF Certified",
+    "Fully Insured",
+    "ISO 9001:2015"
+  ],
+  "services": [
+    {
+      "icon": "Droplets",
+      "title": "High-Rise Window Cleaning",
+      "body": "Professional cleaning for high-rise buildings using advanced equipment."
+    },
+    {
+      "icon": "Truck",
+      "title": "Mobile Access Units",
+      "body": "Utilizing mobile access units to reach all areas of your building safely and efficiently."
+    },
+    {
+      "icon": "Shield",
+      "title": "Safety Compliance",
+      "body": "Ensuring all work is carried out in compliance with health and safety regulations."
+    },
+    {
+      "icon": "Tool",
+      "title": "Specialist Cleaning Tools",
+      "body": "Using the latest tools and equipment for effective cleaning solutions."
+    },
+    {
+      "icon": "Clock",
+      "title": "Regular Maintenance Plans",
+      "body": "Scheduled regular maintenance to keep your windows sparkling clean all year round."
+    },
+    {
+      "icon": "Eye",
+      "title": "Visual Inspection Services",
+      "body": "Professional visual inspections to identify and address any potential issues."
+    }
+  ],
+  "palette": {
+    "primary": "#2563eb",
+    "primaryHover": "#1d4ed8",
+    "secondary": "#0f766e"
+  },
+  "faqs": [
+    {
+      "q": "Do you have insurance?",
+      "a": "Yes, we are fully insured for all our high-rise window cleaning services."
+    },
+    {
+      "q": "What safety measures do you follow?",
+      "a": "We comply with all health and safety regulations and use IPAF certified operators."
+    },
+    {
+      "q": "Can you provide regular maintenance?",
+      "a": "Absolutely, we offer tailored regular maintenance plans to keep your windows clean."
+    },
+    {
+      "q": "How do I schedule a service?",
+      "a": "You can call us or fill in our contact form \u2014 we'll get back to you promptly."
+    }
+  ]
+}

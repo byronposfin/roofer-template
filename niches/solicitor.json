@@ -1,0 +1,67 @@
+{
+  "id": "solicitor",
+  "displayName": "Solicitor",
+  "plural": "Solicitors",
+  "heroTagline": "Local legal experts",
+  "ctaLabel": "Get Free Consultation",
+  "trustBadges": [
+    "SRA Registered",
+    "Legal 500 Ranked",
+    "Client-Centred Service"
+  ],
+  "services": [
+    {
+      "icon": "ShieldCheck",
+      "title": "Family Law",
+      "body": "Divorce, child custody, and adoption services."
+    },
+    {
+      "icon": "Home",
+      "title": "Property Conveyancing",
+      "body": "Buying, selling, and transferring property ownership."
+    },
+    {
+      "icon": "Dumbbell",
+      "title": "Personal Injury Claims",
+      "body": "Compensation for accidents and injuries."
+    },
+    {
+      "icon": "Key",
+      "title": "Wills & Probate",
+      "body": "Drafting wills, probate services, and estate management."
+    },
+    {
+      "icon": "Law",
+      "title": "Employment Law",
+      "body": "Advice on contracts, disputes, and employment rights."
+    },
+    {
+      "icon": "Search",
+      "title": "Dispute Resolution",
+      "body": "Mediation, arbitration, and litigation services."
+    }
+  ],
+  "palette": {
+    "primary": "#2563eb",
+    "primaryHover": "#1d4ed8",
+    "secondary": "#0f766e"
+  },
+  "faqs": [
+    {
+      "q": "Are you SRA registered?",
+      "a": "Yes, we are fully registered with the Solicitors Regulation Authority."
+    },
+    {
+      "q": "What areas do you cover?",
+      "a": "We serve clients across the UK and can offer remote consultations as well."
+    },
+    {
+      "q": "Can I get a free consultation?",
+      "a": "Yes, we offer initial consultations at no cost to discuss your case."
+    },
+    {
+      "q": "How long does it take to resolve a dispute?",
+      "a": "The duration varies based on the complexity of the issue and chosen resolution method."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "locksmith",
+  "displayName": "Locksmith",
+  "plural": "Locksmiths",
+  "heroTagline": "Secure your home",
+  "ctaLabel": "Get a Free Quote",
+  "trustBadges": [
+    "BSIA Approved",
+    "Fully Insured",
+    "24/7 Emergency"
+  ],
+  "services": [
+    {
+      "icon": "Key",
+      "title": "Lock Installation",
+      "body": "High-security locks for homes and businesses"
+    },
+    {
+      "icon": "Tool",
+      "title": "Emergency Lockouts",
+      "body": "Fast service to get you back in"
+    },
+    {
+      "icon": "Shield",
+      "title": "Security Surveys",
+      "body": "Assess your property's security needs"
+    },
+    {
+      "icon": "Lock",
+      "title": "Safe Installation & Opening",
+      "body": "Professional safe services"
+    },
+    {
+      "icon": "Hammer",
+      "title": "Door Repair & Replacement",
+      "body": "Fix or replace damaged doors"
+    },
+    {
+      "icon": "Phone",
+      "title": "Key Cutting",
+      "body": "Duplicate keys for all types of locks"
+    }
+  ],
+  "palette": {
+    "primary": "#0d9488",
+    "primaryHover": "#0f766e",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are you BSIA approved?",
+      "a": "Yes \u2014 all our locksmiths are BSIA certified and fully insured."
+    },
+    {
+      "q": "Do you offer emergency services?",
+      "a": "Absolutely. We provide 24/7 emergency lockout assistance."
+    },
+    {
+      "q": "Can you install high-security locks?",
+      "a": "Yes, we specialize in installing the latest high-security locks for added peace of mind."
+    },
+    {
+      "q": "How do I book a service?",
+      "a": "Call us or fill out our contact form \u2014 we'll get back to you promptly."
+    }
+  ]
+}

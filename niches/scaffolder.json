@@ -1,0 +1,67 @@
+{
+  "id": "scaffolder",
+  "displayName": "Scaffolder",
+  "plural": "Scaffolders",
+  "heroTagline": "Professional scaffold erection",
+  "ctaLabel": "Get a Free Quote",
+  "trustBadges": [
+    "CHAS Registered",
+    "SSIP Member",
+    "Safe Contractor"
+  ],
+  "services": [
+    {
+      "icon": "Shovel",
+      "title": "Scaffold Erection",
+      "body": "Professional scaffold setup for all projects"
+    },
+    {
+      "icon": "Hammer",
+      "title": "Scaffold Dismantling",
+      "body": "Safe and efficient scaffold removal services"
+    },
+    {
+      "icon": "Truck",
+      "title": "Mobile Scaffolding",
+      "body": "Flexible scaffolding solutions for tight spaces"
+    },
+    {
+      "icon": "Shield",
+      "title": "Safety Inspections",
+      "body": "Regular scaffold safety checks and certifications"
+    },
+    {
+      "icon": "Tool",
+      "title": "Scaffold Maintenance",
+      "body": "Routine maintenance to ensure scaffold integrity"
+    },
+    {
+      "icon": "Settings",
+      "title": "Custom Scaffold Design",
+      "body": "Tailored scaffolding solutions for unique projects"
+    }
+  ],
+  "palette": {
+    "primary": "#0d9488",
+    "primaryHover": "#0f766e",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are you CHAS registered?",
+      "a": "Yes \u2014 we are fully CHAS registered for your peace of mind."
+    },
+    {
+      "q": "Do you provide safety inspections?",
+      "a": "Absolutely. We conduct thorough safety checks on all our scaffolds."
+    },
+    {
+      "q": "Can you handle large projects?",
+      "a": "Yes \u2014 we have extensive experience with both small and large-scale scaffold erection."
+    },
+    {
+      "q": "How do I request a quote?",
+      "a": "Simply fill out our contact form or give us a call, and we'll provide you with a free estimate."
+    }
+  ]
+}

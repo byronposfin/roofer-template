@@ -1,0 +1,67 @@
+{
+  "id": "physiotherapy_network_builders",
+  "displayName": "Physiotherapy Network Builders",
+  "plural": "Physiotherapy Network Builders",
+  "heroTagline": "Local Expertise in Physiotherapy",
+  "ctaLabel": "Schedule a Consultation",
+  "trustBadges": [
+    "HCPC Registered",
+    "Chartered Society Member",
+    "ISO Certified"
+  ],
+  "services": [
+    {
+      "icon": "Dumbbell",
+      "title": "Personalized Rehabilitation Plans",
+      "body": "Tailored recovery programs for faster healing."
+    },
+    {
+      "icon": "Stethoscope",
+      "title": "Sports Injury Management",
+      "body": "Specialized care for athletes and active individuals."
+    },
+    {
+      "icon": "Heart",
+      "title": "Cardiovascular Rehabilitation",
+      "body": "Supporting heart health through physical therapy."
+    },
+    {
+      "icon": "Shield",
+      "title": "Pain Management Therapy",
+      "body": "Effective techniques to reduce chronic pain."
+    },
+    {
+      "icon": "Eye",
+      "title": "Neurological Rehabilitation",
+      "body": "Recovery support for neurological conditions."
+    },
+    {
+      "icon": "Tool",
+      "title": "Workplace Ergonomics Assessment",
+      "body": "Improving workplace safety and comfort through ergonomic solutions."
+    }
+  ],
+  "palette": {
+    "primary": "#7c3aed",
+    "primaryHover": "#642f9d",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are your therapists HCPC registered?",
+      "a": "Yes, all our physiotherapists are fully HCPC registered."
+    },
+    {
+      "q": "Do you offer home visits?",
+      "a": "Absolutely. We provide convenient home visit services for those who need it."
+    },
+    {
+      "q": "What conditions do you treat?",
+      "a": "We specialize in sports injuries, chronic pain management, neurological recovery, and cardiovascular rehabilitation."
+    },
+    {
+      "q": "How can I schedule an appointment?",
+      "a": "You can call us or use our online booking system to schedule a consultation."
+    }
+  ]
+}

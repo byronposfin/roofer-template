@@ -1,0 +1,67 @@
+{
+  "id": "dentist",
+  "displayName": "Dentist",
+  "plural": "Dentists",
+  "heroTagline": "Local Dental Care Experts",
+  "ctaLabel": "Book Your Appointment",
+  "trustBadges": [
+    "GDC Registered",
+    "NHS Approved",
+    "Infection Control Certified"
+  ],
+  "services": [
+    {
+      "icon": "Smile",
+      "title": "General Check-ups",
+      "body": "Routine dental examinations and cleanings."
+    },
+    {
+      "icon": "Stethoscope",
+      "title": "Emergency Dental Care",
+      "body": "Immediate treatment for urgent dental issues."
+    },
+    {
+      "icon": "Droplets",
+      "title": "Teeth Whitening",
+      "body": "Professional teeth whitening treatments."
+    },
+    {
+      "icon": "Hammer",
+      "title": "Crowns and Bridges",
+      "body": "Custom-made crowns and bridges for a natural look."
+    },
+    {
+      "icon": "Shield",
+      "title": "Dental Implants",
+      "body": "Permanent tooth replacement solutions."
+    },
+    {
+      "icon": "Tool",
+      "title": "Orthodontics",
+      "body": "Braces and aligners for straighter teeth."
+    }
+  ],
+  "palette": {
+    "primary": "#dc2626",
+    "primaryHover": "#b91c1c",
+    "secondary": "#f8d7da"
+  },
+  "faqs": [
+    {
+      "q": "Are you GDC registered?",
+      "a": "Yes, all our dentists are fully registered with the General Dental Council."
+    },
+    {
+      "q": "Do you offer NHS treatments?",
+      "a": "We provide both NHS and private dental services to meet your needs."
+    },
+    {
+      "q": "How can I book an appointment?",
+      "a": "You can call us or use our online booking form on the website."
+    },
+    {
+      "q": "What is your policy on infection control?",
+      "a": "We strictly adhere to high standards of sterilization and hygiene practices."
+    }
+  ]
+}

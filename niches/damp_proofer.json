@@ -1,0 +1,67 @@
+{
+  "id": "damp_proofer",
+  "displayName": "Damp Proofer",
+  "plural": "Damp Proofers",
+  "heroTagline": "Local Damp Solutions",
+  "ctaLabel": "Get a Free Quote",
+  "trustBadges": [
+    "Certified Surveyors",
+    "Fully Insured",
+    "Guaranteed Work"
+  ],
+  "services": [
+    {
+      "icon": "Droplets",
+      "title": "Damp Proofing Treatments",
+      "body": "Professional damp proof membrane installation and chemical treatments."
+    },
+    {
+      "icon": "Shield",
+      "title": "Mould Removal",
+      "body": "Safe removal of mould with anti-fungal solutions."
+    },
+    {
+      "icon": "Thermometer",
+      "title": "Moisture Control",
+      "body": "Installation of ventilation systems to control moisture levels."
+    },
+    {
+      "icon": "Hammer",
+      "title": "Plaster Replacement",
+      "body": "Replacement and repair of damaged plaster due to dampness."
+    },
+    {
+      "icon": "Bath",
+      "title": "Basement Waterproofing",
+      "body": "Specialised waterproofing solutions for basements and cellars."
+    },
+    {
+      "icon": "Tool",
+      "title": "Damp Surveys",
+      "body": "Comprehensive damp surveys to identify the source of dampness."
+    }
+  ],
+  "palette": {
+    "primary": "#0d9488",
+    "primaryHover": "#0f766e",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Do you offer free surveys?",
+      "a": "Yes, we provide complimentary damp surveys to assess the issue."
+    },
+    {
+      "q": "How long does treatment take?",
+      "a": "Treatment duration varies based on severity; typically completed within a few days."
+    },
+    {
+      "q": "Are your services guaranteed?",
+      "a": "Yes, we offer guarantees on our work to ensure satisfaction and effectiveness."
+    },
+    {
+      "q": "Can you handle emergency damp issues?",
+      "a": "Absolutely, we respond quickly to emergencies to prevent further damage."
+    }
+  ]
+}

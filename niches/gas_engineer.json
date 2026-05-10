@@ -1,0 +1,67 @@
+{
+  "id": "gas_engineer",
+  "displayName": "Gas Engineer",
+  "plural": "Gas Engineers",
+  "heroTagline": "Local Gas Experts",
+  "ctaLabel": "Get a Free Quote",
+  "trustBadges": [
+    "GAS SAFE Registered",
+    "Fully Insured",
+    "HSE Compliant"
+  ],
+  "services": [
+    {
+      "icon": "Flame",
+      "title": "Gas Boiler Installation",
+      "body": "Professional installation of new boilers with certification."
+    },
+    {
+      "icon": "Thermometer",
+      "title": "Boiler Servicing",
+      "body": "Annual servicing to ensure your boiler is safe and efficient."
+    },
+    {
+      "icon": "Shield",
+      "title": "Gas Safety Checks",
+      "body": "Comprehensive safety checks for landlords and homeowners."
+    },
+    {
+      "icon": "Bath",
+      "title": "Central Heating Repairs",
+      "body": "Fixing issues with radiators, pipes, and heating systems."
+    },
+    {
+      "icon": "Wrench",
+      "title": "Gas Pipe Installation",
+      "body": "Professional installation of gas pipes for new appliances."
+    },
+    {
+      "icon": "Siren",
+      "title": "Emergency Gas Repairs",
+      "body": "24/7 emergency call-out service for urgent repairs."
+    }
+  ],
+  "palette": {
+    "primary": "#0d9488",
+    "primaryHover": "#0f766e",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are you GAS SAFE registered?",
+      "a": "Yes \u2014 all our engineers are fully GAS SAFE registered."
+    },
+    {
+      "q": "Do you offer emergency services?",
+      "a": "Absolutely, we provide a 24/7 emergency call-out service for urgent repairs."
+    },
+    {
+      "q": "Can you perform safety checks?",
+      "a": "Yes \u2014 we conduct comprehensive gas safety checks for landlords and homeowners."
+    },
+    {
+      "q": "How do I book a service?",
+      "a": "Call us or fill in our contact form, and we'll get back to you within the hour."
+    }
+  ]
+}

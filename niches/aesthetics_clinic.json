@@ -1,0 +1,67 @@
+{
+  "id": "aesthetics_clinic",
+  "displayName": "Aesthetics Clinic",
+  "plural": "Aesthetics Clinics",
+  "heroTagline": "Transformative Beauty Solutions",
+  "ctaLabel": "Book Your Consultation",
+  "trustBadges": [
+    "GMC Registered",
+    "CQC Approved",
+    "Member of BAAPS"
+  ],
+  "services": [
+    {
+      "icon": "Smile",
+      "title": "Dermal Fillers",
+      "body": "Restore volume and smooth wrinkles with hyaluronic acid fillers."
+    },
+    {
+      "icon": "Eye",
+      "title": "Botox Treatments",
+      "body": "Reduce fine lines and wrinkles for a refreshed appearance."
+    },
+    {
+      "icon": "Dumbbell",
+      "title": "Body Contouring",
+      "body": "Non-invasive treatments to sculpt your silhouette."
+    },
+    {
+      "icon": "Stethoscope",
+      "title": "Laser Hair Removal",
+      "body": "Permanent hair reduction for smooth, long-lasting results."
+    },
+    {
+      "icon": "Leaf",
+      "title": "Skin Rejuvenation",
+      "body": "Revitalize your skin with advanced skincare treatments."
+    },
+    {
+      "icon": "Shield",
+      "title": "Medical Consultations",
+      "body": "Personalized consultations for safe and effective treatment plans."
+    }
+  ],
+  "palette": {
+    "primary": "#7c3aed",
+    "primaryHover": "#642e9a",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are your practitioners GMC registered?",
+      "a": "Yes, all our practitioners are fully GMC registered and certified."
+    },
+    {
+      "q": "What is the CQC approval for?",
+      "a": "CQC approval ensures we meet high standards of safety and quality."
+    },
+    {
+      "q": "Do you offer free consultations?",
+      "a": "Yes, initial consultations are complimentary to discuss your needs."
+    },
+    {
+      "q": "How long do treatments take?",
+      "a": "Treatment duration varies by procedure; we'll provide details during consultation."
+    }
+  ]
+}

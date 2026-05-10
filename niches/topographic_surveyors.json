@@ -1,0 +1,67 @@
+{
+  "id": "topographic_surveyors",
+  "displayName": "Topographic Surveyors",
+  "plural": "Topographic Surveyors",
+  "heroTagline": "Accurate Local Surveys",
+  "ctaLabel": "Request a Quote",
+  "trustBadges": [
+    "RICS Registered",
+    "ISO 14001 Certified",
+    "Health & Safety Compliant"
+  ],
+  "services": [
+    {
+      "icon": "Camera",
+      "title": "Aerial Surveys",
+      "body": "High-resolution aerial mapping services"
+    },
+    {
+      "icon": "Shovel",
+      "title": "Land Surveying",
+      "body": "Detailed topographic surveys for land development"
+    },
+    {
+      "icon": "Trees",
+      "title": "Environmental Assessments",
+      "body": "Evaluating environmental impacts on projects"
+    },
+    {
+      "icon": "Tool",
+      "title": "Construction Surveys",
+      "body": "Site layout and construction monitoring services"
+    },
+    {
+      "icon": "Droplets",
+      "title": "Hydrographic Surveys",
+      "body": "Water depth mapping for marine projects"
+    },
+    {
+      "icon": "Search",
+      "title": "GIS Mapping",
+      "body": "Geographic Information System (GIS) data creation and management"
+    }
+  ],
+  "palette": {
+    "primary": "#0d9488",
+    "primaryHover": "#0f766e",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are you RICS registered?",
+      "a": "Yes, all our surveyors are fully RICS registered."
+    },
+    {
+      "q": "What types of surveys do you offer?",
+      "a": "We provide aerial surveys, land surveying, environmental assessments, construction surveys, hydrographic surveys, and GIS mapping services."
+    },
+    {
+      "q": "Do you comply with health & safety regulations?",
+      "a": "Absolutely. We are committed to maintaining high standards of health and safety on all our projects."
+    },
+    {
+      "q": "How long does a typical survey take?",
+      "a": "The duration varies based on the project size, but we aim for efficiency without compromising accuracy."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "martial_arts_school",
+  "displayName": "Martial Arts School",
+  "plural": "Martial Arts Schools",
+  "heroTagline": "Local Expert Training",
+  "ctaLabel": "Join Our Community",
+  "trustBadges": [
+    "British Judo Association Member",
+    "UK Martial Arts Federation Certified",
+    "SafeSport Registered"
+  ],
+  "services": [
+    {
+      "icon": "Dumbbell",
+      "title": "Beginner Classes",
+      "body": "Learn the basics of martial arts in a supportive environment."
+    },
+    {
+      "icon": "Shield",
+      "title": "Advanced Training",
+      "body": "Refine your skills with our expert instructors."
+    },
+    {
+      "icon": "Tool",
+      "title": "Self-Defense Workshops",
+      "body": "Learn practical self-defense techniques for real-life situations."
+    },
+    {
+      "icon": "Clock",
+      "title": "Youth Programs",
+      "body": "Specialized classes designed to build confidence and discipline in children."
+    },
+    {
+      "icon": "Eye",
+      "title": "Competition Training",
+      "body": "Prepare for tournaments with focused training sessions."
+    },
+    {
+      "icon": "Cake",
+      "title": "Birthday Parties",
+      "body": "Host a fun and active birthday party at our school."
+    }
+  ],
+  "palette": {
+    "primary": "#16a34a",
+    "primaryHover": "#0f766e",
+    "secondary": "#2563eb"
+  },
+  "faqs": [
+    {
+      "q": "Do you offer trial classes?",
+      "a": "Yes, we provide a free trial class for new students."
+    },
+    {
+      "q": "What ages do you teach?",
+      "a": "We have programs suitable for all ages from children to adults."
+    },
+    {
+      "q": "Are your instructors certified?",
+      "a": "Absolutely, our instructors are certified and experienced in their disciplines."
+    },
+    {
+      "q": "How can I sign up?",
+      "a": "Visit us or fill out the contact form on our website to get started."
+    }
+  ]
+}

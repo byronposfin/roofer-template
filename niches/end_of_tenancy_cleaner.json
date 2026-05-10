@@ -1,0 +1,67 @@
+{
+  "id": "end_of_tenancy_cleaner",
+  "displayName": "End of Tenancy Cleaner",
+  "plural": "Cleaners",
+  "heroTagline": "Professional End Cleaning",
+  "ctaLabel": "Book Your Clean",
+  "trustBadges": [
+    "Fully Insured",
+    "Trusted by Landlords",
+    "Certified Hygienists"
+  ],
+  "services": [
+    {
+      "icon": "Droplets",
+      "title": "Deep Cleaning",
+      "body": "Comprehensive cleaning for end of tenancy"
+    },
+    {
+      "icon": "Hammer",
+      "title": "Minor Repairs",
+      "body": "Fixing small damages before check-out"
+    },
+    {
+      "icon": "Shield",
+      "title": "Disinfection Services",
+      "body": "Professional disinfection for peace of mind"
+    },
+    {
+      "icon": "Eye",
+      "title": "Pre-Check Inspection",
+      "body": "Identify issues before cleaning starts"
+    },
+    {
+      "icon": "Tool",
+      "title": "Window Cleaning",
+      "body": "Sparkling clean windows included in service"
+    },
+    {
+      "icon": "PaintBucket",
+      "title": "Touch-Up Painting",
+      "body": "Minor touch-ups to keep the property looking its best"
+    }
+  ],
+  "palette": {
+    "primary": "#0d9488",
+    "primaryHover": "#0f766e",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Do you provide a pre-clean inspection?",
+      "a": "Yes, we offer a free pre-clean inspection to identify any issues."
+    },
+    {
+      "q": "Are your cleaners insured?",
+      "a": "Absolutely, all our cleaners are fully insured for your protection."
+    },
+    {
+      "q": "How do I book a cleaning service?",
+      "a": "You can book online or by calling us directly. We'll get back to you promptly."
+    },
+    {
+      "q": "Do you offer disinfection services?",
+      "a": "Yes, we provide professional disinfection as part of our comprehensive cleaning package."
+    }
+  ]
+}

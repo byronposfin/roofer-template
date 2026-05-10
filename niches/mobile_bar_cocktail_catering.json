@@ -1,0 +1,67 @@
+{
+  "id": "mobile_bar_cocktail_catering",
+  "displayName": "Mobile Bar & Cocktail Catering",
+  "plural": "Mobile Bar & Cocktail Caterings",
+  "heroTagline": "Sip in Style",
+  "ctaLabel": "Book Your Event",
+  "trustBadges": [
+    "Licensed Bartenders",
+    "Food Safety Certified",
+    "Fully Insured"
+  ],
+  "services": [
+    {
+      "icon": "ChefHat",
+      "title": "Custom Cocktail Menus",
+      "body": "Tailored drink lists to suit your event theme and guest preferences."
+    },
+    {
+      "icon": "Truck",
+      "title": "Mobile Bar Hire",
+      "body": "State-of-the-art mobile bars for indoor or outdoor events."
+    },
+    {
+      "icon": "Utensils",
+      "title": "Catering Services",
+      "body": "Complimentary food options to pair with your drinks."
+    },
+    {
+      "icon": "Cake",
+      "title": "Create a unique signature drink for your event.",
+      "body": "Design and mix a special cocktail that represents your occasion."
+    },
+    {
+      "icon": "Lightbulb",
+      "title": "Themed Lighting",
+      "body": "Enhance the ambiance with custom lighting setups."
+    },
+    {
+      "icon": "Music",
+      "title": "Live Music Integration",
+      "body": "Coordinate with live musicians for a complete entertainment experience."
+    }
+  ],
+  "palette": {
+    "primary": "#16a34a",
+    "primaryHover": "#0f766e",
+    "secondary": "#2563eb"
+  },
+  "faqs": [
+    {
+      "q": "Do you provide licensed bartenders?",
+      "a": "Yes, all our staff are fully licensed and insured."
+    },
+    {
+      "q": "Can I customize the cocktail menu?",
+      "a": "Absolutely! We work with you to create a personalized drink list for your event."
+    },
+    {
+      "q": "Do you offer food catering services too?",
+      "a": "Yes, we can provide complimentary food options that pair well with our drinks."
+    },
+    {
+      "q": "How far in advance should I book?",
+      "a": "We recommend booking at least 4 weeks in advance to secure your date and preferred setup."
+    }
+  ]
+}

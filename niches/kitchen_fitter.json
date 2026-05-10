@@ -1,0 +1,67 @@
+{
+  "id": "kitchen_fitter",
+  "displayName": "Kitchen Fitter",
+  "plural": "Kitchen Fitters",
+  "heroTagline": "Expert local fitters",
+  "ctaLabel": "Get a Free Quote",
+  "trustBadges": [
+    "Guild of Master Craftsmen",
+    "Fully Insured",
+    "Customer Satisfaction Guaranteed"
+  ],
+  "services": [
+    {
+      "icon": "Utensils",
+      "title": "Kitchen Installation",
+      "body": "Professional installation of new kitchens"
+    },
+    {
+      "icon": "Hammer",
+      "title": "Refurbishment Services",
+      "body": "Renew your kitchen with our refurbishment services"
+    },
+    {
+      "icon": "Tool",
+      "title": "Appliance Fitting",
+      "body": "Precision fitting of all kitchen appliances"
+    },
+    {
+      "icon": "Droplets",
+      "title": "Plumbing Services",
+      "body": "Professional plumbing for sinks and taps"
+    },
+    {
+      "icon": "PlugZap",
+      "title": "Electrical Installations",
+      "body": "Safe installation of kitchen electricals"
+    },
+    {
+      "icon": "Clock",
+      "title": "Timely Service",
+      "body": "We respect your schedule and work efficiently"
+    }
+  ],
+  "palette": {
+    "primary": "#16a34a",
+    "primaryHover": "#0f766e",
+    "secondary": "#2563eb"
+  },
+  "faqs": [
+    {
+      "q": "Do you offer free quotes?",
+      "a": "Yes, we provide free and detailed quotes."
+    },
+    {
+      "q": "How long does a typical kitchen installation take?",
+      "a": "Typically, installations are completed within 2-3 days."
+    },
+    {
+      "q": "Are you insured?",
+      "a": "Absolutely, all our work is fully insured for your peace of mind."
+    },
+    {
+      "q": "Can you handle plumbing and electrical work too?",
+      "a": "Yes, we offer comprehensive services including plumbing and electrical installations."
+    }
+  ]
+}

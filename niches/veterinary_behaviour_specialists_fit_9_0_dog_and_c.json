@@ -1,0 +1,67 @@
+{
+  "id": "veterinary_behaviour_specialists_fit_9_0_dog_and_c",
+  "displayName": "Veterinary Behaviour Specialists | **Fit:** 9.0 | Dog And Cat Behaviour Problems \u2014 Aggression, Anxiety, Compulsive Disorders. Referral From Vets + Direct Owner Enquiry.",
+  "plural": "Veterinary Behaviour Specialists | **Fit:** 9.0 | Dog And Cat Behaviour Problems \u2014 Aggression, Anxiety, Compulsive Disorders. Referral From Vets + Direct Owner Enquiry.s",
+  "heroTagline": "Expert Pet Behaviourists",
+  "ctaLabel": "Book a Consultation",
+  "trustBadges": [
+    "RCVS Registered",
+    "Certified Animal Behaviourist",
+    "Compassionate Care"
+  ],
+  "services": [
+    {
+      "icon": "Dog",
+      "title": "Aggression Management",
+      "body": "Tailored programs to address aggressive behaviors in dogs and cats."
+    },
+    {
+      "icon": "Cat",
+      "title": "Anxiety Relief",
+      "body": "Strategies for reducing anxiety through environmental enrichment and training."
+    },
+    {
+      "icon": "Heart",
+      "title": "Compulsive Disorder Treatment",
+      "body": "Specialised interventions for pets with compulsive disorders."
+    },
+    {
+      "icon": "Stethoscope",
+      "title": "Behavioural Assessments",
+      "body": "Comprehensive evaluations to understand your pet's behavior issues."
+    },
+    {
+      "icon": "Eye",
+      "title": "Training Sessions",
+      "body": "One-on-one training sessions with certified specialists."
+    },
+    {
+      "icon": "Shield",
+      "title": "Consultation Services",
+      "body": "Expert advice and support for pet owners dealing with challenging behaviors."
+    }
+  ],
+  "palette": {
+    "primary": "#dc2626",
+    "primaryHover": "#b91c1c",
+    "secondary": "#0d9488"
+  },
+  "faqs": [
+    {
+      "q": "Do you work with referrals from vets?",
+      "a": "Yes, we accept referrals from veterinarians and also welcome direct enquiries from pet owners."
+    },
+    {
+      "q": "What types of behavior problems do you address?",
+      "a": "We specialize in aggression, anxiety, compulsive disorders, and other challenging behaviors in dogs and cats."
+    },
+    {
+      "q": "How long does a consultation take?",
+      "a": "Consultations typically last 1-2 hours depending on the complexity of the case."
+    },
+    {
+      "q": "Can you provide ongoing support after an initial assessment?",
+      "a": "Absolutely, we offer follow-up sessions and continuous support to ensure lasting behavioral improvements."
+    }
+  ]
+}

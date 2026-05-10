@@ -1,0 +1,67 @@
+{
+  "id": "decorator_painter",
+  "displayName": "Decorator & Painter",
+  "plural": "Decorators",
+  "heroTagline": "Professional local decorators",
+  "ctaLabel": "Get a Free Quote",
+  "trustBadges": [
+    "Federation of Master Painters Member",
+    "Fully Insured",
+    "Certified Paint Technicians"
+  ],
+  "services": [
+    {
+      "icon": "PaintBucket",
+      "title": "Interior Painting",
+      "body": "High-quality interior painting services for homes and offices."
+    },
+    {
+      "icon": "Hammer",
+      "title": "Wallpaper Installation & Removal",
+      "body": "Expert wallpaper installation and removal with a seamless finish."
+    },
+    {
+      "icon": "Droplets",
+      "title": "Wood Staining & Finishing",
+      "body": "Specialist wood staining and finishing services for furniture and floors."
+    },
+    {
+      "icon": "Tool",
+      "title": "Ceiling Repairs & Painting",
+      "body": "Professional ceiling repairs, patching, and painting services."
+    },
+    {
+      "icon": "Shield",
+      "title": "Anti-Mould Treatments",
+      "body": "Effective anti-mould treatments to protect your home from damp."
+    },
+    {
+      "icon": "Truck",
+      "title": "Paint Supply Delivery",
+      "body": "We deliver high-quality paint supplies directly to your door."
+    }
+  ],
+  "palette": {
+    "primary": "#0d9488",
+    "primaryHover": "#0f766e",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are you insured?",
+      "a": "Yes, all our decorators are fully insured for your peace of mind."
+    },
+    {
+      "q": "Do you offer a guarantee on your work?",
+      "a": "Absolutely. We provide a one-year warranty on all painting and decorating services."
+    },
+    {
+      "q": "Can you match paint colours from samples?",
+      "a": "Yes, we can match any colour sample to ensure the perfect finish for your home."
+    },
+    {
+      "q": "How do I schedule an appointment?",
+      "a": "You can call us or fill out our contact form on the website \u2014 we'll get back to you within 2 hours."
+    }
+  ]
+}

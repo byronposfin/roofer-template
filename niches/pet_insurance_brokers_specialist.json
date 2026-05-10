@@ -1,0 +1,67 @@
+{
+  "id": "pet_insurance_brokers_specialist",
+  "displayName": "Pet Insurance Brokers (Specialist)",
+  "plural": "Pet Insurance Brokers (Specialist)s",
+  "heroTagline": "Expert pet insurance advice",
+  "ctaLabel": "Get a Free Quote",
+  "trustBadges": [
+    "FAPSA Member",
+    "RSPCA Partner",
+    "ISO Certified"
+  ],
+  "services": [
+    {
+      "icon": "Dog",
+      "title": "Pet Insurance Comparison",
+      "body": "Compare policies from leading UK insurers"
+    },
+    {
+      "icon": "Heart",
+      "title": "Special Needs Coverage",
+      "body": "Tailored insurance for pets with pre-existing conditions"
+    },
+    {
+      "icon": "ShieldCheck",
+      "title": "Claim Support",
+      "body": "Expert assistance throughout the claims process"
+    },
+    {
+      "icon": "Cat",
+      "title": "Multi-Pet Discounts",
+      "body": "Save on insurance for multiple pets in one household"
+    },
+    {
+      "icon": "Droplets",
+      "title": "Preventative Care Plans",
+      "body": "Include routine check-ups and vaccinations"
+    },
+    {
+      "icon": "Search",
+      "title": "Policy Review",
+      "body": "Annual review to ensure your policy meets your needs"
+    }
+  ],
+  "palette": {
+    "primary": "#2563eb",
+    "primaryHover": "#1d4ed8",
+    "secondary": "#0f766e"
+  },
+  "faqs": [
+    {
+      "q": "Do you cover pre-existing conditions?",
+      "a": "Yes, we offer policies that can include coverage for existing health issues."
+    },
+    {
+      "q": "How do I make a claim?",
+      "a": "Our team will guide you through the claims process to ensure it's as smooth as possible."
+    },
+    {
+      "q": "Can I get discounts for multiple pets?",
+      "a": "Absolutely, we offer multi-pet discounts on many of our policies."
+    },
+    {
+      "q": "How often should I review my pet insurance policy?",
+      "a": "We recommend an annual review to ensure your coverage meets any changes in your pet's needs."
+    }
+  ]
+}

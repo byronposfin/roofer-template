@@ -1,0 +1,67 @@
+{
+  "id": "landscape_architects_garden_designers",
+  "displayName": "Landscape Architects & Garden Designers",
+  "plural": "Landscape Architects & Garden Designers",
+  "heroTagline": "Transform Your Outdoor Space",
+  "ctaLabel": "Get a Free Consultation",
+  "trustBadges": [
+    "Chartered Member of LI",
+    "Registered with RHS",
+    "Sustainable Landscaping Certified"
+  ],
+  "services": [
+    {
+      "icon": "Trees",
+      "title": "Garden Design",
+      "body": "Custom garden layouts and planting schemes"
+    },
+    {
+      "icon": "Shovel",
+      "title": "Landscaping Services",
+      "body": "Drainage, patios, paths, and retaining walls"
+    },
+    {
+      "icon": "Droplets",
+      "title": "Irrigation Systems",
+      "body": "Efficient watering solutions for your garden"
+    },
+    {
+      "icon": "Leaf",
+      "title": "Planting Services",
+      "body": "Seasonal planting and maintenance"
+    },
+    {
+      "icon": "Hammer",
+      "title": "Garden Structures",
+      "body": "Fencing, pergolas, gazebos, and sheds"
+    },
+    {
+      "icon": "PaintBucket",
+      "title": "Outdoor Lighting Design",
+      "body": "Enhance your garden with thoughtful lighting"
+    }
+  ],
+  "palette": {
+    "primary": "#16a34a",
+    "primaryHover": "#0f762e",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Do you offer design consultations?",
+      "a": "Yes, we provide free initial consultations to understand your vision."
+    },
+    {
+      "q": "Are you registered with the RHS?",
+      "a": "Absolutely, our team is registered with the Royal Horticultural Society."
+    },
+    {
+      "q": "How do I schedule a consultation?",
+      "a": "You can call us or fill out our contact form to book an appointment."
+    },
+    {
+      "q": "Do you handle all aspects of garden design and construction?",
+      "a": "Yes, from initial design through to planting and landscaping, we manage the entire process."
+    }
+  ]
+}

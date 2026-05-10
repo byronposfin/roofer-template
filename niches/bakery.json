@@ -1,0 +1,67 @@
+{
+  "id": "bakery",
+  "displayName": "Bakery",
+  "plural": "Bakeries",
+  "heroTagline": "Fresh local treats",
+  "ctaLabel": "Order Now",
+  "trustBadges": [
+    "FSA Registered",
+    "Organic Ingredients",
+    "Local Supplier"
+  ],
+  "services": [
+    {
+      "icon": "Cake",
+      "title": "Custom Cakes",
+      "body": "Birthday, wedding and celebration cakes"
+    },
+    {
+      "icon": "Utensils",
+      "title": "Bakery Classes",
+      "body": "Learn to bake with our expert instructors"
+    },
+    {
+      "icon": "Flame",
+      "title": "Daily Bakes",
+      "body": "Fresh bread, pastries and cakes daily"
+    },
+    {
+      "icon": "Truck",
+      "title": "Delivery Service",
+      "body": "Same-day delivery within 5 miles"
+    },
+    {
+      "icon": "Leaf",
+      "title": "Vegan Options",
+      "body": "Wide range of vegan-friendly products"
+    },
+    {
+      "icon": "Droplets",
+      "title": "Special Diets",
+      "body": "Gluten-free, dairy-free and more"
+    }
+  ],
+  "palette": {
+    "primary": "#16a34a",
+    "primaryHover": "#0f766e",
+    "secondary": "#2563eb"
+  },
+  "faqs": [
+    {
+      "q": "Do you deliver?",
+      "a": "Yes, we offer same-day delivery within a 5-mile radius."
+    },
+    {
+      "q": "Are your ingredients organic?",
+      "a": "We use organic ingredients in many of our products. Check the label for details."
+    },
+    {
+      "q": "Do you cater for special diets?",
+      "a": "Absolutely, we offer gluten-free and dairy-free options among others."
+    },
+    {
+      "q": "Can I book a baking class?",
+      "a": "Yes, our classes are open to all levels. Book online or call us."
+    }
+  ]
+}

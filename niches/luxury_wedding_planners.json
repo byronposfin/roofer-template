@@ -1,0 +1,67 @@
+{
+  "id": "luxury_wedding_planners",
+  "displayName": "Luxury Wedding Planners",
+  "plural": "Luxury Wedding Planners",
+  "heroTagline": "Elevate Your Special Day",
+  "ctaLabel": "Plan My Dream Wedding",
+  "trustBadges": [
+    "Wedding Industry Certified",
+    "Member of Brides Magazine",
+    "5-Star Client Satisfaction"
+  ],
+  "services": [
+    {
+      "icon": "Crown",
+      "title": "Venue Selection",
+      "body": "Curating the perfect setting for your celebration."
+    },
+    {
+      "icon": "Cake",
+      "title": "Dessert Stations",
+      "body": "Customized cake and dessert options to delight guests."
+    },
+    {
+      "icon": "Utensils",
+      "title": "Catering Coordination",
+      "body": "Expertly managing your catering needs for a seamless event."
+    },
+    {
+      "icon": "Flame",
+      "title": "Themed Decorations",
+      "body": "Transform venues with bespoke and elegant decor themes."
+    },
+    {
+      "icon": "Droplets",
+      "title": "Bridal Spa Day",
+      "body": "Luxurious spa treatments for the bride and her party."
+    },
+    {
+      "icon": "Camera",
+      "title": "Professional Photography",
+      "body": "Capturing every moment with high-end photography services."
+    }
+  ],
+  "palette": {
+    "primary": "#16a34a",
+    "primaryHover": "#0f766e",
+    "secondary": "#2563eb"
+  },
+  "faqs": [
+    {
+      "q": "Do you offer a consultation?",
+      "a": "Yes, we provide complimentary consultations to understand your vision."
+    },
+    {
+      "q": "What is the planning process like?",
+      "a": "We work closely with you from initial concept through event day coordination."
+    },
+    {
+      "q": "Can you handle last-minute weddings?",
+      "a": "Absolutely, we specialize in making dreams come true even under tight deadlines."
+    },
+    {
+      "q": "How do I get started?",
+      "a": "Contact us to schedule a consultation and begin planning your perfect day."
+    }
+  ]
+}

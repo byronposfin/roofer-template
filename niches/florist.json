@@ -1,0 +1,67 @@
+{
+  "id": "florist",
+  "displayName": "Florist",
+  "plural": "Florists",
+  "heroTagline": "Local floral artistry",
+  "ctaLabel": "Order Your Bouquet",
+  "trustBadges": [
+    "RHS Partner",
+    "Organic Flowers Certified",
+    "Fair Trade Member"
+  ],
+  "services": [
+    {
+      "icon": "Leaf",
+      "title": "Wedding Decorations",
+      "body": "Custom floral arrangements for your special day"
+    },
+    {
+      "icon": "Heart",
+      "title": "Sympathy Baskets",
+      "body": "Thoughtful tributes in times of loss"
+    },
+    {
+      "icon": "Trees",
+      "title": "Corporate Events",
+      "body": "Floral solutions for business gatherings"
+    },
+    {
+      "icon": "Droplets",
+      "title": "Seasonal Arrangements",
+      "body": "Fresh bouquets tailored to the season"
+    },
+    {
+      "icon": "Cake",
+      "title": "Birthday Bouquets",
+      "body": "Cheerful floral gifts for birthdays"
+    },
+    {
+      "icon": "Shield",
+      "title": "Gift Delivery",
+      "body": "Same-day delivery within 10 miles radius"
+    }
+  ],
+  "palette": {
+    "primary": "#2563eb",
+    "primaryHover": "#1d4ed8",
+    "secondary": "#7c3aed"
+  },
+  "faqs": [
+    {
+      "q": "Do you offer same-day delivery?",
+      "a": "Yes, we deliver within a 10-mile radius on the same day."
+    },
+    {
+      "q": "Are your flowers organic?",
+      "a": "We are certified to provide organic flowers upon request."
+    },
+    {
+      "q": "Can you create custom arrangements?",
+      "a": "Absolutely, we specialize in bespoke floral designs for any occasion."
+    },
+    {
+      "q": "Do you participate in fair trade practices?",
+      "a": "Yes, we are members of the Fair Trade organization to support ethical sourcing."
+    }
+  ]
+}

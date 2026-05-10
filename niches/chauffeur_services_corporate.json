@@ -1,0 +1,67 @@
+{
+  "id": "chauffeur_services_corporate",
+  "displayName": "Chauffeur Services (Corporate)",
+  "plural": "Chauffeur Services (Corporate)s",
+  "heroTagline": "Professional corporate chauffeurs",
+  "ctaLabel": "Book Your Ride Now",
+  "trustBadges": [
+    "Fully Insured",
+    "DBS Checked Drivers",
+    "Licensed Operators"
+  ],
+  "services": [
+    {
+      "icon": "Car",
+      "title": "Airport Transfers",
+      "body": "Efficient and punctual airport pick-ups and drop-offs."
+    },
+    {
+      "icon": "Truck",
+      "title": "VIP Transportation",
+      "body": "Luxury vehicles for high-profile corporate events."
+    },
+    {
+      "icon": "Shield",
+      "title": "Security Services",
+      "body": "Discreet and experienced security chauffeurs available."
+    },
+    {
+      "icon": "Clock",
+      "title": "Timely Service",
+      "body": "Guaranteed on-time arrivals for all corporate bookings."
+    },
+    {
+      "icon": "Phone",
+      "title": "24/7 Customer Support",
+      "body": "Round-the-clock assistance and booking support."
+    },
+    {
+      "icon": "Settings",
+      "title": "Customized Packages",
+      "body": "Tailored chauffeur services to meet your specific needs."
+    }
+  ],
+  "palette": {
+    "primary": "#2563eb",
+    "primaryHover": "#1d4ed8",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are your drivers DBS checked?",
+      "a": "Yes, all our chauffeurs undergo rigorous background checks including DBS verification."
+    },
+    {
+      "q": "Do you offer luxury vehicles?",
+      "a": "Absolutely. We provide a range of high-end vehicles suitable for VIP corporate events and meetings."
+    },
+    {
+      "q": "Can I book at short notice?",
+      "a": "Yes, we can accommodate last-minute bookings subject to vehicle availability."
+    },
+    {
+      "q": "What is your cancellation policy?",
+      "a": "Our cancellation policy varies by service. Please contact us for details or check our terms and conditions page."
+    }
+  ]
+}

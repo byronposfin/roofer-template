@@ -1,0 +1,67 @@
+{
+  "id": "osteopath",
+  "displayName": "Osteopath",
+  "plural": "Osteopaths",
+  "heroTagline": "Local Expert Care",
+  "ctaLabel": "Book Your Appointment",
+  "trustBadges": [
+    "General Osteopathic Council Registered",
+    "Fully Insured Practitioners",
+    "Member of British Osteopathic Association"
+  ],
+  "services": [
+    {
+      "icon": "Stethoscope",
+      "title": "Spinal Adjustments",
+      "body": "Precision adjustments for spinal health and alignment."
+    },
+    {
+      "icon": "Dumbbell",
+      "title": "Sports Injuries Treatment",
+      "body": "Specialised care for sports-related injuries and recovery."
+    },
+    {
+      "icon": "Heart",
+      "title": "Pain Management",
+      "body": "Effective pain relief techniques for various conditions."
+    },
+    {
+      "icon": "Eye",
+      "title": "Posture Assessment",
+      "body": "Comprehensive analysis to improve your posture and reduce strain."
+    },
+    {
+      "icon": "Clock",
+      "title": "Preventive Care Consultations",
+      "body": "Regular check-ups to maintain optimal health and mobility."
+    },
+    {
+      "icon": "Tool",
+      "title": "Manual Therapy Techniques",
+      "body": "Hands-on treatments for muscle, joint, and connective tissue issues."
+    }
+  ],
+  "palette": {
+    "primary": "#7c3aed",
+    "primaryHover": "#642e9a",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are your osteopaths registered?",
+      "a": "Yes, all our practitioners are registered with the General Osteopathic Council."
+    },
+    {
+      "q": "Do you treat sports injuries?",
+      "a": "Absolutely. We specialize in treating a wide range of sports-related injuries."
+    },
+    {
+      "q": "Is osteopathy covered by insurance?",
+      "a": "Many health insurance policies cover osteopathy, please check with your provider."
+    },
+    {
+      "q": "How long is the first appointment?",
+      "a": "The initial consultation typically lasts about 45 minutes to an hour."
+    }
+  ]
+}

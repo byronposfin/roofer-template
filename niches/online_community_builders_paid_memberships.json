@@ -1,0 +1,67 @@
+{
+  "id": "online_community_builders_paid_memberships",
+  "displayName": "Online Community Builders (Paid Memberships)",
+  "plural": "Online Community Builders (Paid Memberships)s",
+  "heroTagline": "Build Thriving Communities",
+  "ctaLabel": "Join Our Platform",
+  "trustBadges": [
+    "ICO Registered",
+    "GDPR Compliant",
+    "Cyber Essentials Certified"
+  ],
+  "services": [
+    {
+      "icon": "Tool",
+      "title": "Membership Management",
+      "body": "Effortless member onboarding and management tools."
+    },
+    {
+      "icon": "Shield",
+      "title": "Privacy & Security",
+      "body": "Ensure your community's data is safe with our robust security measures."
+    },
+    {
+      "icon": "Chat",
+      "title": "Community Forums",
+      "body": "Create vibrant discussion spaces for your members."
+    },
+    {
+      "icon": "Settings",
+      "title": "Customisation Options",
+      "body": "Tailor the look and feel of your community to match your brand."
+    },
+    {
+      "icon": "Sparkles",
+      "title": "Engagement Tools",
+      "body": "Boost member interaction with gamification, polls, and more."
+    },
+    {
+      "icon": "Search",
+      "title": "Advanced Search",
+      "body": "Enable members to find content and peers easily within your community."
+    }
+  ],
+  "palette": {
+    "primary": "#2563eb",
+    "primaryHover": "#1d4ed8",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Is the platform GDPR compliant?",
+      "a": "Yes, our platform is fully GDPR compliant to ensure your community's data privacy."
+    },
+    {
+      "q": "Can I customise the look of my community?",
+      "a": "Absolutely. We offer extensive customization options to match your brand identity."
+    },
+    {
+      "q": "How do you handle member privacy and security?",
+      "a": "We take privacy seriously with robust measures including GDPR compliance and Cyber Essentials certification."
+    },
+    {
+      "q": "What kind of support is available for community management?",
+      "a": "Our team offers comprehensive support, from setup to ongoing management advice."
+    }
+  ]
+}

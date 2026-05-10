@@ -1,0 +1,67 @@
+{
+  "id": "magician",
+  "displayName": "Magician",
+  "plural": "Magicians",
+  "heroTagline": "Local Magic Mastery",
+  "ctaLabel": "Book Your Show",
+  "trustBadges": [
+    "IAM Registered",
+    "ABRSM Member",
+    "Fully Insured"
+  ],
+  "services": [
+    {
+      "icon": "Star",
+      "title": "Close-Up Magic Shows",
+      "body": "Engage guests with intimate, close-up magic performances."
+    },
+    {
+      "icon": "Hammer",
+      "title": "Stage Illusions",
+      "body": "Create stunning stage illusions for large audiences."
+    },
+    {
+      "icon": "Lightbulb",
+      "title": "Kids' Parties",
+      "body": "Entertain children with magical fun and interactive tricks."
+    },
+    {
+      "icon": "Droplets",
+      "title": "Corporate Events",
+      "body": "Add a touch of magic to corporate events and team-building activities."
+    },
+    {
+      "icon": "ShieldCheck",
+      "title": "Workshops & Training",
+      "body": "Teach the art of magic in workshops for beginners and advanced learners."
+    },
+    {
+      "icon": "Eye",
+      "title": "Mystery Shows",
+      "body": "Deliver mystery shows that captivate audiences with suspense and surprise."
+    }
+  ],
+  "palette": {
+    "primary": "#16a34a",
+    "primaryHover": "#0f766e",
+    "secondary": "#2563eb"
+  },
+  "faqs": [
+    {
+      "q": "Are you IAM registered?",
+      "a": "Yes \u2014 all our magicians are registered with the International Brotherhood of Magicians."
+    },
+    {
+      "q": "Do you perform for children's parties?",
+      "a": "Absolutely. We specialize in creating magical experiences for kids' parties and events."
+    },
+    {
+      "q": "Can you provide corporate entertainment?",
+      "a": "Yes \u2014 we offer tailored magic shows for corporate functions, conferences, and team-building activities."
+    },
+    {
+      "q": "How do I book a magician?",
+      "a": "Simply fill out our contact form or give us a call. We'll get back to you within the hour with availability and pricing."
+    }
+  ]
+}

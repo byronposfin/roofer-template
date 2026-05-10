@@ -1,0 +1,67 @@
+{
+  "id": "architectural_photography_specialists",
+  "displayName": "Architectural Photography Specialists",
+  "plural": "Architectural Photography Specialists",
+  "heroTagline": "Capture Your Vision",
+  "ctaLabel": "Book a Shoot Today",
+  "trustBadges": [
+    "CPA Registered",
+    "ISO Certified",
+    "Drone Pilot License"
+  ],
+  "services": [
+    {
+      "icon": "Camera",
+      "title": "Architectural Photography",
+      "body": "Professional photography for new builds and renovations."
+    },
+    {
+      "icon": "Eye",
+      "title": "360\u00b0 Panoramic Views",
+      "body": "Create immersive experiences with 360-degree images."
+    },
+    {
+      "icon": "Hammer",
+      "title": "Construction Progress Photos",
+      "body": "Document every stage of your project's progress."
+    },
+    {
+      "icon": "Droplets",
+      "title": "HDR Photography",
+      "body": "Enhance details in high-contrast lighting conditions."
+    },
+    {
+      "icon": "Tool",
+      "title": "Aerial Drone Photography",
+      "body": "Capture stunning aerial views of your property."
+    },
+    {
+      "icon": "Settings",
+      "title": "Post-Processing Services",
+      "body": "Professional editing to enhance and refine images."
+    }
+  ],
+  "palette": {
+    "primary": "#2563eb",
+    "primaryHover": "#1d4ed8",
+    "secondary": "#f9fafb"
+  },
+  "faqs": [
+    {
+      "q": "Do you offer HDR photography?",
+      "a": "Yes, we specialize in capturing the full range of light and shadow with HDR techniques."
+    },
+    {
+      "q": "Can you provide aerial shots?",
+      "a": "Absolutely. We use licensed drones to capture stunning aerial views of your property."
+    },
+    {
+      "q": "How long does it take to get the photos after a shoot?",
+      "a": "Typically, we deliver high-resolution images within 2-3 business days post-shoot."
+    },
+    {
+      "q": "Do you offer post-processing services?",
+      "a": "Yes, our team provides professional editing to ensure your images are perfect for publication or marketing."
+    }
+  ]
+}

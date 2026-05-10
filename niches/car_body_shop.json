@@ -1,0 +1,67 @@
+{
+  "id": "car_body_shop",
+  "displayName": "Car Body Shop",
+  "plural": "Car Body Shops",
+  "heroTagline": "Local Auto Repairs",
+  "ctaLabel": "Get a Free Estimate",
+  "trustBadges": [
+    "Fully Insured",
+    "Certified Technicians",
+    "Member of BPA"
+  ],
+  "services": [
+    {
+      "icon": "PaintBucket",
+      "title": "Auto Painting",
+      "body": "Professional paint jobs for all makes and models"
+    },
+    {
+      "icon": "Car",
+      "title": "Body Repairs",
+      "body": "Dent removal, panel replacement, collision repair"
+    },
+    {
+      "icon": "Hammer",
+      "title": "Frame Straightening",
+      "body": "Precision alignment for structural integrity"
+    },
+    {
+      "icon": "Tool",
+      "title": "Panel Beating",
+      "body": "Minor and major panel repairs, including rust repair"
+    },
+    {
+      "icon": "ShieldCheck",
+      "title": "Pre-Purchase Inspections",
+      "body": "Detailed vehicle condition reports before buying"
+    },
+    {
+      "icon": "Droplets",
+      "title": "Detailing Services",
+      "body": "Interior and exterior detailing for a showroom finish"
+    }
+  ],
+  "palette": {
+    "primary": "#0d9488",
+    "primaryHover": "#0f766e",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Do you offer free estimates?",
+      "a": "Yes, we provide complimentary estimates for all repair services."
+    },
+    {
+      "q": "How long does a typical repair take?",
+      "a": "Repair times vary based on the extent of damage but most jobs are completed within 3-5 days."
+    },
+    {
+      "q": "Are your technicians certified?",
+      "a": "Absolutely, all our technicians are certified and experienced in auto body repairs."
+    },
+    {
+      "q": "Do you work with insurance companies?",
+      "a": "Yes, we coordinate directly with most major insurance providers for seamless claims processing."
+    }
+  ]
+}

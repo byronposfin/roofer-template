@@ -1,0 +1,67 @@
+{
+  "id": "handyman",
+  "displayName": "Handyman",
+  "plural": "Handymen",
+  "heroTagline": "Local Reliable Help",
+  "ctaLabel": "Get a Free Quote",
+  "trustBadges": [
+    "Gas Safe Registered",
+    "Fully Insured",
+    "HETAS Approved"
+  ],
+  "services": [
+    {
+      "icon": "Hammer",
+      "title": "Plastering & Painting",
+      "body": "Professional plastering and painting services for a fresh look."
+    },
+    {
+      "icon": "Droplets",
+      "title": "Bathroom Installation",
+      "body": "Complete bathroom fitting including plumbing and tiling."
+    },
+    {
+      "icon": "PlugZap",
+      "title": "Electrical Repairs",
+      "body": "Fault finding, rewiring, and installation services."
+    },
+    {
+      "icon": "Tool",
+      "title": "General Maintenance",
+      "body": "Fixing leaks, replacing locks, and other handy tasks."
+    },
+    {
+      "icon": "Shovel",
+      "title": "Garden Services",
+      "body": "Lawn care, planting, and garden maintenance services."
+    },
+    {
+      "icon": "Dumbbell",
+      "title": "Fitness Room Setup",
+      "body": "Installing gym equipment and setting up home gyms."
+    }
+  ],
+  "palette": {
+    "primary": "#0d9488",
+    "primaryHover": "#0f766e",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Do you offer emergency services?",
+      "a": "Yes, we provide urgent call-outs for emergencies."
+    },
+    {
+      "q": "Are your handymen insured?",
+      "a": "Absolutely, all our handymen are fully insured and certified."
+    },
+    {
+      "q": "Can you work with gas appliances?",
+      "a": "Yes, we have Gas Safe registered professionals for safe installations."
+    },
+    {
+      "q": "How do I book a service?",
+      "a": "Simply call us or use our contact form to schedule an appointment."
+    }
+  ]
+}

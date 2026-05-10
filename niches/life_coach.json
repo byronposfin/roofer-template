@@ -1,0 +1,67 @@
+{
+  "id": "life_coach",
+  "displayName": "Life Coach",
+  "plural": "Life Coaches",
+  "heroTagline": "Transform Your Life",
+  "ctaLabel": "Schedule a Session",
+  "trustBadges": [
+    "BACP Registered",
+    "Qualified Coach",
+    "Confidential Sessions"
+  ],
+  "services": [
+    {
+      "icon": "Smile",
+      "title": "Personal Development Coaching",
+      "body": "Achieve your personal goals and enhance self-awareness."
+    },
+    {
+      "icon": "Eye",
+      "title": "Career Guidance",
+      "body": "Navigate career transitions with confidence."
+    },
+    {
+      "icon": "Heart",
+      "title": "Relationship Coaching",
+      "body": "Improve communication and strengthen bonds."
+    },
+    {
+      "icon": "Clock",
+      "title": "Time Management Coaching",
+      "body": "Learn to prioritize tasks for a balanced life."
+    },
+    {
+      "icon": "Cake",
+      "title": "Wellness Coaching",
+      "body": "Focus on physical, mental and emotional health."
+    },
+    {
+      "icon": "Search",
+      "title": "Goal Setting & Achievement",
+      "body": "Define clear goals and strategies for success."
+    }
+  ],
+  "palette": {
+    "primary": "#7c3aed",
+    "primaryHover": "#642f9d",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are you BACP registered?",
+      "a": "Yes, all our coaches are BACP registered and qualified."
+    },
+    {
+      "q": "How long is a coaching session?",
+      "a": "Sessions typically last for one hour but can be tailored to your needs."
+    },
+    {
+      "q": "Is the coaching confidential?",
+      "a": "Absolutely, all sessions are strictly confidential."
+    },
+    {
+      "q": "Can I book a session online?",
+      "a": "Yes, you can schedule a session through our website or by calling us."
+    }
+  ]
+}

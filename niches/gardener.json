@@ -1,0 +1,67 @@
+{
+  "id": "gardener",
+  "displayName": "Gardener",
+  "plural": "Gardeners",
+  "heroTagline": "Local Green Thumb Experts",
+  "ctaLabel": "Get a Free Quote",
+  "trustBadges": [
+    "Royal Horticultural Society Member",
+    "Fully Insured Gardening Services",
+    "Certified Organic Practices"
+  ],
+  "services": [
+    {
+      "icon": "Trees",
+      "title": "Tree Pruning & Removal",
+      "body": "Professional tree care and removal services."
+    },
+    {
+      "icon": "Scissors",
+      "title": "Hedge Trimming",
+      "body": "Precision hedge shaping and trimming."
+    },
+    {
+      "icon": "Leaf",
+      "title": "Lawn Care & Maintenance",
+      "body": "Seasonal lawn care including mowing, fertilizing, and aeration."
+    },
+    {
+      "icon": "Droplets",
+      "title": "Irrigation System Installation",
+      "body": "Custom irrigation solutions for efficient watering."
+    },
+    {
+      "icon": "Shovel",
+      "title": "Garden Design & Landscaping",
+      "body": "Creative garden design and landscaping services."
+    },
+    {
+      "icon": "Flame",
+      "title": "Fire Pit Installation",
+      "body": "Safe and stylish fire pit installation for your outdoor space."
+    }
+  ],
+  "palette": {
+    "primary": "#16a34a",
+    "primaryHover": "#0f762e",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are you insured?",
+      "a": "Yes, all our gardeners are fully insured for your peace of mind."
+    },
+    {
+      "q": "Do you offer organic services?",
+      "a": "Absolutely. We specialize in certified organic gardening practices."
+    },
+    {
+      "q": "Can you design my garden?",
+      "a": "Yes, we provide professional garden design and landscaping services."
+    },
+    {
+      "q": "How do I book a service?",
+      "a": "Simply call us or fill out our contact form to schedule your appointment."
+    }
+  ]
+}

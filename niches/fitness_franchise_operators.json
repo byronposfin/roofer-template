@@ -1,0 +1,67 @@
+{
+  "id": "fitness_franchise_operators",
+  "displayName": "Fitness Franchise Operators",
+  "plural": "Fitness Franchise Operators",
+  "heroTagline": "Local Fitness Experts",
+  "ctaLabel": "Join Our Gym Today!",
+  "trustBadges": [
+    "Gym Owner Association Member",
+    "Certified Personal Trainers",
+    "Clean and Safe Facilities"
+  ],
+  "services": [
+    {
+      "icon": "Dumbbell",
+      "title": "Personal Training Sessions",
+      "body": "Customized workout plans for your fitness goals."
+    },
+    {
+      "icon": "Heart",
+      "title": "Cardiovascular Workouts",
+      "body": "High-intensity interval training and more."
+    },
+    {
+      "icon": "Shovel",
+      "title": "Group Fitness Classes",
+      "body": "Yoga, Pilates, Zumba, and strength classes."
+    },
+    {
+      "icon": "Leaf",
+      "title": "Nutrition Consultations",
+      "body": "Guidance on diet plans to complement your workouts."
+    },
+    {
+      "icon": "Tool",
+      "title": "Facility Maintenance",
+      "body": "Regular upkeep of gym equipment and facilities."
+    },
+    {
+      "icon": "Settings",
+      "title": "Membership Management",
+      "body": "Efficient handling of memberships, renewals, and inquiries."
+    }
+  ],
+  "palette": {
+    "primary": "#7c3aed",
+    "primaryHover": "#642f9b",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are your personal trainers certified?",
+      "a": "Yes, all our personal trainers are certified and experienced."
+    },
+    {
+      "q": "Do you offer nutrition advice?",
+      "a": "Absolutely. We provide personalized nutrition consultations to support your fitness goals."
+    },
+    {
+      "q": "What types of group classes do you have?",
+      "a": "We offer a variety of classes including yoga, Pilates, Zumba, and strength training sessions."
+    },
+    {
+      "q": "How can I join the gym?",
+      "a": "You can sign up online or visit our gym to speak with one of our staff members about membership options."
+    }
+  ]
+}

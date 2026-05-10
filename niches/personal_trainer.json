@@ -1,0 +1,67 @@
+{
+  "id": "personal_trainer",
+  "displayName": "Personal Trainer",
+  "plural": "Personal Trainers",
+  "heroTagline": "Local Fitness Experts",
+  "ctaLabel": "Book Your Session",
+  "trustBadges": [
+    "REPS Registered",
+    "First Aid Certified",
+    "NASM Certified"
+  ],
+  "services": [
+    {
+      "icon": "Dumbbell",
+      "title": "Strength Training",
+      "body": "Customized strength programs for all levels."
+    },
+    {
+      "icon": "Heart",
+      "title": "Cardiovascular Fitness",
+      "body": "Tailored cardio workouts to boost endurance."
+    },
+    {
+      "icon": "Leaf",
+      "title": "Nutritional Guidance",
+      "body": "Personalized nutrition plans for your goals."
+    },
+    {
+      "icon": "Clock",
+      "title": "Flexible Scheduling",
+      "body": "Sessions anytime, anywhere to fit your schedule."
+    },
+    {
+      "icon": "Tool",
+      "title": "Equipment Training",
+      "body": "Proper use of gym equipment for safety and results."
+    },
+    {
+      "icon": "Smile",
+      "title": "Motivation & Support",
+      "body": "Continuous encouragement to help you reach your fitness goals."
+    }
+  ],
+  "palette": {
+    "primary": "#7c3aed",
+    "primaryHover": "#642f9b",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are you REPS registered?",
+      "a": "Yes, all our trainers are REPS certified and insured."
+    },
+    {
+      "q": "Do you offer nutritional advice?",
+      "a": "Absolutely. We provide personalized nutrition plans to complement your training."
+    },
+    {
+      "q": "Can I book sessions outside of regular hours?",
+      "a": "Yes, we offer flexible scheduling including evenings and weekends."
+    },
+    {
+      "q": "How do I get started with a personal trainer?",
+      "a": "Simply fill out our contact form or call us to schedule your first session."
+    }
+  ]
+}

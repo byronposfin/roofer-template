@@ -1,0 +1,67 @@
+{
+  "id": "massage_therapist",
+  "displayName": "Massage Therapist",
+  "plural": "Massage Therapists",
+  "heroTagline": "Relax & Rejuvenate",
+  "ctaLabel": "Book Your Session",
+  "trustBadges": [
+    "Qualified Practitioners",
+    "Registered with Complementary and Natural Healthcare Council (CNHC)",
+    "Fully Insured"
+  ],
+  "services": [
+    {
+      "icon": "Droplets",
+      "title": "Aromatherapy Massage",
+      "body": "Relaxing massage using essential oils for deep relaxation."
+    },
+    {
+      "icon": "Bath",
+      "title": "Hot Stone Therapy",
+      "body": "Heated stones placed on key points to relieve tension and stress."
+    },
+    {
+      "icon": "Heart",
+      "title": "Deep Tissue Massage",
+      "body": "Targeted massage for chronic muscle tension and pain relief."
+    },
+    {
+      "icon": "Smile",
+      "title": "Reflexology",
+      "body": "Pressure points on feet to promote overall wellness and balance."
+    },
+    {
+      "icon": "Thermometer",
+      "title": "Prenatal Massage",
+      "body": "Specialized massage for pregnant women, focusing on comfort and relaxation."
+    },
+    {
+      "icon": "Leaf",
+      "title": "Sports Massage",
+      "body": "Enhance performance and recovery with targeted muscle work."
+    }
+  ],
+  "palette": {
+    "primary": "#7c3aed",
+    "primaryHover": "#642e9a",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are your therapists qualified?",
+      "a": "Yes, all our massage therapists are fully qualified and registered with the CNHC."
+    },
+    {
+      "q": "Do you offer gift vouchers?",
+      "a": "Absolutely! Gift vouchers can be purchased for any of our services."
+    },
+    {
+      "q": "Is it safe during pregnancy?",
+      "a": "Yes, we have specialized prenatal massage sessions designed to ensure safety and comfort."
+    },
+    {
+      "q": "How do I book an appointment?",
+      "a": "You can book online or call us directly \u2014 our friendly team will assist you with scheduling."
+    }
+  ]
+}

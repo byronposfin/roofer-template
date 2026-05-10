@@ -1,0 +1,67 @@
+{
+  "id": "face_painter",
+  "displayName": "Face Painter",
+  "plural": "Face Painters",
+  "heroTagline": "Creative local artists",
+  "ctaLabel": "Book Your Artist",
+  "trustBadges": [
+    "Professional Certification",
+    "Child Safety Trained",
+    "Event Experience"
+  ],
+  "services": [
+    {
+      "icon": "PaintBucket",
+      "title": "Children's Face Painting",
+      "body": "Fun and safe designs for kids of all ages"
+    },
+    {
+      "icon": "Heart",
+      "title": "Special Occasion Makeup",
+      "body": "Unique makeup artistry for weddings, parties"
+    },
+    {
+      "icon": "Leaf",
+      "title": "Nature-Inspired Designs",
+      "body": "Eco-friendly face painting with natural themes"
+    },
+    {
+      "icon": "Star",
+      "title": "Character Transformations",
+      "body": "Transform into your favorite characters instantly"
+    },
+    {
+      "icon": "Shield",
+      "title": "Safety Training",
+      "body": "Certified in child safety and hygiene practices"
+    },
+    {
+      "icon": "Tool",
+      "title": "Event Setup Services",
+      "body": "Full setup for festivals, carnivals, and more"
+    }
+  ],
+  "palette": {
+    "primary": "#7c3aed",
+    "primaryHover": "#642f9d",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are your paints safe for children?",
+      "a": "Yes, we use only non-toxic and hypoallergenic face paints."
+    },
+    {
+      "q": "Do you offer character transformations?",
+      "a": "Absolutely! We specialize in transforming guests into their favorite characters."
+    },
+    {
+      "q": "Can you travel to events outside the city?",
+      "a": "Yes, we provide services for events across various locations with additional travel fees."
+    },
+    {
+      "q": "How do I book your services?",
+      "a": "You can contact us via phone or our website to schedule a booking."
+    }
+  ]
+}

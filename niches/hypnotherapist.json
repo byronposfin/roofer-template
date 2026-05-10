@@ -1,0 +1,67 @@
+{
+  "id": "hypnotherapist",
+  "displayName": "Hypnotherapist",
+  "plural": "Hypnotherapists",
+  "heroTagline": "Transform Your Mind",
+  "ctaLabel": "Book a Session",
+  "trustBadges": [
+    "Registered Hypnotherapist",
+    "Certified NLP Practitioner",
+    "Member of AfSFH"
+  ],
+  "services": [
+    {
+      "icon": "Smile",
+      "title": "Stress Management",
+      "body": "Reduce stress and anxiety with hypnosis techniques."
+    },
+    {
+      "icon": "Eye",
+      "title": "Stop Smoking",
+      "body": "Quit smoking for good with personalized sessions."
+    },
+    {
+      "icon": "Heart",
+      "title": "Weight Loss Hypnosis",
+      "body": "Achieve your weight loss goals naturally."
+    },
+    {
+      "icon": "Clock",
+      "title": "Sleep Improvement",
+      "body": "Enhance sleep quality with hypnotherapy."
+    },
+    {
+      "icon": "Dumbbell",
+      "title": "Sports Performance",
+      "body": "Boost athletic performance through mental conditioning."
+    },
+    {
+      "icon": "Shield",
+      "title": "Pain Management",
+      "body": "Alleviate chronic pain with hypnotherapy techniques."
+    }
+  ],
+  "palette": {
+    "primary": "#7c3aed",
+    "primaryHover": "#642d9a",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Is hypnotherapy safe?",
+      "a": "Yes, it is a safe and effective method for addressing various issues."
+    },
+    {
+      "q": "How many sessions are needed?",
+      "a": "The number of sessions varies based on individual needs and goals."
+    },
+    {
+      "q": "Do I need to prepare anything before the session?",
+      "a": "No preparation is required, just come with an open mind."
+    },
+    {
+      "q": "Can hypnotherapy help with my specific issue?",
+      "a": "Hypnotherapy can be beneficial for a wide range of issues. Let's discuss your needs."
+    }
+  ]
+}

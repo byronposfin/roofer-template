@@ -1,0 +1,67 @@
+{
+  "id": "will_writer",
+  "displayName": "Will Writer",
+  "plural": "Will Writers",
+  "heroTagline": "Local Will Experts",
+  "ctaLabel": "Get a Free Consultation",
+  "trustBadges": [
+    "Law Society Accredited",
+    "Member of SFE",
+    "Confidential & Secure"
+  ],
+  "services": [
+    {
+      "icon": "DocumentText",
+      "title": "Will Writing",
+      "body": "Personalised wills tailored to your needs"
+    },
+    {
+      "icon": "Heart",
+      "title": "Living Wills",
+      "body": "Advance directives for healthcare decisions"
+    },
+    {
+      "icon": "ShieldCheck",
+      "title": "Power of Attorney",
+      "body": "Appoint trusted individuals to manage your affairs"
+    },
+    {
+      "icon": "Tool",
+      "title": "Estate Planning",
+      "body": "Maximise inheritance and minimise taxes"
+    },
+    {
+      "icon": "Eye",
+      "title": "Will Review & Updates",
+      "body": "Regular reviews to keep your will current"
+    },
+    {
+      "icon": "Key",
+      "title": "Executor Support",
+      "body": "Guidance for executors during probate"
+    }
+  ],
+  "palette": {
+    "primary": "#2563eb",
+    "primaryHover": "#1d4ed8",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Do you offer free consultations?",
+      "a": "Yes, we provide a complimentary initial consultation."
+    },
+    {
+      "q": "How long does it take to write a will?",
+      "a": "Typically, the process takes about an hour for drafting and discussion."
+    },
+    {
+      "q": "Can you update my existing will?",
+      "a": "Absolutely. We can review and amend your current will as needed."
+    },
+    {
+      "q": "Do you offer services outside of writing a will?",
+      "a": "Yes, we also assist with estate planning and executor support."
+    }
+  ]
+}

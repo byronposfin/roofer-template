@@ -1,0 +1,67 @@
+{
+  "id": "beauty_salon",
+  "displayName": "Beauty Salon",
+  "plural": "Beauty Salons",
+  "heroTagline": "Local Beauty Experts",
+  "ctaLabel": "Book Your Appointment",
+  "trustBadges": [
+    "Fully Licensed",
+    "Certified Professionals",
+    "Hygienic Practices"
+  ],
+  "services": [
+    {
+      "icon": "Scissors",
+      "title": "Haircut & Styling",
+      "body": "Custom haircuts and styling services for all hair types."
+    },
+    {
+      "icon": "Droplets",
+      "title": "Facial Treatments",
+      "body": "Hydrating facials, anti-aging treatments, and more."
+    },
+    {
+      "icon": "Heart",
+      "title": "Makeup Application",
+      "body": "Professional makeup for special occasions or everyday looks."
+    },
+    {
+      "icon": "Bath",
+      "title": "Manicure & Pedicure",
+      "body": "Nail care services including polish changes and cuticle work."
+    },
+    {
+      "icon": "Flame",
+      "title": "Waxing Services",
+      "body": "Body waxing for smooth, hair-free skin."
+    },
+    {
+      "icon": "Tool",
+      "title": "Eyebrow Shaping",
+      "body": "Precision shaping and tinting services for perfect brows."
+    }
+  ],
+  "palette": {
+    "primary": "#7c3aed",
+    "primaryHover": "#642e9a",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Do you offer gift vouchers?",
+      "a": "Yes, we provide gift vouchers for all our services."
+    },
+    {
+      "q": "Are your products cruelty-free?",
+      "a": "Absolutely. We use only cruelty-free and high-quality products."
+    },
+    {
+      "q": "Can I cancel or reschedule my appointment?",
+      "a": "Yes, you can cancel or reschedule up to 24 hours before your appointment."
+    },
+    {
+      "q": "Do you have a loyalty program?",
+      "a": "We offer a rewards program for frequent visits and referrals."
+    }
+  ]
+}

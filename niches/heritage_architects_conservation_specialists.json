@@ -1,0 +1,67 @@
+{
+  "id": "heritage_architects_conservation_specialists",
+  "displayName": "Heritage Architects & Conservation Specialists",
+  "plural": "Heritage Architects & Conservation Specialists",
+  "heroTagline": "Preserve Your History",
+  "ctaLabel": "Schedule a Consultation",
+  "trustBadges": [
+    "RICS Registered",
+    "Historic England Partner",
+    "Chartered Institute of Archaeologists Member"
+  ],
+  "services": [
+    {
+      "icon": "Hammer",
+      "title": "Building Conservation",
+      "body": "Restoration and preservation of historic structures"
+    },
+    {
+      "icon": "PaintBucket",
+      "title": "Heritage Paint Analysis",
+      "body": "Identifying original paint schemes for accurate restoration"
+    },
+    {
+      "icon": "Trees",
+      "title": "Historic Landscape Management",
+      "body": "Preservation of historic gardens and landscapes"
+    },
+    {
+      "icon": "Droplets",
+      "title": "Waterproofing Solutions",
+      "body": "Protecting heritage buildings from water damage"
+    },
+    {
+      "icon": "Thermometer",
+      "title": "Energy Efficiency Assessments",
+      "body": "Improving energy efficiency without compromising historic integrity"
+    },
+    {
+      "icon": "Tool",
+      "title": "Structural Surveys",
+      "body": "Detailed assessments to ensure the structural stability of heritage buildings"
+    }
+  ],
+  "palette": {
+    "primary": "#2563eb",
+    "primaryHover": "#1d4ed8",
+    "secondary": "#0f766e"
+  },
+  "faqs": [
+    {
+      "q": "Are you RICS registered?",
+      "a": "Yes, we are fully registered with the Royal Institution of Chartered Surveyors."
+    },
+    {
+      "q": "Do you work on listed buildings?",
+      "a": "Absolutely. We specialize in projects involving listed and historic properties."
+    },
+    {
+      "q": "How do I get a consultation?",
+      "a": "You can book a consultation by calling us or filling out our online form."
+    },
+    {
+      "q": "What is your approach to conservation?",
+      "a": "Our approach focuses on preserving the original fabric and character of historic buildings while ensuring they remain functional and safe."
+    }
+  ]
+}

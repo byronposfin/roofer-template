@@ -1,0 +1,67 @@
+{
+  "id": "strategic_communications_advisers_fit_9_0_narrativ",
+  "displayName": "Strategic Communications Advisers | **Fit:** 9.0 | Narrative Development, Stakeholder Mapping, Message Architecture For Critical Business Moments.",
+  "plural": "Strategic Communications Advisers | **Fit:** 9.0 | Narrative Development, Stakeholder Mapping, Message Architecture For Critical Business Moments.s",
+  "heroTagline": "Expert Strategic Advice",
+  "ctaLabel": "Consult Now",
+  "trustBadges": [
+    "PRCA Member",
+    "ISO 21500 Certified",
+    "Chartered Marketer"
+  ],
+  "services": [
+    {
+      "icon": "Tool",
+      "title": "Narrative Development",
+      "body": "Craft compelling stories for impactful communication."
+    },
+    {
+      "icon": "Eye",
+      "title": "Stakeholder Mapping",
+      "body": "Identify and engage key stakeholders effectively."
+    },
+    {
+      "icon": "Shield",
+      "title": "Message Architecture",
+      "body": "Design messages that resonate with your audience."
+    },
+    {
+      "icon": "Search",
+      "title": "Crisis Communication Planning",
+      "body": "Prepare and respond to critical business moments."
+    },
+    {
+      "icon": "Settings",
+      "title": "Media Training",
+      "body": "Equip spokespersons with the skills for media interactions."
+    },
+    {
+      "icon": "Sparkles",
+      "title": "Digital Strategy",
+      "body": "Leverage digital platforms to amplify your message."
+    }
+  ],
+  "palette": {
+    "primary": "#2563eb",
+    "primaryHover": "#1d4ed8",
+    "secondary": "#0f766e"
+  },
+  "faqs": [
+    {
+      "q": "Are you PRCA members?",
+      "a": "Yes, we are active members of the Public Relations and Communications Association."
+    },
+    {
+      "q": "Do you offer crisis communication services?",
+      "a": "Absolutely. We specialize in preparing and responding to critical business moments."
+    },
+    {
+      "q": "Can you help with media training?",
+      "a": "Yes, we provide comprehensive media training for spokespersons."
+    },
+    {
+      "q": "How do I get started?",
+      "a": "Contact us via our website or call directly to schedule a consultation."
+    }
+  ]
+}

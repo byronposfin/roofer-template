@@ -1,0 +1,67 @@
+{
+  "id": "mobile_bar",
+  "displayName": "Mobile Bar",
+  "plural": "Mobile Bars",
+  "heroTagline": "Your Event's Liquid Heart",
+  "ctaLabel": "Book Your Event",
+  "trustBadges": [
+    "Licensed Caterers",
+    "Food Safety Approved",
+    "Event Industry Association Member"
+  ],
+  "services": [
+    {
+      "icon": "Truck",
+      "title": "On-Site Bar Setup",
+      "body": "Professional bar setup and breakdown at your venue."
+    },
+    {
+      "icon": "Utensils",
+      "title": "Catering Services",
+      "body": "Complimentary catering options to enhance your event experience."
+    },
+    {
+      "icon": "Lightbulb",
+      "title": "Illuminated Bar Design",
+      "body": "Custom lighting solutions for a memorable bar atmosphere."
+    },
+    {
+      "icon": "Droplets",
+      "title": "Signature Cocktails",
+      "body": "Craft cocktails tailored to your event theme and preferences."
+    },
+    {
+      "icon": "Shield",
+      "title": "Safety & Compliance",
+      "body": "Ensuring all services meet local health and safety standards."
+    },
+    {
+      "icon": "Search",
+      "title": "Event Consultation",
+      "body": "Expert advice on bar setup, drink selection, and event planning."
+    }
+  ],
+  "palette": {
+    "primary": "#16a34a",
+    "primaryHover": "#0f766e",
+    "secondary": "#2563eb"
+  },
+  "faqs": [
+    {
+      "q": "Do you provide alcohol licenses?",
+      "a": "Yes, we handle all licensing requirements for your event."
+    },
+    {
+      "q": "Can you cater to dietary restrictions?",
+      "a": "Absolutely, our menu includes options for various dietary needs."
+    },
+    {
+      "q": "What is included in the setup fee?",
+      "a": "The setup fee covers bar equipment, staff, and a basic drink package."
+    },
+    {
+      "q": "How far in advance should I book?",
+      "a": "We recommend booking at least 4 weeks before your event date."
+    }
+  ]
+}

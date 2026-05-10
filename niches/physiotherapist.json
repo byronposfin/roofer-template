@@ -1,0 +1,67 @@
+{
+  "id": "physiotherapist",
+  "displayName": "Physiotherapist",
+  "plural": "Physiotherapists",
+  "heroTagline": "Local Expert Care",
+  "ctaLabel": "Book Your Session",
+  "trustBadges": [
+    "HCPC Registered",
+    "Chartered Society Member",
+    "Evidence-Based Practice"
+  ],
+  "services": [
+    {
+      "icon": "Dumbbell",
+      "title": "Sports Injury Rehabilitation",
+      "body": "Tailored programs for sports injuries and recovery."
+    },
+    {
+      "icon": "Stethoscope",
+      "title": "Pain Management Therapy",
+      "body": "Effective pain relief through manual therapy techniques."
+    },
+    {
+      "icon": "Heart",
+      "title": "Cardiovascular Rehabilitation",
+      "body": "Support for heart health and post-cardiac event recovery."
+    },
+    {
+      "icon": "Eye",
+      "title": "Neurological Physiotherapy",
+      "body": "Specialized care for neurological conditions and injuries."
+    },
+    {
+      "icon": "Cake",
+      "title": "Geriatric Physiotherapy",
+      "body": "Enhancing mobility and independence in older adults."
+    },
+    {
+      "icon": "Tool",
+      "title": "Manual Therapy Techniques",
+      "body": "Hands-on treatments for musculoskeletal issues."
+    }
+  ],
+  "palette": {
+    "primary": "#7c3aed",
+    "primaryHover": "#642e9a",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are you HCPC registered?",
+      "a": "Yes, all our physiotherapists are fully registered with the Health and Care Professions Council."
+    },
+    {
+      "q": "Do you accept referrals from GPs?",
+      "a": "Absolutely. We work closely with local GP practices for patient referrals."
+    },
+    {
+      "q": "What conditions do you treat?",
+      "a": "We specialize in a wide range of conditions including sports injuries, chronic pain, neurological disorders, and more."
+    },
+    {
+      "q": "How can I book an appointment?",
+      "a": "You can call us or use our online booking system to schedule your session."
+    }
+  ]
+}

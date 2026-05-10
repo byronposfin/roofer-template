@@ -1,0 +1,67 @@
+{
+  "id": "electric_fleet_transition_advisers",
+  "displayName": "Electric Fleet Transition Advisers",
+  "plural": "Electric Fleet Transition Advisers",
+  "heroTagline": "Transform your fleet today",
+  "ctaLabel": "Get a Free Quote",
+  "trustBadges": [
+    "BS7671 Certified",
+    "ISO 14001 Compliant",
+    "EV Industry Expert"
+  ],
+  "services": [
+    {
+      "icon": "Truck",
+      "title": "Fleet Electrification Strategy",
+      "body": "Tailored transition plans for electric vehicle fleets"
+    },
+    {
+      "icon": "PlugZap",
+      "title": "Charging Infrastructure Setup",
+      "body": "Installation and maintenance of commercial charging stations"
+    },
+    {
+      "icon": "Leaf",
+      "title": "Sustainability Consultation",
+      "body": "Green fleet solutions for reduced carbon footprint"
+    },
+    {
+      "icon": "ShieldCheck",
+      "title": "Compliance Audits",
+      "body": "Ensure your fleet meets all regulatory standards"
+    },
+    {
+      "icon": "Tool",
+      "title": "Maintenance and Repair Services",
+      "body": "Specialized EV maintenance and troubleshooting"
+    },
+    {
+      "icon": "Settings",
+      "title": "Fleet Management Systems Integration",
+      "body": "Integrate your fleet with advanced management software"
+    }
+  ],
+  "palette": {
+    "primary": "#0d9488",
+    "primaryHover": "#0f766e",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Do you offer fleet electrification consultations?",
+      "a": "Yes, we provide comprehensive consultations to help transition your fleet."
+    },
+    {
+      "q": "Can you install charging stations for commercial fleets?",
+      "a": "Absolutely. We handle the installation and maintenance of commercial EV chargers."
+    },
+    {
+      "q": "How do I ensure my fleet is compliant with regulations?",
+      "a": "Our compliance audits help ensure your fleet meets all necessary standards."
+    },
+    {
+      "q": "What kind of support can I expect after transitioning to electric vehicles?",
+      "a": "We offer ongoing maintenance and repair services for your EV fleet."
+    }
+  ]
+}

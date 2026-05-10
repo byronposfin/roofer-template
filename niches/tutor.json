@@ -1,0 +1,67 @@
+{
+  "id": "tutor",
+  "displayName": "Private Tutor",
+  "plural": "Private Tutors",
+  "heroTagline": "Expert local tutors",
+  "ctaLabel": "Book Your First Session",
+  "trustBadges": [
+    "Qualified Teachers",
+    "DBS Checked",
+    "GCSE & A-Level Specialists"
+  ],
+  "services": [
+    {
+      "icon": "Eye",
+      "title": "Mathematics Tutoring",
+      "body": "Expert help for GCSE and A-Level maths."
+    },
+    {
+      "icon": "BookOpen",
+      "title": "English Literature Support",
+      "body": "Guidance on essays, texts, and exam prep."
+    },
+    {
+      "icon": "Flame",
+      "title": "Science Tutoring",
+      "body": "Biology, Chemistry, Physics for all levels."
+    },
+    {
+      "icon": "ShieldCheck",
+      "title": "Exam Preparation",
+      "body": "Strategies and practice for success."
+    },
+    {
+      "icon": "Dumbbell",
+      "title": "Study Skills Development",
+      "body": "Time management, note-taking, more."
+    },
+    {
+      "icon": "Clock",
+      "title": "Flexible Scheduling",
+      "body": "Sessions tailored to your availability."
+    }
+  ],
+  "palette": {
+    "primary": "#2563eb",
+    "primaryHover": "#1d4ed8",
+    "secondary": "#0f766e"
+  },
+  "faqs": [
+    {
+      "q": "Are your tutors qualified?",
+      "a": "Yes, all our tutors are qualified teachers with extensive experience."
+    },
+    {
+      "q": "Do you offer online tutoring?",
+      "a": "Absolutely. We provide both in-person and online sessions to suit your needs."
+    },
+    {
+      "q": "How do I book a session?",
+      "a": "You can book directly through our website or contact us for more information."
+    },
+    {
+      "q": "What subjects do you cover?",
+      "a": "We specialize in GCSE and A-Level maths, English literature, and science subjects."
+    }
+  ]
+}

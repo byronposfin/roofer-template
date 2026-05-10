@@ -1,0 +1,67 @@
+{
+  "id": "window_cleaner",
+  "displayName": "Window Cleaner",
+  "plural": "Window Cleaners",
+  "heroTagline": "Sparkling Windows UK",
+  "ctaLabel": "Get a Free Quote",
+  "trustBadges": [
+    "Fully Insured",
+    "TradeSafe Registered",
+    "Eco-Friendly Products"
+  ],
+  "services": [
+    {
+      "icon": "Droplets",
+      "title": "Residential Window Cleaning",
+      "body": "Regular and one-off cleans for homes"
+    },
+    {
+      "icon": "Car",
+      "title": "Automotive Detailing",
+      "body": "Interior & exterior car cleaning services"
+    },
+    {
+      "icon": "Home",
+      "title": "Gutter Cleaning",
+      "body": "Safe and thorough gutter clearance"
+    },
+    {
+      "icon": "Shield",
+      "title": "Pressure Washing",
+      "body": "Driveways, patios, and exterior surfaces"
+    },
+    {
+      "icon": "Eye",
+      "title": "Window Repair & Replacement",
+      "body": "Expert repair or replacement services"
+    },
+    {
+      "icon": "Truck",
+      "title": "Commercial Cleaning",
+      "body": "Office blocks, shops, and industrial units"
+    }
+  ],
+  "palette": {
+    "primary": "#0d9488",
+    "primaryHover": "#0f766e",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Do you use eco-friendly products?",
+      "a": "Yes, we only use environmentally friendly cleaning solutions."
+    },
+    {
+      "q": "Can you clean high-rise windows safely?",
+      "a": "Absolutely, our team is fully trained in working at heights."
+    },
+    {
+      "q": "How often should I have my windows cleaned?",
+      "a": "We recommend a bi-monthly schedule for optimal cleanliness."
+    },
+    {
+      "q": "Do you offer any discounts?",
+      "a": "Yes, we provide discounts for regular cleaning contracts and referrals."
+    }
+  ]
+}

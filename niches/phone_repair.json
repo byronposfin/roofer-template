@@ -1,0 +1,67 @@
+{
+  "id": "phone_repair",
+  "displayName": "Phone Repair",
+  "plural": "Phone Repair Shops",
+  "heroTagline": "Local Expert Repairs",
+  "ctaLabel": "Get a Free Quote",
+  "trustBadges": [
+    "Certified Technicians",
+    "ISO 9001 Certified",
+    "Member of MRS"
+  ],
+  "services": [
+    {
+      "icon": "Phone",
+      "title": "Screen Replacement",
+      "body": "Professional screen replacements for all models"
+    },
+    {
+      "icon": "Wrench",
+      "title": "Water Damage Repair",
+      "body": "Specialist drying and repair services"
+    },
+    {
+      "icon": "PlugZap",
+      "title": "Battery Replacement",
+      "body": "High-quality battery replacements for longer life"
+    },
+    {
+      "icon": "Hammer",
+      "title": "Hardware Repair",
+      "body": "Fixing broken buttons, ports and more"
+    },
+    {
+      "icon": "ShieldCheck",
+      "title": "Diagnostic Services",
+      "body": "Identify issues with expert analysis"
+    },
+    {
+      "icon": "Tool",
+      "title": "Software Updates",
+      "body": "Safe installation of latest OS updates"
+    }
+  ],
+  "palette": {
+    "primary": "#2563eb",
+    "primaryHover": "#1d4ed8",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Do you offer emergency repairs?",
+      "a": "Yes, we prioritize urgent cases to get your device back up and running."
+    },
+    {
+      "q": "How long does a repair take?",
+      "a": "Typically within 24 hours for most common issues. Complex repairs may take longer."
+    },
+    {
+      "q": "Can you fix water damage?",
+      "a": "Absolutely, we specialize in drying and repairing devices affected by water damage."
+    },
+    {
+      "q": "What is your warranty policy?",
+      "a": "We offer a 30-day warranty on all repairs to ensure lasting quality."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "schedule_of_condition_surveyors",
+  "displayName": "Schedule Of Condition Surveyors",
+  "plural": "Schedule Of Condition Surveyors",
+  "heroTagline": "Expert Property Documentation",
+  "ctaLabel": "Request Your Survey",
+  "trustBadges": [
+    "RICS Registered",
+    "Fully Insured",
+    "Accurate & Detailed Reports"
+  ],
+  "services": [
+    {
+      "icon": "Eye",
+      "title": "Pre-tenancy Surveys",
+      "body": "Document property conditions before tenancy starts."
+    },
+    {
+      "icon": "Camera",
+      "title": "Post-tenancy Assessments",
+      "body": "Evaluate property condition after tenants move out."
+    },
+    {
+      "icon": "ShieldCheck",
+      "title": "Damage Assessment Reports",
+      "body": "Identify and document any damages for legal purposes."
+    },
+    {
+      "icon": "Tool",
+      "title": "Dispute Resolution Support",
+      "body": "Provide evidence to resolve landlord-tenant disputes."
+    },
+    {
+      "icon": "Droplets",
+      "title": "Water Damage Surveys",
+      "body": "Specialized surveys for water damage assessment."
+    },
+    {
+      "icon": "Settings",
+      "title": "Custom Survey Services",
+      "body": "Tailored surveys to meet specific client needs."
+    }
+  ],
+  "palette": {
+    "primary": "#0d9488",
+    "primaryHover": "#0f766e",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are you RICS registered?",
+      "a": "Yes, all our surveyors are fully RICS registered."
+    },
+    {
+      "q": "How detailed are your reports?",
+      "a": "Our reports include comprehensive documentation and high-quality photographs."
+    },
+    {
+      "q": "Can you help with dispute resolution?",
+      "a": "Absolutely. We provide expert evidence to support legal proceedings."
+    },
+    {
+      "q": "What types of surveys do you offer?",
+      "a": "We specialize in pre-tenancy, post-tenancy, and water damage surveys among others."
+    }
+  ]
+}

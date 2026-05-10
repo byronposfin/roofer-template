@@ -1,0 +1,67 @@
+{
+  "id": "restaurant",
+  "displayName": "Restaurant",
+  "plural": "Restaurants",
+  "heroTagline": "Local dining excellence",
+  "ctaLabel": "Book a Table Now",
+  "trustBadges": [
+    "FSS Approved",
+    "ISO 22000 Certified",
+    "Green Restaurant Association Member"
+  ],
+  "services": [
+    {
+      "icon": "ChefHat",
+      "title": "Catering Services",
+      "body": "Customized catering for events and parties"
+    },
+    {
+      "icon": "Utensils",
+      "title": "Fine Dining Experience",
+      "body": "Savor our signature dishes in a cozy ambiance"
+    },
+    {
+      "icon": "Leaf",
+      "title": "Organic Menu Options",
+      "body": "Enjoy fresh, organic meals from local suppliers"
+    },
+    {
+      "icon": "Droplets",
+      "title": "Beverage Pairings",
+      "body": "Expertly paired wines and cocktails with your meal"
+    },
+    {
+      "icon": "Thermometer",
+      "title": "Temperature Control",
+      "body": "State-of-the-art kitchen equipment for perfect cooking"
+    },
+    {
+      "icon": "Clock",
+      "title": "Reservations Management",
+      "body": "Effortless booking and management of your dining experience"
+    }
+  ],
+  "palette": {
+    "primary": "#16a34a",
+    "primaryHover": "#0f766e",
+    "secondary": "#2563eb"
+  },
+  "faqs": [
+    {
+      "q": "Do you offer vegetarian options?",
+      "a": "Yes, we have a variety of vegetarian dishes on our menu."
+    },
+    {
+      "q": "Can I make reservations online?",
+      "a": "Absolutely. You can book your table through our website or by calling us."
+    },
+    {
+      "q": "Do you provide private dining rooms?",
+      "a": "Yes, we offer private dining spaces for special occasions and events."
+    },
+    {
+      "q": "What is the dress code?",
+      "a": "We have a smart casual dress code to ensure everyone feels comfortable."
+    }
+  ]
+}

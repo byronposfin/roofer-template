@@ -1,0 +1,67 @@
+{
+  "id": "life_coaches_high_performance",
+  "displayName": "Life Coaches (High-Performance)",
+  "plural": "Life Coaches (High-Performance)s",
+  "heroTagline": "Transform Your Potential",
+  "ctaLabel": "Schedule a Session",
+  "trustBadges": [
+    "ICF Certified",
+    "NLP Practitioner",
+    "Mental Health First Aid"
+  ],
+  "services": [
+    {
+      "icon": "Star",
+      "title": "Goal Setting",
+      "body": "Strategic planning for personal and professional goals"
+    },
+    {
+      "icon": "Dumbbell",
+      "title": "Performance Coaching",
+      "body": "Enhance your physical and mental performance"
+    },
+    {
+      "icon": "Eye",
+      "title": "Mindset Transformation",
+      "body": "Shift limiting beliefs to unlock potential"
+    },
+    {
+      "icon": "Clock",
+      "title": "Time Management",
+      "body": "Optimize productivity with effective time management techniques"
+    },
+    {
+      "icon": "Tool",
+      "title": "Career Coaching",
+      "body": "Navigate career transitions and achieve professional success"
+    },
+    {
+      "icon": "Smile",
+      "title": "Stress Management",
+      "body": "Learn to manage stress for a balanced life"
+    }
+  ],
+  "palette": {
+    "primary": "#7c3aed",
+    "primaryHover": "#642d9a",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are you ICF certified?",
+      "a": "Yes, all our coaches are certified by the International Coach Federation."
+    },
+    {
+      "q": "What is NLP?",
+      "a": "NLP stands for Neuro-Linguistic Programming and it's a powerful toolset we use to enhance communication and personal development."
+    },
+    {
+      "q": "Do you offer group sessions?",
+      "a": "Yes, we provide both individual and group coaching sessions tailored to your needs."
+    },
+    {
+      "q": "How do I book an appointment?",
+      "a": "You can schedule a session by contacting us through our website or calling directly."
+    }
+  ]
+}

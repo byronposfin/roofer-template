@@ -1,0 +1,67 @@
+{
+  "id": "specialist_dental_laboratories_digital_fit_8_9_cad",
+  "displayName": "Specialist Dental Laboratories (Digital) | **Fit:** 8.9 | Cad/Cam, 3D Printing, Digital Workflows For Dental Practices. B2B Brief Capture And Turnaround Management.",
+  "plural": "Specialist Dental Laboratories (Digital) | **Fit:** 8.9 | Cad/Cam, 3D Printing, Digital Workflows For Dental Practices. B2B Brief Capture And Turnaround Management.s",
+  "heroTagline": "Precision dental solutions",
+  "ctaLabel": "Request a Consultation",
+  "trustBadges": [
+    "ISO 13485 Certified",
+    "Digital Workflow Experts",
+    "CAD/CAM Technology Leaders"
+  ],
+  "services": [
+    {
+      "icon": "Tool",
+      "title": "CAD/CAM Solutions",
+      "body": "Advanced digital design and manufacturing for dental restorations."
+    },
+    {
+      "icon": "Droplets",
+      "title": "3D Printing Services",
+      "body": "High-precision 3D printing for dental models and prosthetics."
+    },
+    {
+      "icon": "Shield",
+      "title": "Digital Workflow Integration",
+      "body": "Streamlined digital workflows tailored to your practice needs."
+    },
+    {
+      "icon": "Search",
+      "title": "B2B Brief Capture",
+      "body": "Efficient capture and management of B2B dental briefs."
+    },
+    {
+      "icon": "Clock",
+      "title": "Turnaround Management",
+      "body": "Rapid turnaround times for urgent dental projects."
+    },
+    {
+      "icon": "Smile",
+      "title": "Custom Dental Restorations",
+      "body": "Personalized crowns, bridges, and implants designed digitally."
+    }
+  ],
+  "palette": {
+    "primary": "#2563eb",
+    "primaryHover": "#1d4ed8",
+    "secondary": "#0f766e"
+  },
+  "faqs": [
+    {
+      "q": "Are you ISO certified?",
+      "a": "Yes, we are ISO 13485 certified for quality management in medical devices."
+    },
+    {
+      "q": "How do your digital workflows benefit dental practices?",
+      "a": "Our digital workflows reduce turnaround times and improve the accuracy of restorations."
+    },
+    {
+      "q": "Can you handle urgent projects?",
+      "a": "Absolutely, we offer rapid turnaround services for urgent cases."
+    },
+    {
+      "q": "How do I request a consultation?",
+      "a": "You can contact us via phone or our website to schedule a consultation."
+    }
+  ]
+}

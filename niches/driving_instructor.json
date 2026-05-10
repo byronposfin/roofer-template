@@ -1,0 +1,67 @@
+{
+  "id": "driving_instructor",
+  "displayName": "Driving Instructor",
+  "plural": "Driving Instructors",
+  "heroTagline": "Local Driving Lessons",
+  "ctaLabel": "Book Your First Lesson",
+  "trustBadges": [
+    "DVSA Approved",
+    "Fully Insured",
+    "DBS Checked"
+  ],
+  "services": [
+    {
+      "icon": "Car",
+      "title": "Intensive Courses",
+      "body": "Accelerated learning for quick test readiness"
+    },
+    {
+      "icon": "Shield",
+      "title": "Confidence Building",
+      "body": "Tailored lessons to boost your driving confidence"
+    },
+    {
+      "icon": "Clock",
+      "title": "Flexible Scheduling",
+      "body": "Lessons at times that suit you best"
+    },
+    {
+      "icon": "Eye",
+      "title": "Pre-Test Assessments",
+      "body": "Mock tests to prepare for your driving exam"
+    },
+    {
+      "icon": "Dumbbell",
+      "title": "Advanced Driving",
+      "body": "Skill enhancement beyond the basics"
+    },
+    {
+      "icon": "Settings",
+      "title": "Theory Training",
+      "body": "Comprehensive theory lessons included"
+    }
+  ],
+  "palette": {
+    "primary": "#2563eb",
+    "primaryHover": "#1d4ed8",
+    "secondary": "#0f766e"
+  },
+  "faqs": [
+    {
+      "q": "Are you DVSA approved?",
+      "a": "Yes, all our instructors are DVSA approved and fully insured."
+    },
+    {
+      "q": "Do you offer flexible scheduling?",
+      "a": "Absolutely. We can arrange lessons at times that suit your schedule."
+    },
+    {
+      "q": "What is included in the intensive course?",
+      "a": "Our intensive courses include accelerated learning and mock tests to prepare for your exam."
+    },
+    {
+      "q": "How do I book a lesson?",
+      "a": "You can call us or fill out our contact form to schedule your first driving lesson."
+    }
+  ]
+}

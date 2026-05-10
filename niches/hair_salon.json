@@ -1,0 +1,67 @@
+{
+  "id": "hair_salon",
+  "displayName": "Hair Salon",
+  "plural": "Hair Salons",
+  "heroTagline": "Local Styling Experts",
+  "ctaLabel": "Book Your Appointment",
+  "trustBadges": [
+    "BFA Member",
+    "Fully Licensed",
+    "Sanitised Tools"
+  ],
+  "services": [
+    {
+      "icon": "Scissors",
+      "title": "Haircuts & Trims",
+      "body": "Classic and modern cuts for all hair types"
+    },
+    {
+      "icon": "Droplets",
+      "title": "Colour Services",
+      "body": "Balayage, highlights, ombre, and full colour changes"
+    },
+    {
+      "icon": "Hair",
+      "title": "Extensions & Updos",
+      "body": "Temporary and permanent extensions, special occasion updos"
+    },
+    {
+      "icon": "Thermometer",
+      "title": "Heat Styling",
+      "body": "Straightening, curling, and blowouts with professional tools"
+    },
+    {
+      "icon": "Shield",
+      "title": "Hair Treatments",
+      "body": "Deep conditioning, keratin treatments, and scalp therapy"
+    },
+    {
+      "icon": "Eye",
+      "title": "Eyebrow Shaping",
+      "body": "Precision shaping for natural or bold looks"
+    }
+  ],
+  "palette": {
+    "primary": "#7c3aed",
+    "primaryHover": "#642e9a",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Do you offer colour correction?",
+      "a": "Yes, we specialize in correcting damaged and over-processed hair."
+    },
+    {
+      "q": "How do I book an appointment?",
+      "a": "You can call us or use our online booking system on the website."
+    },
+    {
+      "q": "Are your stylists fully licensed?",
+      "a": "Absolutely, all of our stylists are certified and experienced professionals."
+    },
+    {
+      "q": "Do you provide aftercare advice?",
+      "a": "Yes, we offer detailed care instructions to help maintain your new look."
+    }
+  ]
+}

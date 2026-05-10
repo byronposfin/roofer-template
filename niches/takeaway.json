@@ -1,0 +1,67 @@
+{
+  "id": "takeaway",
+  "displayName": "Takeaway",
+  "plural": "Takeaways",
+  "heroTagline": "Local Tasty Delights",
+  "ctaLabel": "Order Now",
+  "trustBadges": [
+    "Food Hygiene Rating: 5/5",
+    "Allergen Aware",
+    "Halal Certified"
+  ],
+  "services": [
+    {
+      "icon": "Utensils",
+      "title": "Delivery Service",
+      "body": "Fast and reliable delivery to your doorstep."
+    },
+    {
+      "icon": "ChefHat",
+      "title": "Catering Services",
+      "body": "Customized catering for events and parties."
+    },
+    {
+      "icon": "Clock",
+      "title": "24/7 Orders",
+      "body": "Order anytime, day or night."
+    },
+    {
+      "icon": "Cake",
+      "title": "Desserts & Sweets",
+      "body": "A variety of desserts and sweet treats."
+    },
+    {
+      "icon": "Coffee",
+      "title": "Beverages",
+      "body": "Hot and cold drinks to complement your meal."
+    },
+    {
+      "icon": "Search",
+      "title": "Special Diets",
+      "body": "Options for vegetarian, vegan, gluten-free diets."
+    }
+  ],
+  "palette": {
+    "primary": "#16a34a",
+    "primaryHover": "#0f766e",
+    "secondary": "#2563eb"
+  },
+  "faqs": [
+    {
+      "q": "Do you offer delivery?",
+      "a": "Yes, we provide fast and reliable delivery services."
+    },
+    {
+      "q": "What is your food hygiene rating?",
+      "a": "Our establishment holds a perfect 5/5 rating."
+    },
+    {
+      "q": "Are your meals halal certified?",
+      "a": "Absolutely, all our meals are prepared according to Halal standards."
+    },
+    {
+      "q": "Can I order for special diets?",
+      "a": "Yes, we cater to vegetarian, vegan, and gluten-free dietary needs."
+    }
+  ]
+}

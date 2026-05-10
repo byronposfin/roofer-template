@@ -1,0 +1,67 @@
+{
+  "id": "homebuyer_report_surveyors",
+  "displayName": "Homebuyer Report Surveyors",
+  "plural": "Homebuyer Report Surveyors",
+  "heroTagline": "Expert local surveys",
+  "ctaLabel": "Book Your Survey",
+  "trustBadges": [
+    "RICS Registered",
+    "Fully Insured",
+    "Local Expertise"
+  ],
+  "services": [
+    {
+      "icon": "Eye",
+      "title": "Homebuyer Reports",
+      "body": "Comprehensive property condition reports"
+    },
+    {
+      "icon": "ShieldCheck",
+      "title": "Structural Surveys",
+      "body": "Detailed assessments of structural integrity"
+    },
+    {
+      "icon": "Hammer",
+      "title": "Building Defect Reports",
+      "body": "Identification and analysis of building defects"
+    },
+    {
+      "icon": "Lightbulb",
+      "title": "Energy Performance Certificates (EPCs)",
+      "body": "Assessment for energy efficiency ratings"
+    },
+    {
+      "icon": "Droplets",
+      "title": "Moisture Surveys",
+      "body": "Detection of damp and moisture issues"
+    },
+    {
+      "icon": "Tool",
+      "title": "Timber Decay Reports",
+      "body": "Evaluation for wood rot and fungal decay"
+    }
+  ],
+  "palette": {
+    "primary": "#0d9488",
+    "primaryHover": "#0f766e",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are you RICS registered?",
+      "a": "Yes, all our surveyors are fully RICS registered."
+    },
+    {
+      "q": "What is included in a Homebuyer Report?",
+      "a": "A Homebuyer Report includes a visual inspection of the property's condition and an assessment of any issues found."
+    },
+    {
+      "q": "How long does it take to get a survey report?",
+      "a": "Typically, you can expect your report within 3-5 working days after the site visit."
+    },
+    {
+      "q": "Do you offer emergency surveys?",
+      "a": "We provide prompt service but do not offer emergency surveys. Please book in advance for a scheduled survey."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "private_tutoring_agencies",
+  "displayName": "Private Tutoring Agencies",
+  "plural": "Private Tutoring Agencies",
+  "heroTagline": "Expert Local Tutors",
+  "ctaLabel": "Find Your Tutor Now",
+  "trustBadges": [
+    "Qualified Teachers Only",
+    "DBS Checked Staff",
+    "Member of PATOSS"
+  ],
+  "services": [
+    {
+      "icon": "BookOpenReader",
+      "title": "GCSE Tuition",
+      "body": "Specialised tutoring for GCSE subjects"
+    },
+    {
+      "icon": "GraduationCap",
+      "title": "A-Level Support",
+      "body": "Expert guidance on A-Level courses"
+    },
+    {
+      "icon": "Lightbulb",
+      "title": "Exam Preparation",
+      "body": "Customised exam strategies and practice tests"
+    },
+    {
+      "icon": "ShieldCheck",
+      "title": "Subject Specialism",
+      "body": "Tutors with deep knowledge in specific subjects"
+    },
+    {
+      "icon": "Eye",
+      "title": "Learning Assessments",
+      "body": "Identifying strengths and areas for improvement"
+    },
+    {
+      "icon": "Smile",
+      "title": "Confidence Building",
+      "body": "Boosting student confidence through tailored support"
+    }
+  ],
+  "palette": {
+    "primary": "#2563eb",
+    "primaryHover": "#1d4ed8",
+    "secondary": "#0f766e"
+  },
+  "faqs": [
+    {
+      "q": "Are your tutors qualified?",
+      "a": "Yes, all our tutors are fully qualified and DBS checked."
+    },
+    {
+      "q": "Do you offer online tutoring?",
+      "a": "Absolutely. We provide both in-person and online tutoring options."
+    },
+    {
+      "q": "How do I book a tutor?",
+      "a": "You can book directly through our website or by contacting us."
+    },
+    {
+      "q": "What subjects do you cover?",
+      "a": "We offer tuition across all major GCSE and A-Level subjects."
+    }
+  ]
+}

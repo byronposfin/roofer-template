@@ -1,0 +1,67 @@
+{
+  "id": "gym",
+  "displayName": "Gym",
+  "plural": "Gyms",
+  "heroTagline": "Local Fitness Hub",
+  "ctaLabel": "Join Now!",
+  "trustBadges": [
+    "UK Strength & Conditioning Association Member",
+    "Fully Insured Gym Operations",
+    "Covid-19 Safety Certified"
+  ],
+  "services": [
+    {
+      "icon": "Dumbbell",
+      "title": "Personal Training Sessions",
+      "body": "Customized workout plans with certified trainers."
+    },
+    {
+      "icon": "Hammer",
+      "title": "Group Fitness Classes",
+      "body": "A variety of classes including HIIT, yoga, and pilates."
+    },
+    {
+      "icon": "PlugZap",
+      "title": "Cardio & Strength Equipment Access",
+      "body": "State-of-the-art machines for strength training and cardio workouts."
+    },
+    {
+      "icon": "Shield",
+      "title": "Safety Training Workshops",
+      "body": "Learn proper form and safety in all gym activities."
+    },
+    {
+      "icon": "Eye",
+      "title": "Nutritional Consulting",
+      "body": "Personalized nutrition plans to complement your fitness goals."
+    },
+    {
+      "icon": "Clock",
+      "title": "24/7 Access Membership",
+      "body": "Flexible membership options including 24-hour access."
+    }
+  ],
+  "palette": {
+    "primary": "#16a34a",
+    "primaryHover": "#0f766e",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Do you offer trial memberships?",
+      "a": "Yes, we provide a one-week free trial to new members."
+    },
+    {
+      "q": "What safety measures do you have in place?",
+      "a": "We follow strict hygiene protocols and ensure all equipment is sanitized regularly."
+    },
+    {
+      "q": "Can I bring guests?",
+      "a": "Guest access is available with prior notice and a small fee per visit."
+    },
+    {
+      "q": "What are your opening hours?",
+      "a": "Our gym operates from 6 AM to 10 PM, Monday through Sunday."
+    }
+  ]
+}

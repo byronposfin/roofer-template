@@ -1,0 +1,67 @@
+{
+  "id": "mechanical_testing_services",
+  "displayName": "Mechanical Testing Services",
+  "plural": "Mechanical Testing Services",
+  "heroTagline": "Local Expertise in Testing",
+  "ctaLabel": "Get a Free Quote",
+  "trustBadges": [
+    "ISO 17025 Certified",
+    "UKAS Accredited",
+    "Safety Compliant"
+  ],
+  "services": [
+    {
+      "icon": "Tool",
+      "title": "Material Testing",
+      "body": "Tensile, compression and fatigue testing services."
+    },
+    {
+      "icon": "ShieldCheck",
+      "title": "Non-Destructive Testing",
+      "body": "UT, RT, PT, MT for structural integrity assessment."
+    },
+    {
+      "icon": "Thermometer",
+      "title": "Temperature Cycling Tests",
+      "body": "Simulate real-world temperature changes on materials."
+    },
+    {
+      "icon": "Hammer",
+      "title": "Impact Testing",
+      "body": "Charpy and Izod tests for impact resistance evaluation."
+    },
+    {
+      "icon": "Droplets",
+      "title": "Corrosion Resistance Tests",
+      "body": "Salt spray, cyclic corrosion testing services."
+    },
+    {
+      "icon": "Lightbulb",
+      "title": "Environmental Chamber Testing",
+      "body": "Controlled environment for material stability analysis."
+    }
+  ],
+  "palette": {
+    "primary": "#0d9488",
+    "primaryHover": "#0f766e",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are you ISO 17025 certified?",
+      "a": "Yes, we are ISO 17025 certified for accurate and reliable testing."
+    },
+    {
+      "q": "Do you offer on-site testing services?",
+      "a": "Absolutely. We provide both in-lab and on-site mechanical testing solutions."
+    },
+    {
+      "q": "What types of materials can you test?",
+      "a": "We specialize in a wide range of materials including metals, plastics, and composites."
+    },
+    {
+      "q": "How long does it take to get the results?",
+      "a": "Typically within 2-5 business days depending on the complexity of the tests required."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "luxury_fitness_wellness_retreats",
+  "displayName": "Luxury Fitness & Wellness Retreats",
+  "plural": "Luxury Fitness & Wellness Retreats",
+  "heroTagline": "Elite wellness experiences",
+  "ctaLabel": "Book Your Stay",
+  "trustBadges": [
+    "ISO 22000 Certified",
+    "BWF Member",
+    "Wellness Council UK"
+  ],
+  "services": [
+    {
+      "icon": "Dumbbell",
+      "title": "Personal Training Sessions",
+      "body": "Customized fitness programs with elite trainers"
+    },
+    {
+      "icon": "Stethoscope",
+      "title": "Health Assessments",
+      "body": "Comprehensive health evaluations and personalized wellness plans"
+    },
+    {
+      "icon": "Leaf",
+      "title": "Holistic Therapies",
+      "body": "Aromatherapy, reflexology, and other natural healing methods"
+    },
+    {
+      "icon": "Bath",
+      "title": "Spa Treatments",
+      "body": "Luxurious spa services including massages and facials"
+    },
+    {
+      "icon": "Flame",
+      "title": "Nutrition Consultations",
+      "body": "Personalized dietary plans with our nutritionists"
+    },
+    {
+      "icon": "Heart",
+      "title": "Mindfulness Workshops",
+      "body": "Guided meditation and yoga sessions for mental well-being"
+    }
+  ],
+  "palette": {
+    "primary": "#7c3aed",
+    "primaryHover": "#642d9e",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Do you offer dietary accommodations?",
+      "a": "Yes, we cater to various dietary needs and preferences."
+    },
+    {
+      "q": "What is included in the retreat package?",
+      "a": "Our packages include accommodation, meals, fitness sessions, wellness activities, and spa treatments."
+    },
+    {
+      "q": "Can I bring a guest for personal training?",
+      "a": "Absolutely. We can accommodate guests for personalized training sessions upon request."
+    },
+    {
+      "q": "How do I book my retreat?",
+      "a": "You can book directly through our website or contact us via phone or email to arrange your stay."
+    }
+  ]
+}

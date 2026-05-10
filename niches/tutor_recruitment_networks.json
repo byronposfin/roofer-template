@@ -1,0 +1,67 @@
+{
+  "id": "tutor_recruitment_networks",
+  "displayName": "Tutor Recruitment Networks",
+  "plural": "Tutor Recruitment Networks",
+  "heroTagline": "Local Expert Tutors",
+  "ctaLabel": "Find Your Tutor Now",
+  "trustBadges": [
+    "DBS Checked",
+    "Qualified Teachers Only",
+    "Member of Association for Tutoring"
+  ],
+  "services": [
+    {
+      "icon": "BookOpen",
+      "title": "Subject Specialization",
+      "body": "Tutors specializing in various subjects including maths, science, and languages."
+    },
+    {
+      "icon": "Calendar",
+      "title": "Flexible Scheduling",
+      "body": "Arrange tutoring sessions at times that suit your schedule."
+    },
+    {
+      "icon": "Home",
+      "title": "In-Home Tutoring",
+      "body": "Convenient in-home tutoring for a comfortable learning environment."
+    },
+    {
+      "icon": "ShieldCheck",
+      "title": "Background Checks",
+      "body": "All tutors undergo thorough background checks to ensure safety."
+    },
+    {
+      "icon": "Lightbulb",
+      "title": "Online Tutoring",
+      "body": "Access online tutoring sessions from anywhere, anytime."
+    },
+    {
+      "icon": "Settings",
+      "title": "Customized Learning Plans",
+      "body": "Tailored learning plans to meet individual student needs."
+    }
+  ],
+  "palette": {
+    "primary": "#2563eb",
+    "primaryHover": "#1d4ed8",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are your tutors DBS checked?",
+      "a": "Yes, all our tutors are DBS checked for the safety of students."
+    },
+    {
+      "q": "Can I schedule online sessions?",
+      "a": "Absolutely. We offer flexible scheduling options including online tutoring."
+    },
+    {
+      "q": "Do you provide in-home tutoring?",
+      "a": "Yes, we offer convenient in-home tutoring services for your convenience."
+    },
+    {
+      "q": "How do I find a tutor?",
+      "a": "Simply fill out our contact form or call us to get matched with the right tutor."
+    }
+  ]
+}

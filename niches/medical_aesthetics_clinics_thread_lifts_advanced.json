@@ -1,0 +1,67 @@
+{
+  "id": "medical_aesthetics_clinics_thread_lifts_advanced",
+  "displayName": "Medical Aesthetics Clinics (Thread Lifts/Advanced)",
+  "plural": "Medical Aesthetics Clinics (Thread Lifts/Advanced)s",
+  "heroTagline": "Expert Thread Lifts",
+  "ctaLabel": "Book Your Consultation",
+  "trustBadges": [
+    "GMC Registered",
+    "Aesthetic Practitioners Association Member",
+    "ISO Certified"
+  ],
+  "services": [
+    {
+      "icon": "Stethoscope",
+      "title": "Advanced Thread Lifts",
+      "body": "Non-surgical facelift using PDO threads for natural-looking results."
+    },
+    {
+      "icon": "Droplets",
+      "title": "Facial Fillers",
+      "body": "Restore volume and smooth wrinkles with hyaluronic acid fillers."
+    },
+    {
+      "icon": "Lightbulb",
+      "title": "Laser Skin Rejuvenation",
+      "body": "Reduce pigmentation, scars, and fine lines using advanced laser technology."
+    },
+    {
+      "icon": "Eye",
+      "title": "Botox Treatments",
+      "body": "Minimize the appearance of wrinkles with Botox injections."
+    },
+    {
+      "icon": "Heart",
+      "title": "Chemical Peels",
+      "body": "Exfoliate and rejuvenate your skin with a variety of chemical peels."
+    },
+    {
+      "icon": "Tool",
+      "title": "Microneedling",
+      "body": "Stimulate collagen production for smoother, more youthful-looking skin."
+    }
+  ],
+  "palette": {
+    "primary": "#7c3aed",
+    "primaryHover": "#642e9a",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are your practitioners GMC registered?",
+      "a": "Yes, all our practitioners are fully GMC registered and experienced."
+    },
+    {
+      "q": "What is a thread lift?",
+      "a": "A non-surgical facelift using PDO threads to lift and contour the face."
+    },
+    {
+      "q": "Is there any downtime after treatments?",
+      "a": "Most procedures have minimal downtime, but we'll discuss this with you during your consultation."
+    },
+    {
+      "q": "How can I book a consultation?",
+      "a": "You can call us or fill out our online form to schedule an appointment."
+    }
+  ]
+}

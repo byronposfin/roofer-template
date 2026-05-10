@@ -1,0 +1,67 @@
+{
+  "id": "bouncy_castle_hire",
+  "displayName": "Bouncy Castle Hire",
+  "plural": "Bouncy Castle Hire Companies",
+  "heroTagline": "Fun and Safe Inflatables",
+  "ctaLabel": "Book Your Event",
+  "trustBadges": [
+    "Fully Insured",
+    "PAT Tested",
+    "CE Certified"
+  ],
+  "services": [
+    {
+      "icon": "Truck",
+      "title": "Delivery & Setup",
+      "body": "Professional delivery and setup for your event"
+    },
+    {
+      "icon": "Shield",
+      "title": "Safety Inspections",
+      "body": "Regular safety checks to ensure a safe play environment"
+    },
+    {
+      "icon": "Droplets",
+      "title": "Inflatable Cleaning",
+      "body": "Hygienic cleaning services for all our inflatables"
+    },
+    {
+      "icon": "Cake",
+      "title": "Birthday Party Packages",
+      "body": "Customizable packages for unforgettable birthday celebrations"
+    },
+    {
+      "icon": "Hammer",
+      "title": "Repairs & Maintenance",
+      "body": "Quick and reliable repair services to keep the fun going"
+    },
+    {
+      "icon": "Settings",
+      "title": "Event Consultation",
+      "body": "Expert advice for planning your perfect event"
+    }
+  ],
+  "palette": {
+    "primary": "#0d9488",
+    "primaryHover": "#0f766e",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are your bouncy castles safe?",
+      "a": "Absolutely. All our inflatables are CE certified and regularly safety inspected."
+    },
+    {
+      "q": "Do you provide setup services?",
+      "a": "Yes, we offer professional delivery and setup for all our rentals."
+    },
+    {
+      "q": "Can I rent a bouncy castle for my corporate event?",
+      "a": "Certainly! We cater to both private and corporate events with custom packages."
+    },
+    {
+      "q": "How do I book a bouncy castle?",
+      "a": "You can call us or fill out our online booking form on the website."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "biomechanics_movement_analysts",
+  "displayName": "Biomechanics & Movement Analysts",
+  "plural": "Biomechanics & Movement Analysts",
+  "heroTagline": "Expert Movement Analysis",
+  "ctaLabel": "Book Your Assessment",
+  "trustBadges": [
+    "Chartered Society of Physiotherapy Member",
+    "ISO Certified Quality Management",
+    "Registered with HCPC"
+  ],
+  "services": [
+    {
+      "icon": "Dumbbell",
+      "title": "Gait Analysis",
+      "body": "Detailed analysis of walking and running patterns to improve performance and prevent injuries."
+    },
+    {
+      "icon": "Eye",
+      "title": "Posture Assessment",
+      "body": "Evaluation of posture to identify imbalances and reduce the risk of musculoskeletal disorders."
+    },
+    {
+      "icon": "Stethoscope",
+      "title": "Sports Injury Rehabilitation",
+      "body": "Customized rehabilitation programs for athletes recovering from injuries."
+    },
+    {
+      "icon": "Shield",
+      "title": "Ergonomic Assessments",
+      "body": "Workplace ergonomic evaluations to enhance comfort and productivity while reducing injury risk."
+    },
+    {
+      "icon": "Tool",
+      "title": "Custom Orthotics Design",
+      "body": "Personalized orthotic solutions for foot alignment issues and pain relief."
+    },
+    {
+      "icon": "Settings",
+      "title": "Movement Training Workshops",
+      "body": "Educational workshops on proper movement techniques for athletes, trainers, and coaches."
+    }
+  ],
+  "palette": {
+    "primary": "#7c3aed",
+    "primaryHover": "#642f9d",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Do you offer remote consultations?",
+      "a": "Yes, we provide virtual assessments for clients who cannot visit our office."
+    },
+    {
+      "q": "What types of injuries do you treat?",
+      "a": "We specialize in sports-related injuries and musculoskeletal conditions affecting movement."
+    },
+    {
+      "q": "How long does an assessment take?",
+      "a": "Assessments typically last between 60 to 90 minutes, depending on the complexity of your case."
+    },
+    {
+      "q": "Can you work with my physiotherapist or doctor?",
+      "a": "Absolutely. We collaborate closely with healthcare professionals to ensure comprehensive care."
+    }
+  ]
+}

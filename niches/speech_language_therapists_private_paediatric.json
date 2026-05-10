@@ -1,0 +1,67 @@
+{
+  "id": "speech_language_therapists_private_paediatric",
+  "displayName": "Speech & Language Therapists (Private Paediatric)",
+  "plural": "Speech & Language Therapists (Private Paediatric)s",
+  "heroTagline": "Child Speech Experts",
+  "ctaLabel": "Book Your Consultation",
+  "trustBadges": [
+    "HCPC Registered",
+    "Qualified SLTs",
+    "Confidential Sessions"
+  ],
+  "services": [
+    {
+      "icon": "Stethoscope",
+      "title": "Speech Therapy",
+      "body": "Tailored therapy for speech sound disorders"
+    },
+    {
+      "icon": "Baby",
+      "title": "Language Development",
+      "body": "Supporting language milestones in young children"
+    },
+    {
+      "icon": "Eye",
+      "title": "Feeding Therapy",
+      "body": "Addressing feeding and swallowing difficulties"
+    },
+    {
+      "icon": "Dumbbell",
+      "title": "Articulation Exercises",
+      "body": "Exercises to improve clarity of speech"
+    },
+    {
+      "icon": "Shield",
+      "title": "Assessment Services",
+      "body": "Comprehensive evaluations for children"
+    },
+    {
+      "icon": "Cake",
+      "title": "Parental Guidance",
+      "body": "Support and advice for parents at home"
+    }
+  ],
+  "palette": {
+    "primary": "#7c3aed",
+    "primaryHover": "#642f9a",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are your therapists HCPC registered?",
+      "a": "Yes, all our therapists are fully HCPC registered."
+    },
+    {
+      "q": "What ages do you treat?",
+      "a": "We specialize in treating children from infancy through adolescence."
+    },
+    {
+      "q": "Do you offer online sessions?",
+      "a": "Absolutely, we provide both in-person and remote therapy options."
+    },
+    {
+      "q": "How can I book an appointment?",
+      "a": "You can call us or use our contact form to schedule a consultation."
+    }
+  ]
+}

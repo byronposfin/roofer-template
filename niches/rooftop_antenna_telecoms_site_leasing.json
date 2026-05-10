@@ -1,0 +1,67 @@
+{
+  "id": "rooftop_antenna_telecoms_site_leasing",
+  "displayName": "Rooftop Antenna & Telecoms Site Leasing",
+  "plural": "Rooftop Antenna & Telecoms Site Leasings",
+  "heroTagline": "Local Rooftop Solutions",
+  "ctaLabel": "Inquire Now",
+  "trustBadges": [
+    "Ofcom Registered",
+    "BS7671 Compliant",
+    "Site Security Certified"
+  ],
+  "services": [
+    {
+      "icon": "Lightbulb",
+      "title": "Antenna Installation",
+      "body": "Professional setup of rooftop antennas for optimal signal strength."
+    },
+    {
+      "icon": "Shield",
+      "title": "Telecom Site Leasing",
+      "body": "Secure leasing agreements for telecom infrastructure sites."
+    },
+    {
+      "icon": "Tool",
+      "title": "Maintenance & Repairs",
+      "body": "Regular maintenance and emergency repairs for telecom equipment."
+    },
+    {
+      "icon": "Hammer",
+      "title": "Structural Assessments",
+      "body": "Site evaluations to ensure structural integrity for antenna installations."
+    },
+    {
+      "icon": "Phone",
+      "title": "Signal Testing",
+      "body": "Comprehensive signal testing and optimization services."
+    },
+    {
+      "icon": "Settings",
+      "title": "Regulatory Compliance",
+      "body": "Ensuring all installations meet Ofcom and other regulatory standards."
+    }
+  ],
+  "palette": {
+    "primary": "#2563eb",
+    "primaryHover": "#1d4ed8",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are you Ofcom registered?",
+      "a": "Yes, we are fully registered with Ofcom for telecom site leasing."
+    },
+    {
+      "q": "Do you offer maintenance services?",
+      "a": "Absolutely. We provide regular and emergency maintenance services."
+    },
+    {
+      "q": "How do I lease a rooftop site?",
+      "a": "Contact us to discuss your requirements and we'll guide you through the process."
+    },
+    {
+      "q": "Can you ensure regulatory compliance?",
+      "a": "Yes, our installations are compliant with Ofcom regulations and BS7671 standards."
+    }
+  ]
+}

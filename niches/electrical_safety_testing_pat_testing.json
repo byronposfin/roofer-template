@@ -1,0 +1,67 @@
+{
+  "id": "electrical_safety_testing_pat_testing",
+  "displayName": "Electrical Safety Testing (Pat Testing)",
+  "plural": "Electrical Safety Testing (Pat Testing)s",
+  "heroTagline": "Safe and compliant",
+  "ctaLabel": "Get a Free Quote",
+  "trustBadges": [
+    "NICEIC Approved",
+    "PAT Registered Tester",
+    "ISO 9001 Certified"
+  ],
+  "services": [
+    {
+      "icon": "PlugZap",
+      "title": "Portable Appliance Testing (PAT)",
+      "body": "Comprehensive PAT testing for all types of electrical equipment."
+    },
+    {
+      "icon": "ShieldCheck",
+      "title": "Electrical Installation Condition Reports (EICR)",
+      "body": "Detailed EICR reports to ensure your property is safe and compliant."
+    },
+    {
+      "icon": "Lightbulb",
+      "title": "Residual Current Device (RCD) Testing",
+      "body": "Testing RCDs to prevent electrical shocks and fires."
+    },
+    {
+      "icon": "Wrench",
+      "title": "Fault Finding & Repairs",
+      "body": "Identify and fix electrical faults quickly and safely."
+    },
+    {
+      "icon": "Home",
+      "title": "Landlord Electrical Safety Checks",
+      "body": "Ensure your rental properties meet legal safety standards."
+    },
+    {
+      "icon": "Shield",
+      "title": "Commercial Electrical Inspections",
+      "body": "Regular inspections to maintain workplace electrical safety."
+    }
+  ],
+  "palette": {
+    "primary": "#0d9488",
+    "primaryHover": "#0f766e",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are you NICEIC approved?",
+      "a": "Yes \u2014 all our testers are NICEIC approved and fully insured."
+    },
+    {
+      "q": "Can you provide EICR reports for my business?",
+      "a": "Absolutely. We issue comprehensive EICR certificates for commercial properties."
+    },
+    {
+      "q": "Do you offer emergency call-outs?",
+      "a": "Yes \u2014 we respond to electrical emergencies 24/7."
+    },
+    {
+      "q": "How do I get a quote?",
+      "a": "Call us or fill in our contact form \u2014 we'll get back to you within the hour."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "landscaper",
+  "displayName": "Landscaper",
+  "plural": "Landscapers",
+  "heroTagline": "Transform Your Garden",
+  "ctaLabel": "Get a Free Quote",
+  "trustBadges": [
+    "Garden Design Guild Member",
+    "Fully Insured",
+    "Certified Arborist"
+  ],
+  "services": [
+    {
+      "icon": "Trees",
+      "title": "Tree Pruning & Removal",
+      "body": "Professional tree care services for health and safety."
+    },
+    {
+      "icon": "Shovel",
+      "title": "Garden Design & Build",
+      "body": "Custom garden designs to suit your space and style."
+    },
+    {
+      "icon": "Droplets",
+      "title": "Irrigation Systems",
+      "body": "Efficient watering solutions for all types of gardens."
+    },
+    {
+      "icon": "Leaf",
+      "title": "Seasonal Maintenance",
+      "body": "Regular garden upkeep to keep your outdoor space looking its best."
+    },
+    {
+      "icon": "Hammer",
+      "title": "Deck & Patio Installation",
+      "body": "Create an inviting outdoor living area with our deck and patio services."
+    },
+    {
+      "icon": "Car",
+      "title": "Garden Waste Removal",
+      "body": "Efficient removal of garden waste, including large items like trees and stumps."
+    }
+  ],
+  "palette": {
+    "primary": "#16a34a",
+    "primaryHover": "#0f766e",
+    "secondary": "#2563eb"
+  },
+  "faqs": [
+    {
+      "q": "Do you offer garden design services?",
+      "a": "Yes, we provide custom garden designs tailored to your needs and space."
+    },
+    {
+      "q": "How do I get a quote for landscaping work?",
+      "a": "Simply fill out our contact form or give us a call \u2014 we'll respond promptly with an estimate."
+    },
+    {
+      "q": "Are you insured?",
+      "a": "Absolutely, all our team members are fully insured to protect your property and peace of mind."
+    },
+    {
+      "q": "Do you handle tree removal?",
+      "a": "Yes \u2014 we offer professional tree pruning and removal services with safety as our top priority."
+    }
+  ]
+}

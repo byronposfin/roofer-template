@@ -1,0 +1,67 @@
+{
+  "id": "accountant",
+  "displayName": "Accountant",
+  "plural": "Accountants",
+  "heroTagline": "Local Tax Experts",
+  "ctaLabel": "Get a Free Consultation",
+  "trustBadges": [
+    "Chartered Accountant",
+    "Fellow of ACCA",
+    "Member of ICAEW"
+  ],
+  "services": [
+    {
+      "icon": "Settings",
+      "title": "Tax Planning",
+      "body": "Strategic tax planning for individuals and businesses"
+    },
+    {
+      "icon": "Droplets",
+      "title": "Bookkeeping Services",
+      "body": "Accurate bookkeeping to keep your finances in order"
+    },
+    {
+      "icon": "Shield",
+      "title": "Audit & Assurance",
+      "body": "Professional audit services for compliance and assurance"
+    },
+    {
+      "icon": "Tool",
+      "title": "Payroll Management",
+      "body": "Efficient payroll processing to save you time and money"
+    },
+    {
+      "icon": "Eye",
+      "title": "Financial Reporting",
+      "body": "Clear financial statements for better business decisions"
+    },
+    {
+      "icon": "Key",
+      "title": "Business Advisory",
+      "body": "Expert advice to help your business grow and thrive"
+    }
+  ],
+  "palette": {
+    "primary": "#2563eb",
+    "primaryHover": "#1d4ed8",
+    "secondary": "#0f766e"
+  },
+  "faqs": [
+    {
+      "q": "Are you a Chartered Accountant?",
+      "a": "Yes, we are qualified and registered as Chartered Accountants."
+    },
+    {
+      "q": "Do you offer payroll services?",
+      "a": "Absolutely. We handle all aspects of payroll management for businesses."
+    },
+    {
+      "q": "Can I get a free consultation?",
+      "a": "Yes, we provide complimentary consultations to discuss your needs."
+    },
+    {
+      "q": "How do I schedule an appointment?",
+      "a": "You can call us or use our contact form on the website to book an appointment."
+    }
+  ]
+}

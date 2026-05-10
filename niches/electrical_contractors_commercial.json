@@ -1,0 +1,67 @@
+{
+  "id": "electrical_contractors_commercial",
+  "displayName": "Electrical Contractors (Commercial)",
+  "plural": "Electrical Contractors (Commercial)s",
+  "heroTagline": "Expert commercial electricians",
+  "ctaLabel": "Get a Free Quote",
+  "trustBadges": [
+    "NICEIC Approved",
+    "Part P Certified",
+    "ISO 9001:2015"
+  ],
+  "services": [
+    {
+      "icon": "PlugZap",
+      "title": "Commercial Rewires",
+      "body": "Complete rewiring solutions for businesses"
+    },
+    {
+      "icon": "Lightbulb",
+      "title": "Office Lighting",
+      "body": "Modern and energy-efficient lighting systems"
+    },
+    {
+      "icon": "ShieldCheck",
+      "title": "PAT Testing",
+      "body": "Portable appliance testing services for safety compliance"
+    },
+    {
+      "icon": "Zap",
+      "title": "Fire Alarm Systems",
+      "body": "Installation and maintenance of fire alarm systems"
+    },
+    {
+      "icon": "Car",
+      "title": "EV Charging Stations",
+      "body": "Professional installation for commercial EV charging points"
+    },
+    {
+      "icon": "Tool",
+      "title": "Data Cabling",
+      "body": "Structured cabling solutions for network infrastructure"
+    }
+  ],
+  "palette": {
+    "primary": "#0d9488",
+    "primaryHover": "#0f766e",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are you NICEIC approved?",
+      "a": "Yes \u2014 all our electricians are NICEIC approved contractors and fully insured."
+    },
+    {
+      "q": "Do you offer emergency services?",
+      "a": "Absolutely, we provide 24/7 emergency electrical services for commercial properties."
+    },
+    {
+      "q": "Can you handle large-scale projects?",
+      "a": "Yes \u2014 our team specializes in large and complex commercial electrical installations."
+    },
+    {
+      "q": "How do I get a quote?",
+      "a": "Contact us via phone or email, and we'll provide a detailed quote within 24 hours."
+    }
+  ]
+}

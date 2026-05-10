@@ -1,0 +1,67 @@
+{
+  "id": "rights_of_light_surveyors",
+  "displayName": "Rights Of Light Surveyors",
+  "plural": "Rights Of Light Surveyors",
+  "heroTagline": "Expert light surveys",
+  "ctaLabel": "Get a Free Quote",
+  "trustBadges": [
+    "RICS Registered",
+    "BS8233 Compliant",
+    "Local Authority Approved"
+  ],
+  "services": [
+    {
+      "icon": "Eye",
+      "title": "Rights of Light Assessment",
+      "body": "Comprehensive analysis for residential and commercial properties"
+    },
+    {
+      "icon": "ShieldCheck",
+      "title": "Legal Compliance Review",
+      "body": "Ensure your project meets all legal requirements"
+    },
+    {
+      "icon": "Tool",
+      "title": "Shadow Diagrams",
+      "body": "Detailed diagrams to illustrate light obstruction"
+    },
+    {
+      "icon": "Search",
+      "title": "Historical Research",
+      "body": "In-depth research into historical rights of light"
+    },
+    {
+      "icon": "Lightbulb",
+      "title": "Daylight Modelling",
+      "body": "Advanced daylight simulations for new developments"
+    },
+    {
+      "icon": "Settings",
+      "title": "Consultation Services",
+      "body": "Expert advice on rights of light issues and solutions"
+    }
+  ],
+  "palette": {
+    "primary": "#0d9488",
+    "primaryHover": "#0f766e",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are you RICS registered?",
+      "a": "Yes \u2014 all our surveyors are RICS registered professionals."
+    },
+    {
+      "q": "What is a Rights of Light Assessment?",
+      "a": "It's an evaluation to determine if new developments will affect existing rights of light."
+    },
+    {
+      "q": "Do you provide legal advice?",
+      "a": "We offer expert consultation but recommend consulting with a solicitor for legal advice."
+    },
+    {
+      "q": "How long does the assessment take?",
+      "a": "Typically 2-4 weeks, depending on project complexity and scope."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "skip_hire",
+  "displayName": "Skip Hire Company",
+  "plural": "Skip Hire Companies",
+  "heroTagline": "Local Waste Solutions",
+  "ctaLabel": "Book Your Skip Today",
+  "trustBadges": [
+    "Waste Carriers Registered",
+    "Environment Agency Approved",
+    "Fully Insured"
+  ],
+  "services": [
+    {
+      "icon": "Truck",
+      "title": "Domestic Waste Removal",
+      "body": "Suitable for household clearances and renovations."
+    },
+    {
+      "icon": "Shovel",
+      "title": "Construction Site Clearing",
+      "body": "Efficient waste management solutions for building sites."
+    },
+    {
+      "icon": "Trees",
+      "title": "Garden Waste Collection",
+      "body": "Specialized skips for garden debris and green waste."
+    },
+    {
+      "icon": "Hammer",
+      "title": "Demolition Debris Disposal",
+      "body": "Handling large volumes of demolition waste safely."
+    },
+    {
+      "icon": "PlugZap",
+      "title": "Recycling Services",
+      "body": "We recycle up to 90% of the waste we collect."
+    },
+    {
+      "icon": "Droplets",
+      "title": "Asbestos Removal",
+      "body": "Professional and safe asbestos disposal services."
+    }
+  ],
+  "palette": {
+    "primary": "#2563eb",
+    "primaryHover": "#1d4ed8",
+    "secondary": "#0f766e"
+  },
+  "faqs": [
+    {
+      "q": "Are you registered waste carriers?",
+      "a": "Yes, we are fully registered with the Environment Agency."
+    },
+    {
+      "q": "Do you offer recycling services?",
+      "a": "Absolutely. We ensure up to 90% of collected waste is recycled."
+    },
+    {
+      "q": "How do I book a skip?",
+      "a": "You can book online or call us directly for immediate assistance."
+    },
+    {
+      "q": "What types of skips do you offer?",
+      "a": "We provide various sizes and specialized skips for different needs, including domestic, construction, and garden waste."
+    }
+  ]
+}

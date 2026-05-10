@@ -1,0 +1,67 @@
+{
+  "id": "rural_surveyors_land_agents",
+  "displayName": "Rural Surveyors & Land Agents",
+  "plural": "Rural Surveyors & Land Agents",
+  "heroTagline": "Expert rural land solutions",
+  "ctaLabel": "Contact Us Today",
+  "trustBadges": [
+    "RICS Registered",
+    "Agricultural Valuers Association Member",
+    "Land Registry Certified"
+  ],
+  "services": [
+    {
+      "icon": "Trees",
+      "title": "Agricultural Valuations",
+      "body": "Accurate valuations for farming and rural land."
+    },
+    {
+      "icon": "Shovel",
+      "title": "Land Management Advice",
+      "body": "Strategic advice on land use and management."
+    },
+    {
+      "icon": "Leaf",
+      "title": "Environmental Assessments",
+      "body": "Comprehensive environmental impact assessments."
+    },
+    {
+      "icon": "Car",
+      "title": "Farm Machinery Sales & Leasing",
+      "body": "Buying, selling and leasing farm machinery."
+    },
+    {
+      "icon": "Hammer",
+      "title": "Property Development Consultancy",
+      "body": "Expert consultancy for rural property development projects."
+    },
+    {
+      "icon": "Search",
+      "title": "Title Deeds & Land Registry Services",
+      "body": "Professional land registry services and title deed searches."
+    }
+  ],
+  "palette": {
+    "primary": "#2563eb",
+    "primaryHover": "#1d4ed8",
+    "secondary": "#0f766e"
+  },
+  "faqs": [
+    {
+      "q": "Are you RICS registered?",
+      "a": "Yes, all our surveyors are fully RICS registered."
+    },
+    {
+      "q": "Do you offer environmental assessments?",
+      "a": "Absolutely. We provide detailed environmental impact assessments for rural properties and land."
+    },
+    {
+      "q": "Can you assist with farm machinery sales?",
+      "a": "Yes, we handle the buying, selling, and leasing of farm machinery."
+    },
+    {
+      "q": "How do I get in touch?",
+      "a": "You can call us or fill out our contact form on the website \u2014 we'll respond promptly."
+    }
+  ]
+}

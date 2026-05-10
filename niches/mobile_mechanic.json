@@ -1,0 +1,67 @@
+{
+  "id": "mobile_mechanic",
+  "displayName": "Mobile Mechanic",
+  "plural": "Mobile Mechanics",
+  "heroTagline": "Local Car Repair Experts",
+  "ctaLabel": "Get a Free Quote",
+  "trustBadges": [
+    "Fully Qualified Technicians",
+    "AA Approved Partner",
+    "24/7 Emergency Service"
+  ],
+  "services": [
+    {
+      "icon": "Car",
+      "title": "On-Site Repairs",
+      "body": "Engine, transmission and brake repairs at your location."
+    },
+    {
+      "icon": "Tool",
+      "title": "Diagnostic Services",
+      "body": "Advanced diagnostics for quick problem resolution."
+    },
+    {
+      "icon": "Wrench",
+      "title": "Oil Changes",
+      "body": "Quick oil changes with high-quality products."
+    },
+    {
+      "icon": "PlugZap",
+      "title": "Battery Services",
+      "body": "Installation, testing and battery replacements."
+    },
+    {
+      "icon": "Hammer",
+      "title": "Wheel Alignment",
+      "body": "Precision alignment for better handling and safety."
+    },
+    {
+      "icon": "Droplets",
+      "title": "Coolant Flushes",
+      "body": "Prevent overheating with regular coolant maintenance."
+    }
+  ],
+  "palette": {
+    "primary": "#0d9488",
+    "primaryHover": "#0f766e",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Do you offer emergency roadside assistance?",
+      "a": "Yes, we provide 24/7 emergency services for breakdowns."
+    },
+    {
+      "q": "Can you come to my home or office?",
+      "a": "Absolutely \u2014 our mechanics can visit any location in the UK."
+    },
+    {
+      "q": "What payment methods do you accept?",
+      "a": "We accept cash, card payments and most major credit cards."
+    },
+    {
+      "q": "How long does a typical service take?",
+      "a": "Service times vary by job. We'll provide an estimate during your free quote."
+    }
+  ]
+}

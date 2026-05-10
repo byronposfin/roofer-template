@@ -1,0 +1,67 @@
+{
+  "id": "veterinary_practice_acquisition_advisers",
+  "displayName": "Veterinary Practice Acquisition Advisers",
+  "plural": "Veterinary Practice Acquisition Advisers",
+  "heroTagline": "Expert local advisers",
+  "ctaLabel": "Consult Today",
+  "trustBadges": [
+    "RCVS Registered",
+    "Chartered Accountants",
+    "Legal Compliance"
+  ],
+  "services": [
+    {
+      "icon": "Stethoscope",
+      "title": "Practice Valuation",
+      "body": "Accurate valuation of veterinary practices for sale or purchase."
+    },
+    {
+      "icon": "Dog",
+      "title": "Due Diligence",
+      "body": "Comprehensive due diligence services to ensure a smooth transaction."
+    },
+    {
+      "icon": "Cat",
+      "title": "Legal Support",
+      "body": "Expert legal advice for acquisition and sale processes."
+    },
+    {
+      "icon": "Shield",
+      "title": "Financial Audits",
+      "body": "Detailed financial audits to uncover potential risks."
+    },
+    {
+      "icon": "Settings",
+      "title": "Regulatory Compliance",
+      "body": "Ensuring compliance with RCVS and other regulatory bodies."
+    },
+    {
+      "icon": "Search",
+      "title": "Market Research",
+      "body": "In-depth market research to identify acquisition opportunities."
+    }
+  ],
+  "palette": {
+    "primary": "#2563eb",
+    "primaryHover": "#1d4ed8",
+    "secondary": "#0f766e"
+  },
+  "faqs": [
+    {
+      "q": "Are you RCVS registered?",
+      "a": "Yes, all our advisers are RCVS registered and fully compliant."
+    },
+    {
+      "q": "Do you offer legal support?",
+      "a": "Absolutely. We provide expert legal advice for acquisition processes."
+    },
+    {
+      "q": "How do I get started with a consultation?",
+      "a": "Simply fill in our contact form or call us to schedule your consultation."
+    },
+    {
+      "q": "What services do you offer?",
+      "a": "We provide practice valuation, due diligence, legal support, financial audits, regulatory compliance checks, and market research."
+    }
+  ]
+}

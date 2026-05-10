@@ -1,0 +1,67 @@
+{
+  "id": "pest_controller",
+  "displayName": "Pest Controller",
+  "plural": "Pest Controllers",
+  "heroTagline": "Local Pest Control Experts",
+  "ctaLabel": "Get a Free Quote",
+  "trustBadges": [
+    "BPCA Member",
+    "Fully Insured",
+    "Environmentally Friendly"
+  ],
+  "services": [
+    {
+      "icon": "Bug",
+      "title": "Rat & Mouse Control",
+      "body": "Effective solutions for rodent infestations"
+    },
+    {
+      "icon": "Leaf",
+      "title": "Flea Treatment",
+      "body": "Safe and thorough flea extermination services"
+    },
+    {
+      "icon": "Droplets",
+      "title": "Ant Removal",
+      "body": "Professional ant control for homes and businesses"
+    },
+    {
+      "icon": "Hammer",
+      "title": "Bed Bug Eradication",
+      "body": "Specialized bed bug treatments to ensure your home is pest-free"
+    },
+    {
+      "icon": "Shield",
+      "title": "Preventative Maintenance",
+      "body": "Regular inspections and treatments to keep pests away"
+    },
+    {
+      "icon": "Tool",
+      "title": "Wildlife Management",
+      "body": "Safe removal of wildlife from your property"
+    }
+  ],
+  "palette": {
+    "primary": "#0d9488",
+    "primaryHover": "#0f766e",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are you BPCA members?",
+      "a": "Yes \u2014 we are certified members of the British Pest Control Association."
+    },
+    {
+      "q": "Do you use environmentally friendly methods?",
+      "a": "Absolutely, our treatments are designed to be safe for both your family and the environment."
+    },
+    {
+      "q": "Can you provide emergency services?",
+      "a": "Yes \u2014 we offer 24/7 emergency pest control services."
+    },
+    {
+      "q": "How do I schedule a service?",
+      "a": "Simply call us or fill out our contact form, and we'll arrange a convenient time for your visit."
+    }
+  ]
+}

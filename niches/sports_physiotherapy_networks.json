@@ -1,0 +1,67 @@
+{
+  "id": "sports_physiotherapy_networks",
+  "displayName": "Sports Physiotherapy Networks",
+  "plural": "Sports Physiotherapy Networks",
+  "heroTagline": "Local Expert Care",
+  "ctaLabel": "Book Your Session",
+  "trustBadges": [
+    "HCPC Registered",
+    "Chartered Society Member",
+    "ISO Certified"
+  ],
+  "services": [
+    {
+      "icon": "Dumbbell",
+      "title": "Sports Injury Treatment",
+      "body": "Specialized care for sports-related injuries."
+    },
+    {
+      "icon": "Stethoscope",
+      "title": "Rehabilitation Programs",
+      "body": "Tailored programs to aid recovery and prevent re-injury."
+    },
+    {
+      "icon": "Heart",
+      "title": "Performance Enhancement",
+      "body": "Boost your performance with our expert advice."
+    },
+    {
+      "icon": "Shield",
+      "title": "Preventive Care",
+      "body": "Regular check-ups to maintain peak physical condition."
+    },
+    {
+      "icon": "Clock",
+      "title": "Quick Appointments",
+      "body": "Same-day appointments available for urgent cases."
+    },
+    {
+      "icon": "Tool",
+      "title": "Customized Therapy Plans",
+      "body": "Personalized treatment plans based on your needs."
+    }
+  ],
+  "palette": {
+    "primary": "#7c3aed",
+    "primaryHover": "#642e9a",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are you HCPC registered?",
+      "a": "Yes, all our physiotherapists are HCPC registered."
+    },
+    {
+      "q": "Do you offer same-day appointments?",
+      "a": "Yes, we provide quick access to care for urgent cases."
+    },
+    {
+      "q": "Can I get a performance enhancement plan?",
+      "a": "Absolutely. We specialize in boosting your athletic performance."
+    },
+    {
+      "q": "How do I book an appointment?",
+      "a": "You can call us or use our online booking form to schedule a session."
+    }
+  ]
+}

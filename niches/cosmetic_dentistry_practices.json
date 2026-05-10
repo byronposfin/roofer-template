@@ -1,0 +1,67 @@
+{
+  "id": "cosmetic_dentistry_practices",
+  "displayName": "Cosmetic Dentistry Practices",
+  "plural": "Cosmetic Dentistry Practices",
+  "heroTagline": "Transform Your Smile",
+  "ctaLabel": "Book a Consultation",
+  "trustBadges": [
+    "GDC Registered",
+    "BDA Member",
+    "Infection Control Certified"
+  ],
+  "services": [
+    {
+      "icon": "Smile",
+      "title": "Teeth Whitening",
+      "body": "Professional whitening treatments for a brighter smile."
+    },
+    {
+      "icon": "Droplets",
+      "title": "Veneers",
+      "body": "Custom-made veneers to improve the appearance of your teeth."
+    },
+    {
+      "icon": "Hammer",
+      "title": "Crowns & Bridges",
+      "body": "Restorative treatments for damaged or missing teeth."
+    },
+    {
+      "icon": "Shield",
+      "title": "Implants",
+      "body": "Dental implants to replace missing teeth permanently."
+    },
+    {
+      "icon": "Eye",
+      "title": "Orthodontics",
+      "body": "Straighten your teeth with braces or Invisalign."
+    },
+    {
+      "icon": "Clock",
+      "title": "Emergency Care",
+      "body": "Immediate treatment for dental emergencies."
+    }
+  ],
+  "palette": {
+    "primary": "#7c3aed",
+    "primaryHover": "#642f9d",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are you GDC registered?",
+      "a": "Yes, all our dentists are fully registered with the General Dental Council."
+    },
+    {
+      "q": "Do you offer emergency dental care?",
+      "a": "Absolutely. We provide urgent treatment for dental emergencies."
+    },
+    {
+      "q": "What is your approach to infection control?",
+      "a": "We adhere strictly to high standards of infection control as certified by our latest accreditation."
+    },
+    {
+      "q": "How can I book an appointment?",
+      "a": "You can call us or use the online booking form on our website."
+    }
+  ]
+}

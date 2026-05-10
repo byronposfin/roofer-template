@@ -1,0 +1,67 @@
+{
+  "id": "interior_designers_residential",
+  "displayName": "Interior Designers (Residential)",
+  "plural": "Interior Designers (Residential)s",
+  "heroTagline": "Transform Your Home",
+  "ctaLabel": "Schedule a Consultation",
+  "trustBadges": [
+    "FED Registered",
+    "Fully Insured",
+    "Client Satisfaction Guarantee"
+  ],
+  "services": [
+    {
+      "icon": "PaintBucket",
+      "title": "Color Consultations",
+      "body": "Expert advice on color schemes and paint selection."
+    },
+    {
+      "icon": "Hammer",
+      "title": "Remodeling Services",
+      "body": "Kitchen, bathroom, and room renovations."
+    },
+    {
+      "icon": "Lightbulb",
+      "title": "Lighting Design",
+      "body": "Custom lighting plans to enhance your space."
+    },
+    {
+      "icon": "Flame",
+      "title": "Fireplace Installation",
+      "body": "Modern and traditional fireplace installations."
+    },
+    {
+      "icon": "Trees",
+      "title": "Sustainable Design",
+      "body": "Eco-friendly materials and energy-efficient solutions."
+    },
+    {
+      "icon": "Tool",
+      "title": "Furniture Selection",
+      "body": "Curated furniture choices to complement your design."
+    }
+  ],
+  "palette": {
+    "primary": "#0d9488",
+    "primaryHover": "#0f766e",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Do you offer virtual consultations?",
+      "a": "Yes, we provide both in-person and virtual consultation services."
+    },
+    {
+      "q": "What is your design process?",
+      "a": "Our process includes initial consultation, design development, project management, and final installation."
+    },
+    {
+      "q": "How do I get a quote?",
+      "a": "You can request a quote by contacting us through our website or calling directly."
+    },
+    {
+      "q": "Do you work with architects?",
+      "a": "Absolutely, we collaborate closely with architects to ensure seamless integration of design elements."
+    }
+  ]
+}

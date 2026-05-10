@@ -1,0 +1,67 @@
+{
+  "id": "car_garage",
+  "displayName": "Car Garage",
+  "plural": "Car Garages",
+  "heroTagline": "Local Auto Experts",
+  "ctaLabel": "Book Your Service Now",
+  "trustBadges": [
+    "ASE Certified Technicians",
+    "Fully Licensed & Insured",
+    "Member of AA"
+  ],
+  "services": [
+    {
+      "icon": "Tool",
+      "title": "Oil Changes",
+      "body": "Quick and efficient oil changes for all makes and models."
+    },
+    {
+      "icon": "Car",
+      "title": "Brake Repairs",
+      "body": "Professional brake service, inspection, and repair."
+    },
+    {
+      "icon": "Lightbulb",
+      "title": "Headlight Restoration",
+      "body": "Restore your headlights to like-new condition."
+    },
+    {
+      "icon": "Hammer",
+      "title": "Body Repairs",
+      "body": "Minor dents and scratches fixed with expert care."
+    },
+    {
+      "icon": "ShieldCheck",
+      "title": "Pre-Purchase Inspections",
+      "body": "Comprehensive vehicle inspections before buying."
+    },
+    {
+      "icon": "PlugZap",
+      "title": "Battery Replacement",
+      "body": "High-quality battery installation and disposal."
+    }
+  ],
+  "palette": {
+    "primary": "#0d9488",
+    "primaryHover": "#0f766e",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Do you offer mobile services?",
+      "a": "Yes, we provide on-site vehicle diagnostics and minor repairs."
+    },
+    {
+      "q": "Can I book online?",
+      "a": "Absolutely. Use our website to schedule your next service appointment."
+    },
+    {
+      "q": "What is the turnaround time for repairs?",
+      "a": "Most services are completed within 24 hours, with urgent cases prioritized."
+    },
+    {
+      "q": "Do you offer towing services?",
+      "a": "Yes, we provide emergency roadside assistance and tow your vehicle to our garage."
+    }
+  ]
+}

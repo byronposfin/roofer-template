@@ -1,0 +1,67 @@
+{
+  "id": "carpenter_joiner",
+  "displayName": "Carpenter & Joiner",
+  "plural": "Carpenters",
+  "heroTagline": "Expert local craftsmanship",
+  "ctaLabel": "Get a Free Quote",
+  "trustBadges": [
+    "FSC Certified",
+    "Guild of Master Craftsmen Member",
+    "Fully Insured"
+  ],
+  "services": [
+    {
+      "icon": "Hammer",
+      "title": "Custom Furniture Making",
+      "body": "Handcrafted tables, chairs and cabinets"
+    },
+    {
+      "icon": "Tool",
+      "title": "Flooring Installation",
+      "body": "Solid wood, engineered and laminate flooring"
+    },
+    {
+      "icon": "PaintBucket",
+      "title": "Wood Finishing & Staining",
+      "body": "Professional finishing services for all types of wood"
+    },
+    {
+      "icon": "Shovel",
+      "title": "Deck Building & Repair",
+      "body": "Custom decks and outdoor living spaces"
+    },
+    {
+      "icon": "Trees",
+      "title": "Window & Door Installation",
+      "body": "Replacement windows, doors and frames"
+    },
+    {
+      "icon": "Droplets",
+      "title": "Kitchen Refurbishment",
+      "body": "Custom kitchen designs and installations"
+    }
+  ],
+  "palette": {
+    "primary": "#0d9488",
+    "primaryHover": "#0f766e",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Do you use FSC certified wood?",
+      "a": "Yes, we prioritize using FSC certified sustainable timber."
+    },
+    {
+      "q": "Can you provide a quote for kitchen refurbishment?",
+      "a": "Certainly. We offer free quotes and detailed project plans."
+    },
+    {
+      "q": "How long does it take to complete a custom furniture piece?",
+      "a": "Typically 2-4 weeks, depending on the complexity of the design."
+    },
+    {
+      "q": "Do you work with homeowners directly?",
+      "a": "Yes \u2014 we provide direct services for residential projects."
+    }
+  ]
+}

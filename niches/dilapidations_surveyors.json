@@ -1,0 +1,67 @@
+{
+  "id": "dilapidations_surveyors",
+  "displayName": "Dilapidations Surveyors",
+  "plural": "Dilapidations Surveyors",
+  "heroTagline": "Expert Damage Assessments",
+  "ctaLabel": "Get a Free Quote",
+  "trustBadges": [
+    "RICS Registered",
+    "Chartered Surveyors",
+    "Professional Indemnity Insured"
+  ],
+  "services": [
+    {
+      "icon": "Eye",
+      "title": "Pre-Tenancy Surveys",
+      "body": "Detailed condition reports before lease commencement"
+    },
+    {
+      "icon": "Tool",
+      "title": "Post-Tenancy Assessments",
+      "body": "Comprehensive damage evaluations at lease end"
+    },
+    {
+      "icon": "ShieldCheck",
+      "title": "Dispute Resolution",
+      "body": "Mediation and negotiation for leasehold disputes"
+    },
+    {
+      "icon": "Droplets",
+      "title": "Water Damage Reports",
+      "body": "Specialized assessments of water-related damage"
+    },
+    {
+      "icon": "Hammer",
+      "title": "Repair Cost Estimations",
+      "body": "Accurate costings for necessary repairs and restorations"
+    },
+    {
+      "icon": "Settings",
+      "title": "Compliance Audits",
+      "body": "Ensuring adherence to lease conditions and legal requirements"
+    }
+  ],
+  "palette": {
+    "primary": "#0d9488",
+    "primaryHover": "#0f766e",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are you RICS registered?",
+      "a": "Yes, all our surveyors are fully RICS registered and insured."
+    },
+    {
+      "q": "What is a pre-tenancy survey?",
+      "a": "A pre-tenancy survey documents the condition of property before tenancy to establish baseline for future assessments."
+    },
+    {
+      "q": "Can you help with lease disputes?",
+      "a": "Absolutely, we offer mediation and negotiation services for resolving leasehold disputes."
+    },
+    {
+      "q": "How do I schedule a survey?",
+      "a": "Contact us via phone or our website \u2014 we'll arrange a convenient time for your assessment."
+    }
+  ]
+}

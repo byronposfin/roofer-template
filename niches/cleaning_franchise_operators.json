@@ -1,0 +1,67 @@
+{
+  "id": "cleaning_franchise_operators",
+  "displayName": "Cleaning Franchise Operators",
+  "plural": "Cleaning Franchise Operators",
+  "heroTagline": "Professional Local Cleaners",
+  "ctaLabel": "Get a Free Quote",
+  "trustBadges": [
+    "BPCA Accredited",
+    "Fully Insured",
+    "Green Cleaning"
+  ],
+  "services": [
+    {
+      "icon": "Droplets",
+      "title": "Deep Cleaning Services",
+      "body": "Comprehensive cleaning for homes and offices"
+    },
+    {
+      "icon": "Bath",
+      "title": "Bathroom Cleaning",
+      "body": "Specialized bathroom cleaning solutions"
+    },
+    {
+      "icon": "Hammer",
+      "title": "Window Cleaning",
+      "body": "Professional window cleaning services"
+    },
+    {
+      "icon": "Trees",
+      "title": "Eco-Friendly Solutions",
+      "body": "Using green products for a healthier environment"
+    },
+    {
+      "icon": "Shield",
+      "title": "Disinfection Services",
+      "body": "Advanced disinfection to keep you safe"
+    },
+    {
+      "icon": "Truck",
+      "title": "Move-In/Out Cleaning",
+      "body": "Thorough cleaning for new tenants or vacating properties"
+    }
+  ],
+  "palette": {
+    "primary": "#16a34a",
+    "primaryHover": "#0f766e",
+    "secondary": "#2563eb"
+  },
+  "faqs": [
+    {
+      "q": "Are you BPCA accredited?",
+      "a": "Yes, all our franchise operators are BPCA accredited for professional cleaning."
+    },
+    {
+      "q": "Do you use eco-friendly products?",
+      "a": "Absolutely. We prioritize green cleaning solutions to protect the environment."
+    },
+    {
+      "q": "Can I schedule a one-time clean?",
+      "a": "Yes, we offer flexible scheduling for both regular and one-time cleaning services."
+    },
+    {
+      "q": "How do I book your service?",
+      "a": "You can call us or fill out our online form to get started with a free quote."
+    }
+  ]
+}

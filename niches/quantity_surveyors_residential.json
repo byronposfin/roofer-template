@@ -1,0 +1,67 @@
+{
+  "id": "quantity_surveyors_residential",
+  "displayName": "Quantity Surveyors (Residential)",
+  "plural": "Quantity Surveyors (Residential)s",
+  "heroTagline": "Expert Residential Costing",
+  "ctaLabel": "Get a Free Quote",
+  "trustBadges": [
+    "RICS Registered",
+    "Chartered Quantity Surveyors",
+    "ISO 9001 Certified"
+  ],
+  "services": [
+    {
+      "icon": "Tool",
+      "title": "Cost Estimation",
+      "body": "Accurate cost estimates for residential projects"
+    },
+    {
+      "icon": "Hammer",
+      "title": "Construction Cost Management",
+      "body": "Effective management of construction costs"
+    },
+    {
+      "icon": "Droplets",
+      "title": "Value Engineering",
+      "body": "Optimizing project value without compromising quality"
+    },
+    {
+      "icon": "Shield",
+      "title": "Risk Management",
+      "body": "Identifying and mitigating financial risks in projects"
+    },
+    {
+      "icon": "Search",
+      "title": "Contract Administration",
+      "body": "Managing contracts to ensure compliance and quality"
+    },
+    {
+      "icon": "Settings",
+      "title": "Project Cost Reporting",
+      "body": "Detailed cost reports for project stakeholders"
+    }
+  ],
+  "palette": {
+    "primary": "#0d9488",
+    "primaryHover": "#0f766e",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are you RICS registered?",
+      "a": "Yes, all our Quantity Surveyors are RICS registered professionals."
+    },
+    {
+      "q": "What services do you offer for residential projects?",
+      "a": "We provide cost estimation, construction cost management, value engineering, risk management, contract administration and project cost reporting."
+    },
+    {
+      "q": "How can I get a quote?",
+      "a": "You can contact us via phone or our website to request a free quote for your residential project."
+    },
+    {
+      "q": "Do you offer services outside the UK?",
+      "a": "Currently, we focus on projects within the UK. For international projects, please inquire about our capabilities."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "building_surveyors_independent",
+  "displayName": "Building Surveyors (Independent)",
+  "plural": "Building Surveyors (Independent)s",
+  "heroTagline": "Expert Local Surveyors",
+  "ctaLabel": "Request a Survey",
+  "trustBadges": [
+    "RICS Registered",
+    "Chartered Surveyor",
+    "Local Authority Approved"
+  ],
+  "services": [
+    {
+      "icon": "Eye",
+      "title": "Building Surveys",
+      "body": "Comprehensive property condition reports"
+    },
+    {
+      "icon": "Tool",
+      "title": "Structural Assessments",
+      "body": "Detailed analysis of structural integrity"
+    },
+    {
+      "icon": "Hammer",
+      "title": "Party Wall Advice",
+      "body": "Guidance on party wall acts and agreements"
+    },
+    {
+      "icon": "Shield",
+      "title": "Insurance Assessments",
+      "body": "Accurate valuations for insurance purposes"
+    },
+    {
+      "icon": "Search",
+      "title": "Property Valuations",
+      "body": "Professional valuation services for buyers and sellers"
+    },
+    {
+      "icon": "Droplets",
+      "title": "Moisture Surveys",
+      "body": "Detection of dampness and moisture issues"
+    }
+  ],
+  "palette": {
+    "primary": "#0d9488",
+    "primaryHover": "#0f766e",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {
+      "q": "Are you RICS registered?",
+      "a": "Yes \u2014 all our surveyors are fully RICS registered."
+    },
+    {
+      "q": "Do you provide party wall advice?",
+      "a": "Absolutely. We offer comprehensive guidance on party walls and agreements."
+    },
+    {
+      "q": "Can you conduct insurance assessments?",
+      "a": "Yes \u2014 we perform accurate valuations for insurance purposes."
+    },
+    {
+      "q": "How do I request a survey?",
+      "a": "Contact us via phone or our website to schedule your property survey."
+    }
+  ]
+}
