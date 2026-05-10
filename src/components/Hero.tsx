@@ -1,4 +1,5 @@
 import { Phone, ShieldCheck, BadgeCheck, Clock } from 'lucide-react';
+import nicheConfig from '../niche.config';
 
 export default function Hero() {
   return (
@@ -10,7 +11,7 @@ export default function Hero() {
 
       <div className="relative max-w-content mx-auto px-4 sm:px-6 lg:px-8 py-20 sm:py-28">
         <p className="text-teal text-sm font-semibold uppercase tracking-wider mb-4">
-          Trusted {`{{NICHE_PLURAL}}`} in {`{{BUSINESS_CITY}}`}
+          {nicheConfig.heroTagline} in {`{{BUSINESS_CITY}}`}
         </p>
 
         <h1 className="text-4xl sm:text-5xl lg:text-6xl font-extrabold leading-tight tracking-tight text-balance max-w-4xl mb-6">
@@ -33,19 +34,17 @@ export default function Hero() {
             href="#contact"
             className="inline-flex items-center justify-center bg-transparent border-2 border-white/30 hover:bg-white/10 text-white px-6 py-3.5 rounded-xl font-semibold text-base transition"
           >
-            Get a Free Quote
+            {nicheConfig.ctaLabel}
           </a>
         </div>
 
         <div className="flex flex-wrap items-center gap-x-8 gap-y-3 text-sm text-white/70">
-          <div className="flex items-center gap-2">
-            <ShieldCheck className="w-4 h-4 text-teal" />
-            <span>Gas Safe Registered</span>
-          </div>
-          <div className="flex items-center gap-2">
-            <BadgeCheck className="w-4 h-4 text-teal" />
-            <span>Fully Insured</span>
-          </div>
+          {nicheConfig.trustBadges.map((badge) => (
+            <div key={badge} className="flex items-center gap-2">
+              <ShieldCheck className="w-4 h-4 text-teal" />
+              <span>{badge}</span>
+            </div>
+          ))}
           <div className="flex items-center gap-2">
             <Clock className="w-4 h-4 text-teal" />
             <span>{`{{YEARS_TRADING}}`}+ Years Experience</span>

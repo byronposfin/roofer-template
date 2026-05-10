@@ -1,0 +1,27 @@
+{
+  "id": "plumber",
+  "displayName": "Plumber",
+  "plural": "Plumbers",
+  "heroTagline": "Trusted plumbers",
+  "ctaLabel": "Get a Free Quote",
+  "trustBadges": ["Gas Safe Registered", "Fully Insured", "DBS Checked"],
+  "services": [
+    {"icon": "Siren",       "title": "Emergency Callouts",         "body": "24/7 response across your area, same-day where possible"},
+    {"icon": "Flame",       "title": "Boiler Repairs & Installation","body": "Gas Safe certified, all major brands serviced"},
+    {"icon": "Droplets",    "title": "Leak Detection",              "body": "Fast diagnosis, minimal disruption to your property"},
+    {"icon": "Bath",        "title": "Bathroom Installations",      "body": "Full fit-outs from design to final tiling"},
+    {"icon": "Waves",       "title": "Drain Unblocking",            "body": "High-pressure jetting, same-day service available"},
+    {"icon": "Thermometer", "title": "Central Heating",             "body": "Power flushing, radiator repairs, system upgrades"}
+  ],
+  "palette": {
+    "primary": "#0d9488",
+    "primaryHover": "#0f766e",
+    "secondary": "#1C184F"
+  },
+  "faqs": [
+    {"q": "Do you offer emergency call-outs?",          "a": "Yes — we operate 24/7 for burst pipes, leaks, and boiler failures."},
+    {"q": "Are you Gas Safe registered?",               "a": "Absolutely. All our engineers are Gas Safe registered and fully insured."},
+    {"q": "How quickly can you respond?",               "a": "For emergencies we aim to be with you within 2 hours. Routine jobs are usually next-day."},
+    {"q": "Do you provide a guarantee on your work?",   "a": "Yes — all work is guaranteed for 12 months, parts and labour."}
+  ]
+}
