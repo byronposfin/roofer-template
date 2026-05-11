@@ -3,6 +3,7 @@ import Hero from './components/Hero';
 import Services from './components/Services';
 import About from './components/About';
 import Reviews from './components/Reviews';
+import AgentTeaser from './components/AgentTeaser';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 import AIConciergeStub from './components/AIConciergeStub';
@@ -16,6 +17,7 @@ export default function App() {
         <Services />
         <About />
         <Reviews />
+        <AgentTeaser />
         <Contact />
       </main>
       <Footer />
